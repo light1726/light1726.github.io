@@ -41,14 +41,14 @@ LJ022-0112. and I assure my fellow citizens that no energy will be spared in usi
 
 | **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ015-0236.wav" controls preload></audio> |
+| <audio src="wavs\tacotron2\LJ022-0112.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ022-0112.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ022-0112.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ022-0112.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ022-0112.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
 LJ033-0194. The blanket in which the rifle was stored was composed of brown and green cotton, viscose and woolen fibers.
 
 | **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ015-0236.wav" controls preload></audio> |
+| <audio src="wavs\tacotron2\LJ033-0194.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ033-0194.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ033-0194.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ033-0194.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ033-0194.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
 
@@ -56,28 +56,28 @@ LJ039-0193. and a total minimum time period of from 7.1 to 7.9 seconds for all t
 
 | **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ015-0236.wav" controls preload></audio> |
+| <audio src="wavs\tacotron2\LJ039-0193.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ039-0193.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ039-0193.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ039-0193.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ039-0193.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
 LJ032-0117. He lifted the rifle by the wooden stock after his examination convinced him that the wood was too rough to take fingerprints.
 
 | **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ015-0236.wav" controls preload></audio> |
+| <audio src="wavs\tacotron2\LJ032-0117.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ032-0117.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ032-0117.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ032-0117.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ032-0117.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
 LJ027-0173. The caducibranch takes first the fish form, then the perennibranch form, and finally the caducibranch form, but goes no further.
 
 | **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ015-0236.wav" controls preload></audio> |
+| <audio src="wavs\tacotron2\LJ027-0173.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ027-0173.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ027-0173.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ027-0173.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ027-0173.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
 LJ047-0234. Hosty's initial reaction on hearing that Oswald was a suspect in the assassination, was, quote, shock
 
 | **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ015-0236.wav" controls preload></audio> |
+| <audio src="wavs\tacotron2\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ047-0234.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
 
