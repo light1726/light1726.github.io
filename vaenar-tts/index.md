@@ -66,11 +66,11 @@ LJ032-0117. He lifted the rifle by the wooden stock after his examination convin
 | <audio src="wavs\tacotron2\LJ032-0117.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ032-0117.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ032-0117.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ032-0117.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ032-0117.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
-LJ027-0173. The caducibranch takes first the fish form, then the perennibranch form, and finally the caducibranch form, but goes no further.
+LJ032-0073. purchased by mail-order coupon from Seaport-Traders, Inc., a mail-order division of George Rose and Co., Los Angeles.
 
 | **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ027-0173.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ027-0173.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ027-0173.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ027-0173.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ027-0173.wav" controls preload></audio> |
+| <audio src="wavs\tacotron2\LJ032-0073.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ032-0073.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ032-0073.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ032-0073.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ032-0073.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
 LJ047-0234. Hosty's initial reaction on hearing that Oswald was a suspect in the assassination, was, quote, shock
