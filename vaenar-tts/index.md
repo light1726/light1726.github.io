@@ -1,117 +1,81 @@
-# <center> VARA-TTS: Non-Autoregressive Text-to-Speech Synthesis based on Very Deep VAE with Residual Attention </center>
-
-<center> Anonymous submission </center>
+# <center> VAENAR-TTS: Variational Auto-Encoder based Non-AutoRegressive Text-to-Speech Synthesis </center>
 
 ## Abstract
-This paper proposes VARA-TTS, a non-autoregressive (non-AR) end-to-end text-to-speech (TTS) model using a very deep Variational Autoencoder (VDVAE) with Residual Attention mechanism, which refines the textual-to-acoustic alignment layer-wisely. Hierarchical latent variables with different temporal resolutions from the VDVAE are used as queries for the residual attention module. By leveraging the coarse global alignment from previous attention layer as an extra input, the following attention layer can produce a refined version of alignment. This amortizes the burden of learning the textual-to-acoustic alignment among multiple attention layers and outperforms the use of only a single attention layer in robustness. An utterance-level speaking speed factor is computed by a jointly-trained speaking speed predictor, which takes the mean-pooled latent variables of the coarsest layer as input, to determine number of acoustic frames at inference. Experimental results show that VARA-TTS achieves slightly inferior speech quality to an AR counterpart Tacotron 2 but an order-of-magnitude speed-up at inference; and outperforms an analogous non-AR model, BVAE-TTS, in terms of speech quality. 
+We describe a variational auto-encoder based non-autoregressive text-to-speech (VAENAR-TTS) model in this paper. Autoregressive TTS (AR-TTS) models based on the sequence-to-sequence architecture can generate high-quality speech. However, the sequentially decoding process of the AR-TTS models can be time-consuming. The recently proposed non-autoregressive TTS (NAR-TTS) are more efficient with parallel decoding process. However, these models rely on the phoneme-level duration to generate the hard alignment between the text and the spectrogram. The obtaining of the duration labels either through the force-alignment tool or knowledge distillation is cumbersome and the hard alignment based on phoneme expansion can hurt the naturalness of the synthesized speech. The proposed VAENAR-TTS is a more end-to-end NAR-TTS solution that does not require the phoneme-level duration labels. VAENAR-TTS consists of no recurrent structures and is completely NAR in both the training and inference phase. Based on the VAE architecture, the alignment information is encoded in the latent variable and the attention-based soft alignment between the text and the latent variable is used in the decoder to reconstruct the spectrogram. Experiments show that VAENAR-TTS achieves comparable synthesis quality with the state-of-the-art AR-TTS models while the synthesis speed is competitive to that of the NAR-TTS models.
 
 Source Codes will be released soon!  
 
-## Multi-speaker TTS (Chinese)
-
-Text: 他怎么也该留下一只让我尝尝才是呀!
-
-<audio src="wavs/zh/mig_feifei_820691.wav" controls preload></audio>
-
-Text: 我回家传照片去了,请你告诉我,凤琴的号码。
-
-<audio src="wavs/zh/tx_daji_000866.wav" controls preload></audio>
-
-Text: 李元芳大招清一波线。
-<audio src="wavs/zh/tx_guiniang_917000711.wav" controls preload></audio>
-
-
-Text: 据伦敦北区消防队的官员说,摩总统主张摩加入独联体。
-<audio src="wavs/zh/tx_daji_000591.wav" controls preload></audio>
-
-Text: 出租车里电台广告都有宣传广告,大厦财大气粗啊!
-<audio src="wavs/zh/mig_feifei_820258.wav" controls preload></audio>
-
-Text: 我在外面,随便吃点就好了。
-<audio src="wavs/zh/tx_daji_000906.wav" controls preload></audio>
-
-Text: 曹操还是有一技能三段位移的。
-<audio src="wavs/zh/tx_guiniang_917000739.wav" controls preload></audio>
-
-Text: 十年沧海,劈波斩浪。
-<audio src="wavs/zh/bb_fky_000364.wav" controls preload></audio>
-
-Text: 广东省政协常委陈缵光走进“蚁族”居所。
-<audio src="wavs/zh/bb_fky_000182.wav" controls preload></audio>
-
-Text: 在该超市的促销海报上,双汇肘花火腿”也赫然在列。
-<audio src="wavs/zh/bb_fky_000825.wav" controls preload></audio>
 
 ## Single-speaker TTS (English)
 
-Text: Once held by Hobson and Dewey, now carried by Mother Eddy and Brother Dowie.
+LJ007-0129. The sane and the insane, the young and the old, the trivial offender and the man about to suffer the extreme penalty of the law,
 
-| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- |
-| <audio src="wavs/en/taco2/121_121726_000025_000001.wav" controls preload></audio> | <audio src="wavs/en/bvae/121_121726_000025_000001.wav" controls preload></audio> | <audio src="wavs/en/vara/121_121726_000025_000001.wav" controls preload></audio> |
+| <audio src="wavs\tacotron2\LJ007-0129.wav" controls preload></audio> | <audio src="wavs/en/bvae/121_121726_000025_000001.wav" controls preload></audio> | <audio src="wavs/en/vara/121_121726_000025_000001.wav" controls preload></audio> |
 | --- | --- | --- |
 
-Text: If the child gives the effect another turn of the screw, what do you say to TWO children?
+LJ009-0046. But the attempt fails; he trembles, his knees knock together, and his head droops as he enters the condemned pew.
 
-| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- |
 | <audio src="wavs/en/taco2/121_127105_000008_000002.wav" controls preload></audio> | <audio src="wavs/en/bvae/121_127105_000008_000002.wav" controls preload></audio> | <audio src="wavs/en/vara/121_127105_000008_000002.wav" controls preload></audio> |
 | --- | --- | --- |
 
-Text: But Polly couldn't speak; and if Jasper hadn't caught her just in time, she would have tumbled over backward from the stool, Phronsie and all!
+LJ012-0201. Bishop confessed that he was moved to this by the example of Burke and Hare.
 
-| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- |
 | <audio src="wavs/en/taco2/237_126133_000023_000000.wav" controls preload></audio> | <audio src="wavs/en/bvae/237_126133_000023_000000.wav" controls preload></audio> | <audio src="wavs/en/vara/237_126133_000023_000000.wav" controls preload></audio> |
 | --- | --- | --- |
 
 
-Text: "But," I remarked, "since we have followed the road that Saknussemm has shown us."
+LJ015-0236. Burgess admitted him into the guard's van, where he fitted and filed the keys till they worked easily and satisfactorily in the locks of the safe.
 
-| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- |
 | <audio src="wavs/en/taco2/260_123286_000016_000000.wav" controls preload></audio> | <audio src="wavs/en/bvae/260_123286_000016_000000.wav" controls preload></audio> | <audio src="wavs/en/vara/260_123286_000016_000000.wav" controls preload></audio> |
 | --- | --- | --- |
 
-Text: Such is their ponderous weight that they cannot rise from the horizon; but, obeying an impulse from higher currents, their dense consistency slowly yields.
+LJ022-0112. and I assure my fellow citizens that no energy will be spared in using these funds effectively
 
-| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- |
 | <audio src="wavs/en/taco2/260_123288_000006_000002.wav" controls preload></audio> | <audio src="wavs/en/bvae/260_123288_000006_000002.wav" controls preload></audio> | <audio src="wavs/en/vara/260_123288_000006_000002.wav" controls preload></audio> |
 | --- | --- | --- |
 
-Text: We were on the edge of the Casanova churchyard.
+LJ033-0194. The blanket in which the rifle was stored was composed of brown and green cotton, viscose and woolen fibers.
 
-| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- |
 | <audio src="wavs/en/taco2/533_1066_000015_000004.wav" controls preload></audio> | <audio src="wavs/en/bvae/533_1066_000015_000004.wav" controls preload></audio> | <audio src="wavs/en/vara/533_1066_000015_000004.wav" controls preload></audio> |
 | --- | --- | --- |
 
 
-Text: O life of this our spring! why fades the lotus of the water? Why fade these children of the spring?
+LJ039-0193. and a total minimum time period of from 7.1 to 7.9 seconds for all three shots.
 
-| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- |
 | <audio src="wavs/en/taco2/908_157963_000010_000000.wav" controls preload></audio> | <audio src="wavs/en/bvae/908_157963_000010_000000.wav" controls preload></audio> | <audio src="wavs/en/vara/908_157963_000010_000000.wav" controls preload></audio> |
 | --- | --- | --- |
 
-Text: A ring of amethyst I could not wear here, plainer to my sight, Than that first kiss.
+LJ032-0117. He lifted the rifle by the wooden stock after his examination convinced him that the wood was too rough to take fingerprints.
 
-| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- |
 | <audio src="wavs/en/taco2/908_31957_000017_000001.wav" controls preload></audio> | <audio src="wavs/en/bvae/908_31957_000017_000001.wav" controls preload></audio> | <audio src="wavs/en/vara/908_31957_000017_000001.wav" controls preload></audio> |
 | --- | --- | --- |
 
-Text: For a full hour he had paced up and down, waiting: but he could wait no longer.
+LJ027-0173. The caducibranch takes first the fish form, then the perennibranch form, and finally the caducibranch form, but goes no further.
 
-| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- |
 | <audio src="wavs/en/taco2/1089_134691_000002_000002.wav" controls preload></audio> | <audio src="wavs/en/bvae/1089_134691_000002_000002.wav" controls preload></audio> | <audio src="wavs/en/vara/1089_134691_000002_000002.wav" controls preload></audio> |
 | --- | --- | --- |
 
-Text: For a long time he had wished to explore the beautiful Land of Oz in which they lived.
+LJ047-0234. Hosty's initial reaction on hearing that Oswald was a suspect in the assassination, was, quote, shock
 
-| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- |
 | <audio src="wavs/en/taco2/1284_1180_000006_000002.wav" controls preload></audio> | <audio src="wavs/en/bvae/1284_1180_000006_000002.wav" controls preload></audio> | <audio src="wavs/en/vara/1284_1180_000006_000002.wav" controls preload></audio> |
 | --- | --- | --- |
