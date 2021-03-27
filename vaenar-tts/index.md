@@ -81,7 +81,9 @@ LJ047-0234. Hosty's initial reaction on hearing that Oswald was a suspect in the
 | --- | --- | --- | --- | --- |
 
 ## Attention Alignemnt convergence speed of models with different reduction factor
-
+### Reduction factor = 3
 ![Reduction factor = 3](./images/R3.gif)
+### Reduction factor = 4
 ![Reduction factor = 4](./images/R4.gif)
+### Reduction factor = 5
 ![Reduction factor = 5](./images/R5.gif)
