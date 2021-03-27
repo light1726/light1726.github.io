@@ -80,4 +80,8 @@ LJ047-0234. Hosty's initial reaction on hearing that Oswald was a suspect in the
 | <audio src="wavs\tacotron2\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ047-0234.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
+## Attention Alignemnt convergence speed of models with different reduction factor
 
+![Reduction factor = 3](./images/R3.gif)
+![Reduction factor = 4](./images/R4.gif)
+![Reduction factor = 5](./images/R5.gif)
