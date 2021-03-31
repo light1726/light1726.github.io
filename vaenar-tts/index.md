@@ -15,7 +15,7 @@ Source Codes will be released soon!
 
 [Glow-TTS (official): https://github.com/jaywalnut310/glow-tts](https://github.com/jaywalnut310/glow-tts)
 
-## Single-speaker TTS (English)
+## LJSpeech Samples
 
 LJ003-0305. The provision of more baths was also suggested, and the daily sweeping out of the prison.
 
@@ -89,10 +89,13 @@ LJ047-0234. Hosty's initial reaction on hearing that Oswald was a suspect in the
 | <audio src="wavs\4.BVAE-TTS\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ047-0234.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
-## Attention Alignemnt convergence speed of models with different reduction factor
+## Attention Alignemnt convergence dynamics
+
 ### Reduction factor = 3
 ![Reduction factor = 3](./images/R3.gif)
+
 ### Reduction factor = 4
 ![Reduction factor = 4](./images/R4.gif)
+
 ### Reduction factor = 5
 ![Reduction factor = 5](./images/R5.gif)
