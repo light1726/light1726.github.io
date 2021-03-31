@@ -3,6 +3,8 @@
 
 @import 'jekyll-theme-cayman';
 
-audio {
+audio:hover {
     width: 130px;
+	transform: scale(1.1);
+	filter: drop-shadow(2px 3px 3px #333);
 }
