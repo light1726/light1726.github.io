@@ -7,13 +7,13 @@ Source Codes will be released soon!
 
 ## Implementations of the compared models
 
-[Tacotron2](https://github.com/NVIDIA/tacotron2)
+[Tacotron2: https://github.com/NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2)
 
-[FastSpeech2](https://github.com/ming024/FastSpeech2)
+[FastSpeech2: https://github.com/ming024/FastSpeech2](https://github.com/ming024/FastSpeech2)
 
-[BVAE-TTS (official)](https://github.com/LEEYOONHYUNG/BVAE-TTS)
+[BVAE-TTS (official): https://github.com/LEEYOONHYUNG/BVAE-TTS](https://github.com/LEEYOONHYUNG/BVAE-TTS)
 
-[Glow-TTS (official)](https://github.com/jaywalnut310/glow-tts)
+[Glow-TTS (official): https://github.com/jaywalnut310/glow-tts](https://github.com/jaywalnut310/glow-tts)
 
 ## Single-speaker TTS (English)
 
