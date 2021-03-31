@@ -72,7 +72,7 @@ LJ041-0099. Powers believed that when Oswald arrived in Japan he acquired a girl
 
 | **BVAE-TTS** | **FastSpeech2** | **Glow-TTS** | **Tacotron 2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\4.BVAE-TTS\LJ041-0099.wav" preload></audio> | <audio src="wavs\5.FastSpeech2\LJ041-0099.wav" preload></audio> | <audio src="wavs\3.Glow-TTS\LJ041-0099.wav" preload></audio> | <audio src="wavs\2.Tacotron2\LJ041-0099.wav" preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ041-0099.wav" preload></audio> |
+| <audio src="wavs\4.BVAE-TTS\LJ041-0099.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ041-0099.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ041-0099.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ041-0099.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ041-0099.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
 LJ043-0071. His performance for that company was satisfactory.
