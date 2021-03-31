@@ -21,7 +21,7 @@ LJ003-0305. The provision of more baths was also suggested, and the daily sweepi
 
 | **BVAE-TTS** | **FastSpeech2** | **Glow-TTS** | **Tacotron 2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\4.BVAE-TTS\LJ003-0305.wav" controls preload style="width: 150px;></audio> | <audio src="wavs\5.FastSpeech2\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ003-0305.wav" controls preload></audio> |
+| <audio src="wavs\4.BVAE-TTS\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ003-0305.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
 LJ009-0046. But the attempt fails; he trembles, his knees knock together, and his head droops as he enters the condemned pew.
