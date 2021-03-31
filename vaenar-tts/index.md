@@ -8,76 +8,76 @@ Source Codes will be released soon!
 
 ## Single-speaker TTS (English)
 
-LJ007-0129. The sane and the insane, the young and the old, the trivial offender and the man about to suffer the extreme penalty of the law,
+LJ003-0305. The provision of more baths was also suggested, and the daily sweeping out of the prison.
 
-| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
+| **BVAE-TTS** | **FastSpeech2** | **Glow-TTS** | **Tacotron 2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ007-0129.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ007-0129.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ007-0129.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ007-0129.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ007-0129.wav" controls preload></audio> |
+| <audio src="wavs\4.BVAE-TTS\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ003-0305.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
 LJ009-0046. But the attempt fails; he trembles, his knees knock together, and his head droops as he enters the condemned pew.
 
-| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
+| **BVAE-TTS** | **FastSpeech2** | **Glow-TTS** | **Tacotron 2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ009-0046.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ009-0046.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ009-0046.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ009-0046.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ009-0046.wav" controls preload></audio> |
+| <audio src="wavs\4.BVAE-TTS\LJ009-0046.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ009-0046.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ009-0046.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ009-0046.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ009-0046.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
-LJ012-0201. Bishop confessed that he was moved to this by the example of Burke and Hare.
+LJ005-0100. For this purpose it kept up an extensive correspondence with all parts of the kingdom, and circulated queries to be answered in detail,
 
-| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
+| **BVAE-TTS** | **FastSpeech2** | **Glow-TTS** | **Tacotron 2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ012-0201.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ012-0201.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ012-0201.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ012-0201.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ012-0201.wav" controls preload></audio> |
-| --- | --- | --- | --- | --- |
-
-
-LJ015-0236. Burgess admitted him into the guard's van, where he fitted and filed the keys till they worked easily and satisfactorily in the locks of the safe.
-
-| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
-| :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ015-0236.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ015-0236.wav" controls preload></audio> |
-| --- | --- | --- | --- | --- |
-
-LJ022-0112. and I assure my fellow citizens that no energy will be spared in using these funds effectively
-
-| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
-| :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ022-0112.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ022-0112.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ022-0112.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ022-0112.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ022-0112.wav" controls preload></audio> |
-| --- | --- | --- | --- | --- |
-
-LJ033-0194. The blanket in which the rifle was stored was composed of brown and green cotton, viscose and woolen fibers.
-
-| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
-| :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ033-0194.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ033-0194.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ033-0194.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ033-0194.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ033-0194.wav" controls preload></audio> |
+| <audio src="wavs\4.BVAE-TTS\LJ005-0100.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ005-0100.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ005-0100.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ005-0100.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ005-0100.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
 
-LJ039-0193. and a total minimum time period of from 7.1 to 7.9 seconds for all three shots.
+LJ006-0206. and publications which in these days would have been made the subject of a criminal prosecution.
 
-| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
+| **BVAE-TTS** | **FastSpeech2** | **Glow-TTS** | **Tacotron 2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ039-0193.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ039-0193.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ039-0193.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ039-0193.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ039-0193.wav" controls preload></audio> |
+| <audio src="wavs\4.BVAE-TTS\LJ006-0206.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ006-0206.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ006-0206.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ006-0206.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ006-0206.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
-LJ032-0117. He lifted the rifle by the wooden stock after his examination convinced him that the wood was too rough to take fingerprints.
+LJ007-0177. We trust, however, that the day is at hand when this stain will be removed from the character of the city of London,
 
-| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
+| **BVAE-TTS** | **FastSpeech2** | **Glow-TTS** | **Tacotron 2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ032-0117.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ032-0117.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ032-0117.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ032-0117.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ032-0117.wav" controls preload></audio> |
+| <audio src="wavs\4.BVAE-TTS\LJ007-0177.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ007-0177.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ007-0177.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ007-0177.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ007-0177.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
-LJ032-0073. purchased by mail-order coupon from Seaport-Traders, Inc., a mail-order division of George Rose and Co., Los Angeles.
+LJ013-0081. Banks and bankers continued to be victimized.
 
-| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
+| **BVAE-TTS** | **FastSpeech2** | **Glow-TTS** | **Tacotron 2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ032-0073.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ032-0073.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ032-0073.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ032-0073.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ032-0073.wav" controls preload></audio> |
+| <audio src="wavs\4.BVAE-TTS\LJ013-0081.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ013-0081.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ013-0081.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ013-0081.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ013-0081.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- |
+
+
+LJ038-0009. When he heard police sirens, he, quote, looked up and saw the man enter the lobby, end quote.
+
+| **BVAE-TTS** | **FastSpeech2** | **Glow-TTS** | **Tacotron 2** | **VAENAR-TTS (ours)** |
+| :--- | :--- | :--- | :--- | :--- |
+| <audio src="wavs\4.BVAE-TTS\LJ038-0009.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ038-0009.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ038-0009.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ038-0009.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ038-0009.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- |
+
+LJ041-0099. Powers believed that when Oswald arrived in Japan he acquired a girlfriend, quote,
+
+| **BVAE-TTS** | **FastSpeech2** | **Glow-TTS** | **Tacotron 2** | **VAENAR-TTS (ours)** |
+| :--- | :--- | :--- | :--- | :--- |
+| <audio src="wavs\4.BVAE-TTS\LJ041-0099.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ041-0099.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ041-0099.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ041-0099.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ041-0099.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- |
+
+LJ043-0071. His performance for that company was satisfactory.
+
+| **BVAE-TTS** | **FastSpeech2** | **Glow-TTS** | **Tacotron 2** | **VAENAR-TTS (ours)** |
+| :--- | :--- | :--- | :--- | :--- |
+| <audio src="wavs\4.BVAE-TTS\LJ043-0071.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ043-0071.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ043-0071.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ043-0071.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ043-0071.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
 LJ047-0234. Hosty's initial reaction on hearing that Oswald was a suspect in the assassination, was, quote, shock
 
-| **Tacotron 2** | **BVAE-TTS** | **Glow-TTS** | **FastSpeech2** | **VAENAR-TTS (ours)** |
+| **BVAE-TTS** | **FastSpeech2** | **Glow-TTS** | **Tacotron 2** | **VAENAR-TTS (ours)** |
 | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs\tacotron2\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\bvae-tts\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\glow-tts\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\fastspeech2\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\vaenar-tts\LJ047-0234.wav" controls preload></audio> |
+| <audio src="wavs\4.BVAE-TTS\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ047-0234.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
 ## Attention Alignemnt convergence speed of models with different reduction factor
