@@ -4,10 +4,12 @@
 <summary><h2>Abstract</h2></summary>
 
 We describe a variational auto-encoder based non-autoregressive text-to-speech (VAENAR-TTS) model in this paper. Autoregressive TTS (AR-TTS) models based on the sequence-to-sequence architecture can generate high-quality speech. However, the sequentially decoding process of the AR-TTS models can be time-consuming. The recently proposed non-autoregressive TTS (NAR-TTS) are more efficient with parallel decoding process. However, these models rely on the phoneme-level duration to generate the hard alignment between the text and the spectrogram. The obtaining of the duration labels either through the force-alignment tool or knowledge distillation is cumbersome and the hard alignment based on phoneme expansion can hurt the naturalness of the synthesized speech. The proposed VAENAR-TTS is a more end-to-end NAR-TTS solution that does not require the phoneme-level duration labels. VAENAR-TTS consists of no recurrent structures and is completely NAR in both the training and inference phase. Based on the VAE architecture, the alignment information is encoded in the latent variable and the attention-based soft alignment between the text and the latent variable is used in the decoder to reconstruct the spectrogram. Experiments show that VAENAR-TTS achieves comparable synthesis quality with the state-of-the-art AR-TTS models while the synthesis speed is competitive to that of the NAR-TTS models.
-</details>
-Source Codes will be released soon!  
 
-## Implementations of the compared models
+Source Codes will be released soon!  
+</details>
+
+<details>
+<summary><h2>Implementations of the compared models</h2></summary>
 
 [Tacotron2: https://github.com/NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2)
 
@@ -17,7 +19,10 @@ Source Codes will be released soon!
 
 [Glow-TTS (official): https://github.com/jaywalnut310/glow-tts](https://github.com/jaywalnut310/glow-tts)
 
-## synthesized samples -- Comparison with other models
+</details>
+
+<details>
+<summary><h2>synthesized samples -- Comparison with other models</h2></summary>
 
 LJ003-0305. The provision of more baths was also suggested, and the daily sweeping out of the prison.
 
@@ -90,8 +95,10 @@ LJ047-0234. Hosty's initial reaction on hearing that Oswald was a suspect in the
 | :--- | :--- | :--- | :--- | :--- |
 | <audio src="wavs\4.BVAE-TTS\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ047-0234.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
+</details>
 
-## synthesized samples -- Fixed reduction factors
+<details>
+<summary><h2>synthesized samples -- Fixed reduction factors</h2></summary>
 
 LJ003-0305. The provision of more baths was also suggested, and the daily sweeping out of the prison.
 
@@ -128,8 +135,10 @@ LJ007-0177. We trust, however, that the day is at hand when this stain will be r
 | :--- | :--- | :--- |
 | <audio src="wavs\7.VAENAR-TTS-R-5\LJ007-0177.wav" controls preload></audio> | <audio src="wavs\8.VAENAR-TTS-R-4\LJ007-0177.wav" controls preload></audio> | <audio src="wavs\9.VAENAR-TTS-R-3\LJ007-0177.wav" controls preload></audio> |
 | --- | --- | --- |
+</details>
 
-## synthesized samples -- W/ V.S. W/O causality mask in self-attention for frame-level feature
+<details>
+<summary><h2>synthesized samples -- W/ V.S. W/O causality mask in self-attention for frame-level feature</h2></summary>
 
 LJ001-0133. One very important matter in "setting up" for fine printing is the "spacing," that is, the lateral distance of words from one another.
 
@@ -165,8 +174,10 @@ LJ014-0054. a maidservant, Sarah Thomas, murdered her mistress, an aged woman, b
 | :--- | :--- |
 | <audio src="wavs\VAENAR-TTS-mask\LJ014-0054.wav" controls preload></audio> | <audio src="wavs\VAENAR-TTS-nomask\LJ014-0054.wav" controls preload></audio> |
 | --- | --- |
+</details>
 
-## Attention Alignemnt convergence dynamics
+<details>
+<summary><h2>Attention Alignemnt convergence dynamics</h2></summary>
 
 ### Reduction factor = 3
 ![Reduction factor = 3](./images/R3.gif)
@@ -176,3 +187,4 @@ LJ014-0054. a maidservant, Sarah Thomas, murdered her mistress, an aged woman, b
 
 ### Reduction factor = 5
 ![Reduction factor = 5](./images/R5.gif)
+</details>
