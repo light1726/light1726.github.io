@@ -131,35 +131,35 @@ LJ007-0177. We trust, however, that the day is at hand when this stain will be r
 
 <h2>synthesized samples -- W/ V.S. W/O causality mask in self-attention for frame-level feature</h2>
 
-LJ001-0133. One very important matter in "setting up" for fine printing is the "spacing," that is, the lateral distance of words from one another.
+LJ001-0133. One very important matter in "setting up" for fine printing <span style="color:red">is</span> the "spacing," that is, the lateral distance of words from one another.
 
 | **W/ Causality Mask** | **W/O Causality Mask** |
 | :--- | :--- |
 | <audio src="wavs\VAENAR-TTS-mask\LJ001-0133.wav" controls preload></audio> | <audio src="wavs\VAENAR-TTS-nomask\LJ001-0133.wav" controls preload></audio> |
 | --- | --- |
 
-LJ003-0238. and they were exacted to relieve a rich corporation from paying for the maintenance of their own prison.
+LJ003-0238. and they were exacted to relieve a rich corporation from <span style="color:red">paying</span> for the maintenance of their own prison.
 
 | **W/ Causality Mask** | **W/O Causality Mask** |
 | :--- | :--- |
 | <audio src="wavs\VAENAR-TTS-mask\LJ003-0238.wav" controls preload></audio> | <audio src="wavs\VAENAR-TTS-nomask\LJ003-0238.wav" controls preload></audio> |
 | --- | --- |
 
-LJ006-0006. I shall now return to the great jail of the city of London, and give a more detailed account of its condition and inner life
+LJ006-0006. I shall now return to the great jail of the city of London, and give a more <span style="color:red">detailed</span> account of its condition and inner life
 
 | **W/ Causality Mask** | **W/O Causality Mask*** |
 | :--- | :--- |
 | <audio src="wavs\VAENAR-TTS-mask\LJ006-0006.wav" controls preload></audio> | <audio src="wavs\VAENAR-TTS-nomask\LJ006-0006.wav" controls preload></audio> |
 | --- | --- |
 
-LJ009-0208. erected on the cart, about four feet high at the head, and gradually sloping towards the horse, giving a full view of the body,
+LJ009-0208. erected on the cart, about four feet high at the head, and <span style="color:red">gradually</span> sloping towards the horse, giving a full <span style="color:red">view</span> of the body,
 
 | **W/ Causality Mask** | **W/O Causality Mask** |
 | :--- | :--- |
 | <audio src="wavs\VAENAR-TTS-mask\LJ009-0208.wav" controls preload></audio> | <audio src="wavs\VAENAR-TTS-nomask\LJ009-0208.wav" controls preload></audio> |
 | --- | --- |
 
-LJ014-0054. a maidservant, Sarah Thomas, murdered her mistress, an aged woman, by beating out her brains with a stone.
+LJ014-0054. a maidservant, Sarah Thomas, murdered her mistress, an <span style="color:red">aged</span> woman, by beating <span style="color:red">out her</span> brains with a stone.
 
 | **W/ Causality Mask** | **W/O Causality Mask** |
 | :--- | :--- |
