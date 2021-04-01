@@ -1,7 +1,7 @@
 # <center> VAENAR-TTS: Variational Auto-Encoder based Non-AutoRegressive Text-to-Speech Synthesis </center>
 
 <details>
-<summary>Abstract</summary>
+<summary><h2>Abstract</h2></summary>
 
 We describe a variational auto-encoder based non-autoregressive text-to-speech (VAENAR-TTS) model in this paper. Autoregressive TTS (AR-TTS) models based on the sequence-to-sequence architecture can generate high-quality speech. However, the sequentially decoding process of the AR-TTS models can be time-consuming. The recently proposed non-autoregressive TTS (NAR-TTS) are more efficient with parallel decoding process. However, these models rely on the phoneme-level duration to generate the hard alignment between the text and the spectrogram. The obtaining of the duration labels either through the force-alignment tool or knowledge distillation is cumbersome and the hard alignment based on phoneme expansion can hurt the naturalness of the synthesized speech. The proposed VAENAR-TTS is a more end-to-end NAR-TTS solution that does not require the phoneme-level duration labels. VAENAR-TTS consists of no recurrent structures and is completely NAR in both the training and inference phase. Based on the VAE architecture, the alignment information is encoded in the latent variable and the attention-based soft alignment between the text and the latent variable is used in the decoder to reconstruct the spectrogram. Experiments show that VAENAR-TTS achieves comparable synthesis quality with the state-of-the-art AR-TTS models while the synthesis speed is competitive to that of the NAR-TTS models.
 </details>
@@ -133,14 +133,14 @@ LJ007-0177. We trust, however, that the day is at hand when this stain will be r
 
 LJ001-0133. One very important matter in "setting up" for fine printing is the "spacing," that is, the lateral distance of words from one another.
 
-| **W/ Causality Mask** | **W/O Causality Mask*** |
+| **W/ Causality Mask** | **W/O Causality Mask** |
 | :--- | :--- |
 | <audio src="wavs\VAENAR-TTS-mask\LJ001-0133.wav" controls preload></audio> | <audio src="wavs\VAENAR-TTS-nomask\LJ001-0133.wav" controls preload></audio> |
 | --- | --- |
 
 LJ003-0238. and they were exacted to relieve a rich corporation from paying for the maintenance of their own prison.
 
-| **W/ Causality Mask** | **W/O Causality Mask*** |
+| **W/ Causality Mask** | **W/O Causality Mask** |
 | :--- | :--- |
 | <audio src="wavs\VAENAR-TTS-mask\LJ003-0238.wav" controls preload></audio> | <audio src="wavs\VAENAR-TTS-nomask\LJ003-0238.wav" controls preload></audio> |
 | --- | --- |
@@ -154,14 +154,14 @@ LJ006-0006. I shall now return to the great jail of the city of London, and give
 
 LJ009-0208. erected on the cart, about four feet high at the head, and gradually sloping towards the horse, giving a full view of the body,
 
-| **W/ Causality Mask** | **W/O Causality Mask*** |
+| **W/ Causality Mask** | **W/O Causality Mask** |
 | :--- | :--- |
 | <audio src="wavs\VAENAR-TTS-mask\LJ009-0208.wav" controls preload></audio> | <audio src="wavs\VAENAR-TTS-nomask\LJ009-0208.wav" controls preload></audio> |
 | --- | --- |
 
 LJ014-0054. a maidservant, Sarah Thomas, murdered her mistress, an aged woman, by beating out her brains with a stone.
 
-| **W/ Causality Mask** | **W/O Causality Mask*** |
+| **W/ Causality Mask** | **W/O Causality Mask** |
 | :--- | :--- |
 | <audio src="wavs\VAENAR-TTS-mask\LJ014-0054.wav" controls preload></audio> | <audio src="wavs\VAENAR-TTS-nomask\LJ014-0054.wav" controls preload></audio> |
 | --- | --- |
