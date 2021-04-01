@@ -129,7 +129,7 @@ LJ007-0177. We trust, however, that the day is at hand when this stain will be r
 | <audio src="wavs\7.VAENAR-TTS-R-5\LJ007-0177.wav" controls preload></audio> | <audio src="wavs\8.VAENAR-TTS-R-4\LJ007-0177.wav" controls preload></audio> | <audio src="wavs\9.VAENAR-TTS-R-3\LJ007-0177.wav" controls preload></audio> |
 | --- | --- | --- |
 
-<h2>synthesized samples</h2><h3>-- W/ V.S. W/O causality mask in self-attention for frame-level feature</h3>
+<h2>synthesized samples -- W/ V.S. W/O causality mask in self-attention for frame-level feature</h2>
 
 LJ001-0133. One very important matter in "setting up" for fine printing is the "spacing," that is, the lateral distance of words from one another.
 
