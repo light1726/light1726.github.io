@@ -1,6 +1,6 @@
 # <center> VAENAR-TTS: Variational Auto-Encoder based Non-AutoRegressive Text-to-Speech Synthesis </center>
 
-<h2>Contents</h2>
+<h2>0. Contents</h2>
 1. [Abstract](#abstract)
 2. [Comparison models and their implementations](#implementations)
 3. [Synthesized samples -- Comparison with other models](#samples-comp)
@@ -8,14 +8,16 @@
 5. [synthesized samples -- W/ V.S. W/O causality mask](#samples-mask)
 6. [Attention alignemnt convergence dynamics](#alignments)
 
-<h2>Abstract<a name="abstract"></a></h2>
+<h2>1. Abstract<a name="abstract"></a></h2>
 
-We describe a variational auto-encoder based non-autoregressive text-to-speech (VAENAR-TTS) model in this paper. Autoregressive TTS (AR-TTS) models based on the sequence-to-sequence architecture can generate high-quality speech. However, the sequentially decoding process of the AR-TTS models can be time-consuming. The recently proposed non-autoregressive TTS (NAR-TTS) are more efficient with parallel decoding process. However, these models rely on the phoneme-level duration to generate the hard alignment between the text and the spectrogram. The obtaining of the duration labels either through the force-alignment tool or knowledge distillation is cumbersome and the hard alignment based on phoneme expansion can hurt the naturalness of the synthesized speech. The proposed VAENAR-TTS is a more end-to-end NAR-TTS solution that does not require the phoneme-level duration labels. VAENAR-TTS consists of no recurrent structures and is completely NAR in both the training and inference phase. Based on the VAE architecture, the alignment information is encoded in the latent variable and the attention-based soft alignment between the text and the latent variable is used in the decoder to reconstruct the spectrogram. Experiments show that VAENAR-TTS achieves comparable synthesis quality with the state-of-the-art AR-TTS models while the synthesis speed is competitive to that of the NAR-TTS models.
+This paper describes a variational auto-encoder based non-autoregressive text-to-speech (VAENAR-TTS) model. The autoregressive TTS (AR-TTS) models based on the sequence-to-sequence architecture can generate high-quality speech, but their sequential decoding process can be time-consuming. Recently, non-autoregressive TTS (NAR-TTS) models have been shown to be more efficient with the parallel decoding process. However, these NAR-TTS models rely on phoneme-level durations to generate a hard alignment between the text and the spectrogram. Obtaining duration labels, either through force-alignment or knowledge distillation, is cumbersome. Furthermore, hard alignment based on phoneme expansion can degrade the naturalness of the synthesized speech. In contrast, the proposed model of VAENAR-TTS is an end-to-end approach that does not require phoneme-level duration. VAENAR-TTS model does not contain recurrent structures and is completely non-autoregressive in both the training and inference phase. Based on the VAE architecture, the alignment information is encoded in the latent variable, and the attention-based soft alignment between the text and the latent variable is used in the decoder to reconstruct the spectrogram. Experiments show that VAENAR-TTS achieves state-of-the-art synthesis quality, while the synthesis speed is comparable with other NAR-TTS models.
 
 Source Codes will be released soon!  
 
 
-<h2>Comparison models and their implementations<a name="implementations"></a></h2>
+<h2>2. Comparison models and their implementations<a name="implementations"></a></h2>
+
+Below lists the implementations we used in our experiments. These models are trained and evaluated with our own dataset separation configuration, while all other settings are the default.
 
 [Tacotron2: https://github.com/NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2)
 
@@ -25,7 +27,13 @@ Source Codes will be released soon!
 
 [Glow-TTS (official): https://github.com/jaywalnut310/glow-tts](https://github.com/jaywalnut310/glow-tts)
 
-<h2>Synthesized samples -- Comparison with other models<a name="samples-comp"></a></h2>
+The below official Hifi-GAN implementation is used. 
+
+[Hifi-GAN (official): https://github.com/jik876/hifi-gan]( https://github.com/jik876/hifi-gan)
+
+<h2>3. Synthesized samples -- Comparison with other models<a name="samples-comp"></a></h2>
+
+Below lists the samples that are sampled for the subjective evaluation.
 
 LJ003-0305. The provision of more baths was also suggested, and the daily sweeping out of the prison.
 
@@ -99,25 +107,27 @@ LJ047-0234. Hosty's initial reaction on hearing that Oswald was a suspect in the
 | <audio src="wavs\4.BVAE-TTS\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ047-0234.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ047-0234.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- |
 
-<h2>Synthesized samples -- Fixed reduction factors<a name="samples-rf"></a></h2>
+<h2>4. Synthesized samples -- Different reduction factors<a name="samples-rf"></a></h2>
+
+Below lists samples synthesized by models with different fixed reduction factors. The evaluation results show that RF3 and RF4 are comparable and both is much better than RF5.
 
 LJ003-0305. The provision of more baths was also suggested, and the daily sweeping out of the prison.
 
-| **R=5** | **R=4** | **R=3** |
+| **RF5** | **RF4** | **RF3** |
 | :--- | :--- | :--- |
 | <audio src="wavs\7.VAENAR-TTS-R-5\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\8.VAENAR-TTS-R-4\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\9.VAENAR-TTS-R-3\LJ003-0305.wav" controls preload></audio> |
 | --- | --- | --- |
 
 LJ009-0046. But the attempt fails; he trembles, his knees knock together, and his head droops as he enters the condemned pew.
 
-| **R=5** | **R=4** | **R=3** |
+| **RF5** | **RF4** | **RF3** |
 | :--- | :--- | :--- |
 | <audio src="wavs\7.VAENAR-TTS-R-5\LJ009-0046.wav" controls preload></audio> | <audio src="wavs\8.VAENAR-TTS-R-4\LJ009-0046.wav" controls preload></audio> | <audio src="wavs\9.VAENAR-TTS-R-3\LJ009-0046.wav" controls preload></audio> |
 | --- | --- | --- |
 
 LJ005-0100. For this purpose it kept up an extensive correspondence with all parts of the kingdom, and circulated queries to be answered in detail,
 
-| **R=5** | **R=4** | **R=3** |
+| **RF5** | **RF4** | **RF3** |
 | :--- | :--- | :--- |
 | <audio src="wavs\7.VAENAR-TTS-R-5\LJ005-0100.wav" controls preload></audio> | <audio src="wavs\8.VAENAR-TTS-R-4\LJ005-0100.wav" controls preload></audio> | <audio src="wavs\9.VAENAR-TTS-R-3\LJ005-0100.wav" controls preload></audio> |
 | --- | --- | --- |
@@ -125,19 +135,21 @@ LJ005-0100. For this purpose it kept up an extensive correspondence with all par
 
 LJ006-0206. and publications which in these days would have been made the subject of a criminal prosecution.
 
-| **R=5** | **R=4** | **R=3** |
+| **RF5** | **RF4** | **RF3** |
 | :--- | :--- | :--- |
 | <audio src="wavs\7.VAENAR-TTS-R-5\LJ006-0206.wav" controls preload></audio> | <audio src="wavs\8.VAENAR-TTS-R-4\LJ006-0206.wav" controls preload></audio> | <audio src="wavs\9.VAENAR-TTS-R-3\LJ006-0206.wav" controls preload></audio> |
 | --- | --- | --- |
 
 LJ007-0177. We trust, however, that the day is at hand when this stain will be removed from the character of the city of London,
 
-| **R=5** | **R=4** | **R=3** |
+| **RF5** | **RF4** | **RF3** |
 | :--- | :--- | :--- |
 | <audio src="wavs\7.VAENAR-TTS-R-5\LJ007-0177.wav" controls preload></audio> | <audio src="wavs\8.VAENAR-TTS-R-4\LJ007-0177.wav" controls preload></audio> | <audio src="wavs\9.VAENAR-TTS-R-3\LJ007-0177.wav" controls preload></audio> |
 | --- | --- | --- |
 
-<h2>synthesized samples -- W/ V.S. W/O causality mask<a name="samples-mask"></a></h2>
+<h2>5. synthesized samples -- W/ V.S. W/O causality mask<a name="samples-mask"></a></h2>
+
+Below lists the samples synthesized by VAENAR-TTS with and without causality mask in the self-attention structures that are stacked on the frame-level features. The repetition issues is very common in model w/o causality mask. Pay attention to the word(s) highlighted in red color.
 
 LJ001-0133. One very important matter in "setting up" for fine printing <span style="color:red">is</span> the "spacing," that is, the lateral distance of words from one another.
 
@@ -175,6 +187,8 @@ LJ014-0054. a maidservant, Sarah Thomas, murdered her mistress, an <span style="
 | --- | --- |
 
 <h2>Attention Alignemnt convergence dynamics<a name="alignments"></a></h2>
+
+Below are the attention alignment maps obtained during the training process of three models with different fixed reduction factor: 5, 4, and 3. Note that the alignment converges faster for model with larger reduction factor.
 
 ### Reduction factor = 3
 ![Reduction factor = 3](./images/R3.gif)
