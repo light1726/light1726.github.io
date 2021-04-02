@@ -17,7 +17,7 @@ Source Codes will be released soon!
 
 <h2>2. Comparison models and their implementations<a name="implementations"></a></h2>
 
-Below lists the implementations we used in our experiments. These models are trained and evaluated with our own dataset separation configuration, while all other settings are the default.
+<h3>Below lists the implementations we used in our experiments. These models are trained and evaluated with our own dataset separation configuration, while all other settings are the default.</h3>
 
 [Tacotron2: https://github.com/NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2)
 
@@ -27,13 +27,13 @@ Below lists the implementations we used in our experiments. These models are tra
 
 [Glow-TTS (official): https://github.com/jaywalnut310/glow-tts](https://github.com/jaywalnut310/glow-tts)
 
-The below official Hifi-GAN implementation is used. 
+<h3>The below official Hifi-GAN implementation is used.</h3>
 
 [Hifi-GAN (official): https://github.com/jik876/hifi-gan]( https://github.com/jik876/hifi-gan)
 
 <h2>3. Synthesized samples -- Comparison with other models<a name="samples-comp"></a></h2>
 
-Below lists the samples that are sampled for the subjective evaluation.
+<h3>Below lists the samples that are synthesized for the subjective evaluation.</h3>
 
 LJ003-0305. The provision of more baths was also suggested, and the daily sweeping out of the prison.
 
@@ -109,7 +109,7 @@ LJ047-0234. Hosty's initial reaction on hearing that Oswald was a suspect in the
 
 <h2>4. Synthesized samples -- Different reduction factors<a name="samples-rf"></a></h2>
 
-Below lists samples synthesized by models with different fixed reduction factors. The evaluation results show that RF3 and RF4 are comparable and both is much better than RF5.
+<h3>Below lists samples synthesized by models with different fixed reduction factors. The evaluation results show that RF3 and RF4 are comparable and both is much better than RF5 in terms of speech naturalness</h3>
 
 LJ003-0305. The provision of more baths was also suggested, and the daily sweeping out of the prison.
 
@@ -149,7 +149,7 @@ LJ007-0177. We trust, however, that the day is at hand when this stain will be r
 
 <h2>5. synthesized samples -- W/ V.S. W/O causality mask<a name="samples-mask"></a></h2>
 
-Below lists the samples synthesized by VAENAR-TTS with and without causality mask in the self-attention structures that are stacked on the frame-level features. The repetition issues is very common in model w/o causality mask. Pay attention to the word(s) highlighted in red color.
+<h3>Below lists the samples synthesized by VAENAR-TTS with and without causality mask in the self-attention structures that are stacked on the frame-level features. The repetition issues is very common in model w/o causality mask. Pay attention to the word(s) highlighted in red color.</h3>
 
 LJ001-0133. One very important matter in "setting up" for fine printing <span style="color:red">is</span> the "spacing," that is, the lateral distance of words from one another.
 
@@ -188,7 +188,7 @@ LJ014-0054. a maidservant, Sarah Thomas, murdered her mistress, an <span style="
 
 <h2>Attention Alignemnt convergence dynamics<a name="alignments"></a></h2>
 
-Below are the attention alignment maps obtained during the training process of three models with different fixed reduction factor: 5, 4, and 3. Note that the alignment converges faster for model with larger reduction factor.
+<h3>Below are the attention alignment maps obtained during the training process of three models with different fixed reduction factor: 5, 4, and 3. Note that the alignment converges faster for model with larger reduction factor.</h3>
 
 ### Reduction factor = 3
 ![Reduction factor = 3](./images/R3.gif)
