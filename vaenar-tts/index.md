@@ -7,6 +7,7 @@
 4. [Synthesized samples -- Fixed reduction factors](#samples-rf)
 5. [synthesized samples -- W/ V.S. W/O causality mask](#samples-mask)
 6. [Attention alignemnt convergence dynamics](#alignments)
+7. [Other results](#others)
 
 <h2>1. Abstract<a name="abstract"></a></h2>
 
@@ -186,9 +187,9 @@ LJ014-0054. a maidservant, Sarah Thomas, murdered her mistress, an <span style="
 | <audio src="wavs\VAENAR-TTS-mask\LJ014-0054.wav" controls preload></audio> | <audio src="wavs\VAENAR-TTS-nomask\LJ014-0054.wav" controls preload></audio> |
 | --- | --- |
 
-<h2>Attention Alignemnt convergence dynamics<a name="alignments"></a></h2>
+<h2>6. Attention Alignemnt convergence dynamics<a name="alignments"></a></h2>
 
-<h3>Below are the attention alignment maps obtained during the training process of three models with different fixed reduction factor: 5, 4, and 3. Note that the alignment converges faster for model with larger reduction factor.</h3>
+<h3>Below are the attention alignment maps obtained during the training process of three models with different fixed reduction factors: 5, 4, and 3. Note that the alignment converges faster for the model with a larger reduction factor.</h3>
 
 ### Reduction factor = 3
 ![Reduction factor = 3](./images/R3.gif)
@@ -198,3 +199,27 @@ LJ014-0054. a maidservant, Sarah Thomas, murdered her mistress, an <span style="
 
 ### Reduction factor = 5
 ![Reduction factor = 5](./images/R5.gif)
+
+<h2>7. Other results <a name="others"></a></h2>
+
+<h3>Synthesized results in Madarin ([DataBaker](https://www.data-baker.com/open_source.html))</h3>
+
+003095. 失恋的人特别喜欢往人烟罕至的角落里钻。
+
+<audio src="wavs\VAENAR-databaker\prior-003095-2000.wav" controls preload></audio>
+
+003684. 天安门广场，一派春意盎然。
+
+<audio src="wavs\VAENAR-databaker\prior-003684-2000.wav" controls preload></audio>
+
+004539. 网友“甄巍峰”说，希望规范用工制度和用工秩序。
+
+<audio src="wavs\VAENAR-databaker\prior-004539-2000.wav" controls preload></audio>
+
+005134. 我的性格也是逆来顺受，从小胆小怕事，凡事都忍让。
+
+<audio src="wavs\VAENAR-databaker\prior-005134-2000.wav" controls preload></audio>
+
+007732. 乘客对车上负责讲解的导乘员普遍表示满意。
+
+<audio src="wavs\VAENAR-databaker\prior-007732-2000.wav" controls preload></audio>
