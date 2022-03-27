@@ -1,0 +1,24 @@
+p270_012_to_p293_158.wav|Throughout the centuries people have explained the rainbow in various ways.
+p270_012_to_p314_007.wav|Throughout the centuries people have explained the rainbow in various ways.
+p270_012_to_p374_357.wav|Throughout the centuries people have explained the rainbow in various ways.
+p270_244_to_p293_158.wav|Corporate banking would be based in Edinburgh.
+p270_244_to_p314_007.wav|Corporate banking would be based in Edinburgh.
+p270_244_to_p374_357.wav|Corporate banking would be based in Edinburgh.
+p293_010_to_p270_095.wav|People look, but no one ever finds it.
+p293_010_to_p314_007.wav|People look, but no one ever finds it.
+p293_010_to_p374_357.wav|People look, but no one ever finds it.
+p293_379_to_p270_095.wav|My husband was fighting for his life.
+p293_379_to_p314_007.wav|My husband was fighting for his life.
+p293_379_to_p374_357.wav|My husband was fighting for his life.
+p314_095_to_p270_095.wav|The money is not really our concern.
+p314_095_to_p293_158.wav|The money is not really our concern.
+p314_095_to_p374_357.wav|The money is not really our concern.
+p314_118_to_p270_095.wav|He would just say it was terrible.
+p314_118_to_p293_158.wav|He would just say it was terrible.
+p314_118_to_p374_357.wav|He would just say it was terrible.
+p374_049_to_p270_095.wav|His condition was serious but stable.
+p374_049_to_p293_158.wav|His condition was serious but stable.
+p374_049_to_p314_007.wav|His condition was serious but stable.
+p374_324_to_p270_095.wav|We did discuss the Lockerbie issue.
+p374_324_to_p293_158.wav|We did discuss the Lockerbie issue.
+p374_324_to_p314_007.wav|We did discuss the Lockerbie issue.
