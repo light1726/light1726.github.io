@@ -11,7 +11,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 
 <h2>2. Samples <a name="samples-comp"></a></h2>
 
-| **Source** | **Referfence** | **VQMIVC** | **VC (&beta;=1e-3)** | **VC (&beta;=1.2e-2)** | **VC (&beta;=3e-2)** | **VCT (&beta;=2.5e-5)** | **VCT (&beta;=2.5e-4)** | **VCT (&beta;=5e-4)** | **VCT (&beta;=2.5e-4,Cloning)** |**Text**|
+| **Source** | **Referfence** | **VQMIVC** | **VC (&beta;=1e-3)** | **VC (&beta;=1.2e-2)** | **VC (&beta;=3e-2)** | **VCT (&beta;=2.5e-5)** | **VCT (&beta;=2.5e-4)** | **VCT (&beta;=5e-4)** | **VCT (&beta;=2.5e-4,Cloning)** |**Text**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | <audio src="wavs\0.hifi-gan\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\0.hifi-gan-ref\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\1.vqmivc\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p270_012_to_p293_158.wav" controls preload></audio> | Throughout the centuries people have explained the rainbow in various ways. |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- | :--- | :--- | :--- |
