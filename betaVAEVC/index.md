@@ -11,7 +11,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 
 <h2>2. Samples <a name="samples-comp"></a></h2>
 
-1. p270_012_to_p293_158 - Throughout the centuries people have explained the rainbow in various ways.
+(1) p270_012_to_p293_158 - Throughout the centuries people have explained the rainbow in various ways.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -23,7 +23,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p270_012_to_p293_158.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p270_012_to_p293_158.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-2. p270_012_to_p314_007 - Throughout the centuries people have explained the rainbow in various ways.
+(2) p270_012_to_p314_007 - Throughout the centuries people have explained the rainbow in various ways.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -35,7 +35,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p270_012_to_p314_007.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p270_012_to_p314_007.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p270_012_to_p314_007.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p270_012_to_p314_007.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p270_012_to_p314_007.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p270_012_to_p314_007.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p270_012_to_p314_007.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p270_012_to_p314_007.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-3. p270_012_to_p374_357 - Throughout the centuries people have explained the rainbow in various ways.
+(3) p270_012_to_p374_357 - Throughout the centuries people have explained the rainbow in various ways.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -47,7 +47,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p270_012_to_p374_357.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p270_012_to_p374_357.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p270_012_to_p374_357.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p270_012_to_p374_357.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p270_012_to_p374_357.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p270_012_to_p374_357.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p270_012_to_p374_357.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p270_012_to_p374_357.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-4. p270_244_to_p293_158 - Corporate banking would be based in Edinburgh.
+(4) p270_244_to_p293_158 - Corporate banking would be based in Edinburgh.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -59,7 +59,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p270_244_to_p293_158.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p270_244_to_p293_158.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p270_244_to_p293_158.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p270_244_to_p293_158.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p270_244_to_p293_158.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p270_244_to_p293_158.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p270_244_to_p293_158.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p270_244_to_p293_158.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-5. p270_244_to_p314_007 - Corporate banking would be based in Edinburgh.
+(5) p270_244_to_p314_007 - Corporate banking would be based in Edinburgh.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -71,7 +71,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p270_244_to_p314_007.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p270_244_to_p314_007.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p270_244_to_p314_007.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p270_244_to_p314_007.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p270_244_to_p314_007.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p270_244_to_p314_007.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p270_244_to_p314_007.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p270_244_to_p314_007.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-6. p270_244_to_p374_357 - Corporate banking would be based in Edinburgh.
+(6) p270_244_to_p374_357 - Corporate banking would be based in Edinburgh.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -83,7 +83,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p270_244_to_p374_357.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p270_244_to_p374_357.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p270_244_to_p374_357.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p270_244_to_p374_357.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p270_244_to_p374_357.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p270_244_to_p374_357.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p270_244_to_p374_357.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p270_244_to_p374_357.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-7. p293_010_to_p270_095 - People look, but no one ever finds it.
+(7) p293_010_to_p270_095 - People look, but no one ever finds it.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -95,7 +95,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p293_010_to_p270_095.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p293_010_to_p270_095.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p293_010_to_p270_095.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p293_010_to_p270_095.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p293_010_to_p270_095.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p293_010_to_p270_095.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p293_010_to_p270_095.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p293_010_to_p270_095.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-8. p293_010_to_p314_007 - People look, but no one ever finds it.
+(8) p293_010_to_p314_007 - People look, but no one ever finds it.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -107,7 +107,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p293_010_to_p314_007.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p293_010_to_p314_007.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p293_010_to_p314_007.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p293_010_to_p314_007.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p293_010_to_p314_007.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p293_010_to_p314_007.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p293_010_to_p314_007.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p293_010_to_p314_007.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-9. p293_010_to_p374_357 - People look, but no one ever finds it.
+(9) p293_010_to_p374_357 - People look, but no one ever finds it.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -119,7 +119,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p293_010_to_p374_357.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p293_010_to_p374_357.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p293_010_to_p374_357.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p293_010_to_p374_357.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p293_010_to_p374_357.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p293_010_to_p374_357.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p293_010_to_p374_357.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p293_010_to_p374_357.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-10. p293_379_to_p270_095 - My husband was fighting for his life.
+(10) p293_379_to_p270_095 - My husband was fighting for his life.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -131,7 +131,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p293_379_to_p270_095.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p293_379_to_p270_095.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p293_379_to_p270_095.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p293_379_to_p270_095.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p293_379_to_p270_095.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p293_379_to_p270_095.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p293_379_to_p270_095.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p293_379_to_p270_095.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-11. p293_379_to_p314_007 - My husband was fighting for his life.
+(11) p293_379_to_p314_007 - My husband was fighting for his life.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -143,7 +143,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p293_379_to_p314_007.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p293_379_to_p314_007.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p293_379_to_p314_007.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p293_379_to_p314_007.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p293_379_to_p314_007.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p293_379_to_p314_007.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p293_379_to_p314_007.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p293_379_to_p314_007.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-12. p293_379_to_p374_357 - My husband was fighting for his life.
+(12) p293_379_to_p374_357 - My husband was fighting for his life.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -155,7 +155,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p293_379_to_p374_357.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p293_379_to_p374_357.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p293_379_to_p374_357.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p293_379_to_p374_357.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p293_379_to_p374_357.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p293_379_to_p374_357.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p293_379_to_p374_357.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p293_379_to_p374_357.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-13. p314_095_to_p270_095 - The money is not really our concern.
+(13) p314_095_to_p270_095 - The money is not really our concern.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -167,7 +167,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p314_095_to_p270_095.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p314_095_to_p270_095.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p314_095_to_p270_095.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p314_095_to_p270_095.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p314_095_to_p270_095.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p314_095_to_p270_095.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p314_095_to_p270_095.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p314_095_to_p270_095.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-14. p314_095_to_p293_158 - The money is not really our concern.
+(14) p314_095_to_p293_158 - The money is not really our concern.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -179,7 +179,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p314_095_to_p293_158.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p314_095_to_p293_158.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p314_095_to_p293_158.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p314_095_to_p293_158.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p314_095_to_p293_158.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p314_095_to_p293_158.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p314_095_to_p293_158.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p314_095_to_p293_158.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-15. p314_095_to_p374_357 - The money is not really our concern.
+(15) p314_095_to_p374_357 - The money is not really our concern.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -191,7 +191,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p314_095_to_p374_357.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p314_095_to_p374_357.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p314_095_to_p374_357.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p314_095_to_p374_357.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p314_095_to_p374_357.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p314_095_to_p374_357.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p314_095_to_p374_357.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p314_095_to_p374_357.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-16. p314_118_to_p270_095 - He would just say it was terrible.
+(16) p314_118_to_p270_095 - He would just say it was terrible.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -203,7 +203,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p314_118_to_p270_095.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p314_118_to_p270_095.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p314_118_to_p270_095.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p314_118_to_p270_095.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p314_118_to_p270_095.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p314_118_to_p270_095.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p314_118_to_p270_095.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p314_118_to_p270_095.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-17. p314_118_to_p293_158 - He would just say it was terrible.
+(17) p314_118_to_p293_158 - He would just say it was terrible.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -215,7 +215,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p314_118_to_p293_158.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p314_118_to_p293_158.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p314_118_to_p293_158.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p314_118_to_p293_158.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p314_118_to_p293_158.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p314_118_to_p293_158.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p314_118_to_p293_158.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p314_118_to_p293_158.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-18. p314_118_to_p374_357 - He would just say it was terrible.
+(18) p314_118_to_p374_357 - He would just say it was terrible.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -227,7 +227,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p314_118_to_p374_357.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p314_118_to_p374_357.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p314_118_to_p374_357.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p314_118_to_p374_357.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p314_118_to_p374_357.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p314_118_to_p374_357.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p314_118_to_p374_357.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p314_118_to_p374_357.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-19. p374_049_to_p270_095 - His condition was serious but stable.
+(19) p374_049_to_p270_095 - His condition was serious but stable.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -239,7 +239,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p374_049_to_p270_095.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p374_049_to_p270_095.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p374_049_to_p270_095.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p374_049_to_p270_095.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p374_049_to_p270_095.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p374_049_to_p270_095.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p374_049_to_p270_095.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p374_049_to_p270_095.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-20. p374_049_to_p293_158 - His condition was serious but stable.
+(20) p374_049_to_p293_158 - His condition was serious but stable.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -251,7 +251,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p374_049_to_p293_158.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p374_049_to_p293_158.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p374_049_to_p293_158.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p374_049_to_p293_158.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p374_049_to_p293_158.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p374_049_to_p293_158.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p374_049_to_p293_158.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p374_049_to_p293_158.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-21. p374_049_to_p314_007 - His condition was serious but stable.
+(21) p374_049_to_p314_007 - His condition was serious but stable.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -263,7 +263,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p374_049_to_p314_007.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p374_049_to_p314_007.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p374_049_to_p314_007.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p374_049_to_p314_007.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p374_049_to_p314_007.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p374_049_to_p314_007.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p374_049_to_p314_007.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p374_049_to_p314_007.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-22. p374_324_to_p270_095 - We did discuss the Lockerbie issue.
+(22) p374_324_to_p270_095 - We did discuss the Lockerbie issue.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -275,7 +275,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p374_324_to_p270_095.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p374_324_to_p270_095.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p374_324_to_p270_095.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p374_324_to_p270_095.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p374_324_to_p270_095.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p374_324_to_p270_095.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p374_324_to_p270_095.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p374_324_to_p270_095.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-23. p374_324_to_p293_158 - We did discuss the Lockerbie issue.
+(23) p374_324_to_p293_158 - We did discuss the Lockerbie issue.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -287,7 +287,7 @@ Learning disentangled speaker and content representations is a fundamental quest
 | <audio src="wavs\1.vqmivc\p374_324_to_p293_158.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p374_324_to_p293_158.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p374_324_to_p293_158.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p374_324_to_p293_158.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p374_324_to_p293_158.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p374_324_to_p293_158.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p374_324_to_p293_158.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p374_324_to_p293_158.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 
-24. p374_324_to_p314_007 - We did discuss the Lockerbie issue.
+(24) p374_324_to_p314_007 - We did discuss the Lockerbie issue.
 
 | **Source** | **Referfence** |
 | :--- | :--- |
@@ -298,5 +298,6 @@ Learning disentangled speaker and content representations is a fundamental quest
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
 | <audio src="wavs\1.vqmivc\p374_324_to_p314_007.wav" controls preload></audio> | <audio src="wavs\2.vc80.14\p374_324_to_p314_007.wav" controls preload></audio> | <audio src="wavs\3.vc80.1\p374_324_to_p314_007.wav" controls preload></audio> | <audio src="wavs\4.vc80.9\p374_324_to_p314_007.wav" controls preload></audio> | <audio src="wavs\5.vc82.6\p374_324_to_p314_007.wav" controls preload></audio> | <audio src="wavs\6.vc82.1\p374_324_to_p314_007.wav" controls preload></audio> | <audio src="wavs\8.vc82.9\p374_324_to_p314_007.wav" controls preload></audio> | <audio src="wavs\9.vc82.1-T\p374_324_to_p314_007.wav" controls preload></audio> |
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- |
+
 
 ​
