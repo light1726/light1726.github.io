@@ -6,3 +6,5 @@
 audio {
     width: 100px;
 }
+
+audio:hover {transform: scale(1.1);filter: drop-shadow(2px 3px 3px #333);}
