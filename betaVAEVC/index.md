@@ -1,4 +1,3 @@
-# <center> Disentangled Speech Representation Learning for One-Shot Voice Conversion and Cloning </center>
 
 <h2>0. Contents</h2>
 1. [Abstract](#abstract)
