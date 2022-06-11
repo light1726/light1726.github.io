@@ -461,7 +461,7 @@ footer .footer-custom-content {
 }
 
 .post-preview .post-title {
-  font-size: 24px;
+  font-size: 10px;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -1100,3 +1100,9 @@ pre {
     display: inline-block;
   }
 }
+
+audio {
+    width: 100px;
+}
+
+audio:hover {transform: scale(1.1);filter: drop-shadow(2px 3px 3px #333);}
