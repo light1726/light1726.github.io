@@ -15,7 +15,7 @@ We propose to unify one-shot voice conversion and cloning in a single model that
 
 <h3>Below lists the implementations we used in our experiments. We adopt the same test set.</h3>
 
-[SC-GlowTTS: Google Colab] https://colab.research.google.com/drive/1yyQDc-xWCqa2g-d1joW_goqbYZKaImsJ?usp=sharing)
+[SC-GlowTTS: Google Colab](https://colab.research.google.com/drive/1yyQDc-xWCqa2g-d1joW_goqbYZKaImsJ?usp=sharing)
 
 [CDFSE: https://github.com/thuhcsi/interspeech2022-cdfse-tts](https://github.com/thuhcsi/interspeech2022-cdfse-tts)
 
@@ -29,12 +29,10 @@ We propose to unify one-shot voice conversion and cloning in a single model that
 
 <h3>Below lists the samples that are synthesized for the subjective evaluation.</h3>
 
-LJ003-0305. The provision of more baths was also suggested, and the daily sweeping out of the prison.
-
-| **BVAE-TTS** | **FastSpeech2** | **Glow-TTS** | **Tacotron 2** | **VAENAR-TTS (ours)** |
-| :--- | :--- | :--- | :--- | :--- |
+| **Source** | **Target** | **VQMIVC** | **VVC** | **VVCC(ours)** |**SC-GlowTTS**|
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | <audio src="wavs\4.BVAE-TTS\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\5.FastSpeech2\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\3.Glow-TTS\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\2.Tacotron2\LJ003-0305.wav" controls preload></audio> | <audio src="wavs\6.VAENAR-TTS\LJ003-0305.wav" controls preload></audio> |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 
 LJ009-0046. But the attempt fails; he trembles, his knees knock together, and his head droops as he enters the condemned pew.
 
