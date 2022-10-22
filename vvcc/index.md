@@ -1,4 +1,4 @@
-# <center> A Unified Framework for One-Shot Voice Conversion and Cloning Using Variational Auto-Encoder </center>
+<h2><center> A Unified Framework for One-Shot Voice Conversion and Cloning Using Variational Auto-Encoder </center></h2>
 
 <h2>0. Contents</h2>
 1. [Abstract](#abstract)
@@ -26,8 +26,6 @@ We propose to unify one-shot voice conversion and cloning in a single model that
 [Hifi-GAN (official): VCTK-V1](https://drive.google.com/drive/folders/1vJlfkwR7Uyheq2U5HrPnfTm-tzwuNuey)
 
 <h2>3. Voice Conversion Samples<a name="vc-comp"></a></h2>
-
-<h3>Below lists the samples that are synthesized for the subjective evaluation.</h3>
 
 | **Source** | **Target** | **VQMIVC** | **VVC** | **VVCC(ours)** |**SC-GlowTTS**|
 | :--- | :--- | :--- | :--- | :--- | :--- |
