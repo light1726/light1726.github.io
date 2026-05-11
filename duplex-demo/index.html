@@ -173,9 +173,6 @@
       border: 1px solid #d1d5db;
       background: #111827;
     }
-    .source-note {
-      margin: 0 0 10px;
-    }
     .turns {
       display: flex;
       flex-direction: column;
@@ -280,9 +277,11 @@
 
     <div class="card">
       <h3>Waveform</h3>
-      <p class="wave-intro">Dual-channel visualization with live playback cursor.</p>
+      <p class="wave-intro">
+        Dual-channel visualization of user–assistant audio tracks. The top lane and left channel denote the user audio track; the bottom lane and right channel denote the assistant audio track.
+      </p>
       <div class="wave-wrap">
-        <div class="wave-label">Top lane: Channel 1 (left) | Bottom lane: Channel 2 (right)</div>
+        <div class="wave-label">Top / left: user | Bottom / right: assistant</div>
         <canvas id="waveCanvas"></canvas>
       </div>
     </div>
@@ -290,16 +289,10 @@
     <div class="grid">
       <div class="card">
         <h3>User text</h3>
-        <p class="wave-intro source-note">
-          Source: <code>input.json</code> and <code>metadata.json</code> in each sample folder. Turns use context vs interruption/backchannel fields when present; otherwise user speech is split on long pauses in <code>chunks</code> timestamps.
-        </p>
         <div id="userTurns" class="turns"></div>
       </div>
       <div class="card">
         <h3>Assistant text</h3>
-        <p class="wave-intro source-note">
-          Source: <code>output.json</code> (<code>text</code> plus <code>chunks</code> with timestamps). Assistant turns are split when the gap between consecutive chunk end/start exceeds 1 second.
-        </p>
         <div id="assistantTurns" class="turns"></div>
       </div>
     </div>
