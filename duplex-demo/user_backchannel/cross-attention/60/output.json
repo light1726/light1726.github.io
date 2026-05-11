@@ -1,0 +1,362 @@
+{
+    "text": "Astronomy is the study of the universe including stars, planets, galaxies, and the universe's origins and evolution. It covers topics like celestial mechanics, star formation, stellar physics, and the large-scale structure of the cosmos. From ancient myths to modern space exploration, astronomy has been essential to our understanding of the universe.",
+    "chunks": [
+        {
+            "text": "Astronomy",
+            "timestamp": [
+                1.92,
+                2.96
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                2.96,
+                3.12
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                3.12,
+                3.2800000000000002
+            ]
+        },
+        {
+            "text": "study",
+            "timestamp": [
+                3.2800000000000002,
+                3.52
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                3.52,
+                3.68
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                3.68,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "universe",
+            "timestamp": [
+                3.7600000000000002,
+                4.24
+            ]
+        },
+        {
+            "text": "including",
+            "timestamp": [
+                4.4,
+                4.96
+            ]
+        },
+        {
+            "text": "stars,",
+            "timestamp": [
+                4.96,
+                5.36
+            ]
+        },
+        {
+            "text": "planets,",
+            "timestamp": [
+                5.6000000000000005,
+                6.16
+            ]
+        },
+        {
+            "text": "galaxies,",
+            "timestamp": [
+                6.4,
+                6.96
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                7.12,
+                7.28
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                7.28,
+                7.36
+            ]
+        },
+        {
+            "text": "universe's",
+            "timestamp": [
+                7.36,
+                8.0
+            ]
+        },
+        {
+            "text": "origins",
+            "timestamp": [
+                8.0,
+                8.64
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                8.64,
+                8.88
+            ]
+        },
+        {
+            "text": "evolution.",
+            "timestamp": [
+                8.88,
+                9.52
+            ]
+        },
+        {
+            "text": "It",
+            "timestamp": [
+                9.84,
+                10.0
+            ]
+        },
+        {
+            "text": "covers",
+            "timestamp": [
+                10.0,
+                10.4
+            ]
+        },
+        {
+            "text": "topics",
+            "timestamp": [
+                10.4,
+                10.8
+            ]
+        },
+        {
+            "text": "like",
+            "timestamp": [
+                10.8,
+                10.96
+            ]
+        },
+        {
+            "text": "celestial",
+            "timestamp": [
+                10.96,
+                11.6
+            ]
+        },
+        {
+            "text": "mechanics,",
+            "timestamp": [
+                11.6,
+                12.16
+            ]
+        },
+        {
+            "text": "star",
+            "timestamp": [
+                12.4,
+                12.8
+            ]
+        },
+        {
+            "text": "formation,",
+            "timestamp": [
+                12.8,
+                13.200000000000001
+            ]
+        },
+        {
+            "text": "stellar",
+            "timestamp": [
+                13.36,
+                13.84
+            ]
+        },
+        {
+            "text": "physics,",
+            "timestamp": [
+                13.84,
+                14.24
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                14.56,
+                14.72
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                14.72,
+                14.8
+            ]
+        },
+        {
+            "text": "large-scale",
+            "timestamp": [
+                14.8,
+                15.52
+            ]
+        },
+        {
+            "text": "structure",
+            "timestamp": [
+                15.52,
+                16.0
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                16.0,
+                16.16
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                16.16,
+                16.240000000000002
+            ]
+        },
+        {
+            "text": "cosmos.",
+            "timestamp": [
+                16.240000000000002,
+                16.88
+            ]
+        },
+        {
+            "text": "From",
+            "timestamp": [
+                17.12,
+                17.44
+            ]
+        },
+        {
+            "text": "ancient",
+            "timestamp": [
+                17.44,
+                17.76
+            ]
+        },
+        {
+            "text": "myths",
+            "timestamp": [
+                17.76,
+                18.240000000000002
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                18.240000000000002,
+                18.400000000000002
+            ]
+        },
+        {
+            "text": "modern",
+            "timestamp": [
+                18.400000000000002,
+                18.8
+            ]
+        },
+        {
+            "text": "space",
+            "timestamp": [
+                18.8,
+                19.2
+            ]
+        },
+        {
+            "text": "exploration,",
+            "timestamp": [
+                19.2,
+                19.92
+            ]
+        },
+        {
+            "text": "astronomy",
+            "timestamp": [
+                20.240000000000002,
+                20.96
+            ]
+        },
+        {
+            "text": "has",
+            "timestamp": [
+                20.96,
+                21.12
+            ]
+        },
+        {
+            "text": "been",
+            "timestamp": [
+                21.12,
+                21.28
+            ]
+        },
+        {
+            "text": "essential",
+            "timestamp": [
+                21.28,
+                21.76
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                21.76,
+                22.0
+            ]
+        },
+        {
+            "text": "our",
+            "timestamp": [
+                22.0,
+                22.240000000000002
+            ]
+        },
+        {
+            "text": "understanding",
+            "timestamp": [
+                22.240000000000002,
+                22.64
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                22.64,
+                22.8
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                22.8,
+                23.04
+            ]
+        },
+        {
+            "text": "universe.",
+            "timestamp": [
+                23.04,
+                24.240000000000002
+            ]
+        }
+    ]
+}

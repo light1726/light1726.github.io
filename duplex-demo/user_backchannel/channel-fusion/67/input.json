@@ -1,0 +1,68 @@
+{
+    "text": "Give a comprehensive explanation of the greenhouse effect. Exactly.",
+    "chunks": [
+        {
+            "text": "Give",
+            "timestamp": [
+                0.0,
+                0.32
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                0.32,
+                0.4
+            ]
+        },
+        {
+            "text": "comprehensive",
+            "timestamp": [
+                0.4,
+                1.04
+            ]
+        },
+        {
+            "text": "explanation",
+            "timestamp": [
+                1.04,
+                1.6
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                1.6,
+                1.76
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                1.76,
+                1.92
+            ]
+        },
+        {
+            "text": "greenhouse",
+            "timestamp": [
+                1.92,
+                2.72
+            ]
+        },
+        {
+            "text": "effect.",
+            "timestamp": [
+                2.72,
+                3.36
+            ]
+        },
+        {
+            "text": "Exactly.",
+            "timestamp": [
+                7.12,
+                8.24
+            ]
+        }
+    ]
+}

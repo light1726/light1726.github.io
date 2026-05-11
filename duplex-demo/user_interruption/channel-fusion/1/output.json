@@ -1,0 +1,376 @@
+{
+    "text": "I can help you with that. To save more effectively, start by tracking your expenses. Some common financial goals include saving for a down payment on a house, planning for retirement, building an emergency fund, or paying off high-interest debt. Setting specific measurable and time-bound targets can help you stay focused and motivated.",
+    "chunks": [
+        {
+            "text": "I",
+            "timestamp": [
+                3.04,
+                3.36
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                3.36,
+                3.6
+            ]
+        },
+        {
+            "text": "help",
+            "timestamp": [
+                3.6,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                3.7600000000000002,
+                3.92
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                3.92,
+                4.16
+            ]
+        },
+        {
+            "text": "that.",
+            "timestamp": [
+                4.16,
+                4.4
+            ]
+        },
+        {
+            "text": "To",
+            "timestamp": [
+                4.64,
+                4.8
+            ]
+        },
+        {
+            "text": "save",
+            "timestamp": [
+                4.8,
+                5.12
+            ]
+        },
+        {
+            "text": "more",
+            "timestamp": [
+                5.12,
+                5.36
+            ]
+        },
+        {
+            "text": "effectively,",
+            "timestamp": [
+                5.36,
+                5.84
+            ]
+        },
+        {
+            "text": "start",
+            "timestamp": [
+                6.08,
+                6.4
+            ]
+        },
+        {
+            "text": "by",
+            "timestamp": [
+                6.4,
+                6.5600000000000005
+            ]
+        },
+        {
+            "text": "tracking",
+            "timestamp": [
+                6.5600000000000005,
+                6.88
+            ]
+        },
+        {
+            "text": "your",
+            "timestamp": [
+                6.88,
+                7.04
+            ]
+        },
+        {
+            "text": "expenses.",
+            "timestamp": [
+                7.04,
+                8.0
+            ]
+        },
+        {
+            "text": "Some",
+            "timestamp": [
+                10.24,
+                10.56
+            ]
+        },
+        {
+            "text": "common",
+            "timestamp": [
+                10.56,
+                10.96
+            ]
+        },
+        {
+            "text": "financial",
+            "timestamp": [
+                10.96,
+                11.44
+            ]
+        },
+        {
+            "text": "goals",
+            "timestamp": [
+                11.44,
+                11.84
+            ]
+        },
+        {
+            "text": "include",
+            "timestamp": [
+                11.84,
+                12.16
+            ]
+        },
+        {
+            "text": "saving",
+            "timestamp": [
+                12.16,
+                12.56
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                12.56,
+                12.72
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                12.72,
+                12.8
+            ]
+        },
+        {
+            "text": "down",
+            "timestamp": [
+                12.8,
+                13.120000000000001
+            ]
+        },
+        {
+            "text": "payment",
+            "timestamp": [
+                13.120000000000001,
+                13.44
+            ]
+        },
+        {
+            "text": "on",
+            "timestamp": [
+                13.44,
+                13.6
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                13.6,
+                13.68
+            ]
+        },
+        {
+            "text": "house,",
+            "timestamp": [
+                13.68,
+                14.0
+            ]
+        },
+        {
+            "text": "planning",
+            "timestamp": [
+                14.32,
+                14.64
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                14.64,
+                14.8
+            ]
+        },
+        {
+            "text": "retirement,",
+            "timestamp": [
+                14.8,
+                15.52
+            ]
+        },
+        {
+            "text": "building",
+            "timestamp": [
+                15.84,
+                16.240000000000002
+            ]
+        },
+        {
+            "text": "an",
+            "timestamp": [
+                16.240000000000002,
+                16.4
+            ]
+        },
+        {
+            "text": "emergency",
+            "timestamp": [
+                16.4,
+                16.96
+            ]
+        },
+        {
+            "text": "fund,",
+            "timestamp": [
+                16.96,
+                17.28
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                17.44,
+                17.6
+            ]
+        },
+        {
+            "text": "paying",
+            "timestamp": [
+                17.6,
+                17.92
+            ]
+        },
+        {
+            "text": "off",
+            "timestamp": [
+                17.92,
+                18.16
+            ]
+        },
+        {
+            "text": "high-interest",
+            "timestamp": [
+                18.16,
+                18.72
+            ]
+        },
+        {
+            "text": "debt.",
+            "timestamp": [
+                18.72,
+                19.12
+            ]
+        },
+        {
+            "text": "Setting",
+            "timestamp": [
+                19.44,
+                19.84
+            ]
+        },
+        {
+            "text": "specific",
+            "timestamp": [
+                19.84,
+                20.32
+            ]
+        },
+        {
+            "text": "measurable",
+            "timestamp": [
+                20.32,
+                20.88
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                20.88,
+                21.04
+            ]
+        },
+        {
+            "text": "time-bound",
+            "timestamp": [
+                21.04,
+                21.6
+            ]
+        },
+        {
+            "text": "targets",
+            "timestamp": [
+                21.6,
+                22.0
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                22.0,
+                22.16
+            ]
+        },
+        {
+            "text": "help",
+            "timestamp": [
+                22.16,
+                22.32
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                22.32,
+                22.48
+            ]
+        },
+        {
+            "text": "stay",
+            "timestamp": [
+                22.48,
+                22.72
+            ]
+        },
+        {
+            "text": "focused",
+            "timestamp": [
+                22.72,
+                23.12
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                23.12,
+                23.2
+            ]
+        },
+        {
+            "text": "motivated.",
+            "timestamp": [
+                23.2,
+                24.32
+            ]
+        }
+    ]
+}

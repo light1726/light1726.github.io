@@ -1,0 +1,530 @@
+{
+    "text": "It is a complex issue. On one hand, the greenhouse effect is natural and essential for Earth's warmth and habitability. On the other, human activities like burning fossil fuels and deforestation have increased greenhouse gases, leading to global warming, extreme weather, and rising sea levels. While it is a natural process, human actions are now causing rapid and severe changes, so we need to reduce emissions and switch to clean energy to protect our planet.",
+    "chunks": [
+        {
+            "text": "It",
+            "timestamp": [
+                3.2,
+                3.52
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                3.68,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                3.7600000000000002,
+                3.92
+            ]
+        },
+        {
+            "text": "complex",
+            "timestamp": [
+                3.92,
+                4.48
+            ]
+        },
+        {
+            "text": "issue.",
+            "timestamp": [
+                4.48,
+                4.88
+            ]
+        },
+        {
+            "text": "On",
+            "timestamp": [
+                5.12,
+                5.36
+            ]
+        },
+        {
+            "text": "one",
+            "timestamp": [
+                5.36,
+                5.6000000000000005
+            ]
+        },
+        {
+            "text": "hand,",
+            "timestamp": [
+                5.6000000000000005,
+                5.76
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                5.92,
+                6.0
+            ]
+        },
+        {
+            "text": "greenhouse",
+            "timestamp": [
+                6.0,
+                6.5600000000000005
+            ]
+        },
+        {
+            "text": "effect",
+            "timestamp": [
+                6.5600000000000005,
+                6.96
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                6.96,
+                7.12
+            ]
+        },
+        {
+            "text": "natural",
+            "timestamp": [
+                7.12,
+                7.68
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                7.68,
+                7.84
+            ]
+        },
+        {
+            "text": "essential",
+            "timestamp": [
+                7.84,
+                8.4
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                8.4,
+                8.56
+            ]
+        },
+        {
+            "text": "Earth's",
+            "timestamp": [
+                8.56,
+                8.96
+            ]
+        },
+        {
+            "text": "warmth",
+            "timestamp": [
+                8.96,
+                9.36
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                9.36,
+                9.52
+            ]
+        },
+        {
+            "text": "habitability.",
+            "timestamp": [
+                9.52,
+                10.32
+            ]
+        },
+        {
+            "text": "On",
+            "timestamp": [
+                10.64,
+                10.8
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                10.8,
+                10.96
+            ]
+        },
+        {
+            "text": "other,",
+            "timestamp": [
+                10.96,
+                11.120000000000001
+            ]
+        },
+        {
+            "text": "human",
+            "timestamp": [
+                11.28,
+                11.6
+            ]
+        },
+        {
+            "text": "activities",
+            "timestamp": [
+                11.6,
+                12.16
+            ]
+        },
+        {
+            "text": "like",
+            "timestamp": [
+                12.16,
+                12.32
+            ]
+        },
+        {
+            "text": "burning",
+            "timestamp": [
+                12.32,
+                12.72
+            ]
+        },
+        {
+            "text": "fossil",
+            "timestamp": [
+                12.72,
+                13.200000000000001
+            ]
+        },
+        {
+            "text": "fuels",
+            "timestamp": [
+                13.200000000000001,
+                13.6
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                13.6,
+                13.76
+            ]
+        },
+        {
+            "text": "deforestation",
+            "timestamp": [
+                13.76,
+                14.64
+            ]
+        },
+        {
+            "text": "have",
+            "timestamp": [
+                14.64,
+                14.8
+            ]
+        },
+        {
+            "text": "increased",
+            "timestamp": [
+                14.8,
+                15.280000000000001
+            ]
+        },
+        {
+            "text": "greenhouse",
+            "timestamp": [
+                15.280000000000001,
+                15.84
+            ]
+        },
+        {
+            "text": "gases,",
+            "timestamp": [
+                15.84,
+                16.32
+            ]
+        },
+        {
+            "text": "leading",
+            "timestamp": [
+                16.64,
+                16.88
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                16.88,
+                17.04
+            ]
+        },
+        {
+            "text": "global",
+            "timestamp": [
+                17.04,
+                17.44
+            ]
+        },
+        {
+            "text": "warming,",
+            "timestamp": [
+                17.44,
+                17.84
+            ]
+        },
+        {
+            "text": "extreme",
+            "timestamp": [
+                18.0,
+                18.48
+            ]
+        },
+        {
+            "text": "weather,",
+            "timestamp": [
+                18.48,
+                18.8
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                18.96,
+                19.12
+            ]
+        },
+        {
+            "text": "rising",
+            "timestamp": [
+                19.12,
+                19.52
+            ]
+        },
+        {
+            "text": "sea",
+            "timestamp": [
+                19.52,
+                19.76
+            ]
+        },
+        {
+            "text": "levels.",
+            "timestamp": [
+                19.76,
+                20.16
+            ]
+        },
+        {
+            "text": "While",
+            "timestamp": [
+                20.400000000000002,
+                20.64
+            ]
+        },
+        {
+            "text": "it",
+            "timestamp": [
+                20.64,
+                20.72
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                20.72,
+                20.88
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                20.88,
+                20.96
+            ]
+        },
+        {
+            "text": "natural",
+            "timestamp": [
+                20.96,
+                21.44
+            ]
+        },
+        {
+            "text": "process,",
+            "timestamp": [
+                21.44,
+                21.92
+            ]
+        },
+        {
+            "text": "human",
+            "timestamp": [
+                22.080000000000002,
+                22.400000000000002
+            ]
+        },
+        {
+            "text": "actions",
+            "timestamp": [
+                22.400000000000002,
+                22.8
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                22.8,
+                22.96
+            ]
+        },
+        {
+            "text": "now",
+            "timestamp": [
+                22.96,
+                23.2
+            ]
+        },
+        {
+            "text": "causing",
+            "timestamp": [
+                23.2,
+                23.6
+            ]
+        },
+        {
+            "text": "rapid",
+            "timestamp": [
+                23.6,
+                24.080000000000002
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                24.080000000000002,
+                24.240000000000002
+            ]
+        },
+        {
+            "text": "severe",
+            "timestamp": [
+                24.240000000000002,
+                24.72
+            ]
+        },
+        {
+            "text": "changes,",
+            "timestamp": [
+                24.72,
+                25.12
+            ]
+        },
+        {
+            "text": "so",
+            "timestamp": [
+                25.44,
+                25.68
+            ]
+        },
+        {
+            "text": "we",
+            "timestamp": [
+                25.68,
+                25.76
+            ]
+        },
+        {
+            "text": "need",
+            "timestamp": [
+                25.76,
+                25.92
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                25.92,
+                26.080000000000002
+            ]
+        },
+        {
+            "text": "reduce",
+            "timestamp": [
+                26.080000000000002,
+                26.48
+            ]
+        },
+        {
+            "text": "emissions",
+            "timestamp": [
+                26.48,
+                27.04
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                27.04,
+                27.2
+            ]
+        },
+        {
+            "text": "switch",
+            "timestamp": [
+                27.2,
+                27.52
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                27.52,
+                27.68
+            ]
+        },
+        {
+            "text": "clean",
+            "timestamp": [
+                27.68,
+                28.0
+            ]
+        },
+        {
+            "text": "energy",
+            "timestamp": [
+                28.0,
+                28.48
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                28.48,
+                28.64
+            ]
+        },
+        {
+            "text": "protect",
+            "timestamp": [
+                28.64,
+                28.96
+            ]
+        },
+        {
+            "text": "our",
+            "timestamp": [
+                28.96,
+                29.2
+            ]
+        },
+        {
+            "text": "planet.",
+            "timestamp": [
+                29.2,
+                29.76
+            ]
+        }
+    ]
+}

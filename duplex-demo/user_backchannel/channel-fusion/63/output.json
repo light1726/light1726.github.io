@@ -1,0 +1,544 @@
+{
+    "text": "A space telescope is a large, complex instrument designed to observe the universe from above Earth's atmosphere, allowing it to capture clearer and more detailed images of distant galaxies, stars, and planets. It is typically mounted on a spacecraft, such as the Hubble Space Telescope, which orbits Earth at a high altitude to avoid atmospheric interference. These telescopes are built to collect and analyze light across a wide range of wavelengths, including visible light, ultraviolet, and light.",
+    "chunks": [
+        {
+            "text": "A",
+            "timestamp": [
+                2.24,
+                2.56
+            ]
+        },
+        {
+            "text": "space",
+            "timestamp": [
+                2.56,
+                2.88
+            ]
+        },
+        {
+            "text": "telescope",
+            "timestamp": [
+                2.88,
+                3.44
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                3.44,
+                3.6
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                3.6,
+                3.68
+            ]
+        },
+        {
+            "text": "large,",
+            "timestamp": [
+                3.68,
+                4.0
+            ]
+        },
+        {
+            "text": "complex",
+            "timestamp": [
+                4.08,
+                4.64
+            ]
+        },
+        {
+            "text": "instrument",
+            "timestamp": [
+                4.64,
+                5.2
+            ]
+        },
+        {
+            "text": "designed",
+            "timestamp": [
+                5.2,
+                5.6000000000000005
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                5.6000000000000005,
+                5.76
+            ]
+        },
+        {
+            "text": "observe",
+            "timestamp": [
+                5.76,
+                6.16
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                6.16,
+                6.32
+            ]
+        },
+        {
+            "text": "universe",
+            "timestamp": [
+                6.32,
+                6.8
+            ]
+        },
+        {
+            "text": "from",
+            "timestamp": [
+                6.8,
+                6.96
+            ]
+        },
+        {
+            "text": "above",
+            "timestamp": [
+                6.96,
+                7.28
+            ]
+        },
+        {
+            "text": "Earth's",
+            "timestamp": [
+                7.28,
+                7.68
+            ]
+        },
+        {
+            "text": "atmosphere,",
+            "timestamp": [
+                7.68,
+                8.32
+            ]
+        },
+        {
+            "text": "allowing",
+            "timestamp": [
+                8.64,
+                9.040000000000001
+            ]
+        },
+        {
+            "text": "it",
+            "timestamp": [
+                9.040000000000001,
+                9.200000000000001
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                9.200000000000001,
+                9.28
+            ]
+        },
+        {
+            "text": "capture",
+            "timestamp": [
+                9.28,
+                9.68
+            ]
+        },
+        {
+            "text": "clearer",
+            "timestamp": [
+                9.68,
+                10.16
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                10.16,
+                10.32
+            ]
+        },
+        {
+            "text": "more",
+            "timestamp": [
+                10.32,
+                10.48
+            ]
+        },
+        {
+            "text": "detailed",
+            "timestamp": [
+                10.48,
+                11.040000000000001
+            ]
+        },
+        {
+            "text": "images",
+            "timestamp": [
+                11.040000000000001,
+                11.44
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                11.44,
+                11.6
+            ]
+        },
+        {
+            "text": "distant",
+            "timestamp": [
+                11.6,
+                12.0
+            ]
+        },
+        {
+            "text": "galaxies,",
+            "timestamp": [
+                12.0,
+                12.64
+            ]
+        },
+        {
+            "text": "stars,",
+            "timestamp": [
+                12.96,
+                13.44
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                13.52,
+                13.76
+            ]
+        },
+        {
+            "text": "planets.",
+            "timestamp": [
+                13.76,
+                14.4
+            ]
+        },
+        {
+            "text": "It",
+            "timestamp": [
+                14.72,
+                14.88
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                14.88,
+                15.040000000000001
+            ]
+        },
+        {
+            "text": "typically",
+            "timestamp": [
+                15.040000000000001,
+                15.52
+            ]
+        },
+        {
+            "text": "mounted",
+            "timestamp": [
+                15.52,
+                15.92
+            ]
+        },
+        {
+            "text": "on",
+            "timestamp": [
+                15.92,
+                16.080000000000002
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                16.080000000000002,
+                16.240000000000002
+            ]
+        },
+        {
+            "text": "spacecraft,",
+            "timestamp": [
+                16.240000000000002,
+                16.88
+            ]
+        },
+        {
+            "text": "such",
+            "timestamp": [
+                17.04,
+                17.2
+            ]
+        },
+        {
+            "text": "as",
+            "timestamp": [
+                17.2,
+                17.28
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                17.28,
+                17.44
+            ]
+        },
+        {
+            "text": "Hubble",
+            "timestamp": [
+                17.44,
+                17.92
+            ]
+        },
+        {
+            "text": "Space",
+            "timestamp": [
+                17.92,
+                18.240000000000002
+            ]
+        },
+        {
+            "text": "Telescope,",
+            "timestamp": [
+                18.240000000000002,
+                18.8
+            ]
+        },
+        {
+            "text": "which",
+            "timestamp": [
+                19.12,
+                19.28
+            ]
+        },
+        {
+            "text": "orbits",
+            "timestamp": [
+                19.28,
+                19.76
+            ]
+        },
+        {
+            "text": "Earth",
+            "timestamp": [
+                19.76,
+                20.16
+            ]
+        },
+        {
+            "text": "at",
+            "timestamp": [
+                20.16,
+                20.32
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                20.32,
+                20.400000000000002
+            ]
+        },
+        {
+            "text": "high",
+            "timestamp": [
+                20.400000000000002,
+                20.64
+            ]
+        },
+        {
+            "text": "altitude",
+            "timestamp": [
+                20.64,
+                21.2
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                21.2,
+                21.36
+            ]
+        },
+        {
+            "text": "avoid",
+            "timestamp": [
+                21.36,
+                21.76
+            ]
+        },
+        {
+            "text": "atmospheric",
+            "timestamp": [
+                21.76,
+                22.48
+            ]
+        },
+        {
+            "text": "interference.",
+            "timestamp": [
+                22.48,
+                23.12
+            ]
+        },
+        {
+            "text": "These",
+            "timestamp": [
+                23.44,
+                23.68
+            ]
+        },
+        {
+            "text": "telescopes",
+            "timestamp": [
+                23.68,
+                24.32
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                24.32,
+                24.48
+            ]
+        },
+        {
+            "text": "built",
+            "timestamp": [
+                24.48,
+                24.72
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                24.72,
+                24.88
+            ]
+        },
+        {
+            "text": "collect",
+            "timestamp": [
+                24.88,
+                25.28
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                25.28,
+                25.44
+            ]
+        },
+        {
+            "text": "analyze",
+            "timestamp": [
+                25.44,
+                26.0
+            ]
+        },
+        {
+            "text": "light",
+            "timestamp": [
+                26.0,
+                26.32
+            ]
+        },
+        {
+            "text": "across",
+            "timestamp": [
+                26.32,
+                26.72
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                26.72,
+                26.88
+            ]
+        },
+        {
+            "text": "wide",
+            "timestamp": [
+                26.88,
+                27.12
+            ]
+        },
+        {
+            "text": "range",
+            "timestamp": [
+                27.12,
+                27.36
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                27.36,
+                27.52
+            ]
+        },
+        {
+            "text": "wavelengths,",
+            "timestamp": [
+                27.52,
+                28.16
+            ]
+        },
+        {
+            "text": "including",
+            "timestamp": [
+                28.400000000000002,
+                28.72
+            ]
+        },
+        {
+            "text": "visible",
+            "timestamp": [
+                28.72,
+                29.2
+            ]
+        },
+        {
+            "text": "light,",
+            "timestamp": [
+                29.2,
+                29.44
+            ]
+        },
+        {
+            "text": "ultraviolet,",
+            "timestamp": [
+                29.52,
+                30.0
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                30.16,
+                30.16
+            ]
+        },
+        {
+            "text": "light.",
+            "timestamp": [
+                30.16,
+                30.16
+            ]
+        }
+    ]
+}

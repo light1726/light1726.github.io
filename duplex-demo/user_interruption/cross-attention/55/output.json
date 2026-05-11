@@ -1,0 +1,509 @@
+{
+    "text": "I am sorry, but I can't assist with that. If you have any other questions or need something else you might enjoy is a classic board game like chess or checkers, or perhaps a puzzle like Sudoku. You could also try a new video game or a board game that you haven't played before. If you are into cooking, maybe you'd like to try a new recipe or explore a different cuisine.",
+    "chunks": [
+        {
+            "text": "I",
+            "timestamp": [
+                2.88,
+                3.2
+            ]
+        },
+        {
+            "text": "am",
+            "timestamp": [
+                3.2,
+                3.36
+            ]
+        },
+        {
+            "text": "sorry,",
+            "timestamp": [
+                3.36,
+                3.68
+            ]
+        },
+        {
+            "text": "but",
+            "timestamp": [
+                3.7600000000000002,
+                3.92
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                3.92,
+                4.08
+            ]
+        },
+        {
+            "text": "can't",
+            "timestamp": [
+                4.08,
+                4.32
+            ]
+        },
+        {
+            "text": "assist",
+            "timestamp": [
+                4.32,
+                4.72
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                4.72,
+                4.96
+            ]
+        },
+        {
+            "text": "that.",
+            "timestamp": [
+                4.96,
+                5.2
+            ]
+        },
+        {
+            "text": "If",
+            "timestamp": [
+                5.44,
+                5.68
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                5.68,
+                5.84
+            ]
+        },
+        {
+            "text": "have",
+            "timestamp": [
+                5.84,
+                6.0
+            ]
+        },
+        {
+            "text": "any",
+            "timestamp": [
+                6.0,
+                6.24
+            ]
+        },
+        {
+            "text": "other",
+            "timestamp": [
+                6.24,
+                6.5600000000000005
+            ]
+        },
+        {
+            "text": "questions",
+            "timestamp": [
+                6.5600000000000005,
+                6.96
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                6.96,
+                7.2
+            ]
+        },
+        {
+            "text": "need",
+            "timestamp": [
+                7.2,
+                7.36
+            ]
+        },
+        {
+            "text": "something",
+            "timestamp": [
+                9.040000000000001,
+                9.200000000000001
+            ]
+        },
+        {
+            "text": "else",
+            "timestamp": [
+                9.44,
+                9.92
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                9.92,
+                10.16
+            ]
+        },
+        {
+            "text": "might",
+            "timestamp": [
+                10.16,
+                10.4
+            ]
+        },
+        {
+            "text": "enjoy",
+            "timestamp": [
+                10.4,
+                10.88
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                10.88,
+                11.040000000000001
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                11.040000000000001,
+                11.200000000000001
+            ]
+        },
+        {
+            "text": "classic",
+            "timestamp": [
+                11.200000000000001,
+                11.68
+            ]
+        },
+        {
+            "text": "board",
+            "timestamp": [
+                11.68,
+                12.0
+            ]
+        },
+        {
+            "text": "game",
+            "timestamp": [
+                12.0,
+                12.32
+            ]
+        },
+        {
+            "text": "like",
+            "timestamp": [
+                12.32,
+                12.64
+            ]
+        },
+        {
+            "text": "chess",
+            "timestamp": [
+                12.64,
+                13.040000000000001
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                13.040000000000001,
+                13.200000000000001
+            ]
+        },
+        {
+            "text": "checkers,",
+            "timestamp": [
+                13.200000000000001,
+                13.84
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                14.16,
+                14.32
+            ]
+        },
+        {
+            "text": "perhaps",
+            "timestamp": [
+                14.32,
+                14.72
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                14.72,
+                14.88
+            ]
+        },
+        {
+            "text": "puzzle",
+            "timestamp": [
+                14.88,
+                15.280000000000001
+            ]
+        },
+        {
+            "text": "like",
+            "timestamp": [
+                15.280000000000001,
+                15.44
+            ]
+        },
+        {
+            "text": "Sudoku.",
+            "timestamp": [
+                15.44,
+                16.4
+            ]
+        },
+        {
+            "text": "You",
+            "timestamp": [
+                16.72,
+                16.96
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                16.96,
+                17.12
+            ]
+        },
+        {
+            "text": "also",
+            "timestamp": [
+                17.12,
+                17.44
+            ]
+        },
+        {
+            "text": "try",
+            "timestamp": [
+                17.44,
+                17.68
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                17.68,
+                17.92
+            ]
+        },
+        {
+            "text": "new",
+            "timestamp": [
+                17.92,
+                18.16
+            ]
+        },
+        {
+            "text": "video",
+            "timestamp": [
+                18.16,
+                18.56
+            ]
+        },
+        {
+            "text": "game",
+            "timestamp": [
+                18.56,
+                18.88
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                18.88,
+                19.12
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                19.12,
+                19.2
+            ]
+        },
+        {
+            "text": "board",
+            "timestamp": [
+                19.2,
+                19.52
+            ]
+        },
+        {
+            "text": "game",
+            "timestamp": [
+                19.52,
+                19.84
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                19.84,
+                20.080000000000002
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                20.080000000000002,
+                20.240000000000002
+            ]
+        },
+        {
+            "text": "haven't",
+            "timestamp": [
+                20.240000000000002,
+                20.64
+            ]
+        },
+        {
+            "text": "played",
+            "timestamp": [
+                20.64,
+                21.04
+            ]
+        },
+        {
+            "text": "before.",
+            "timestamp": [
+                21.04,
+                21.36
+            ]
+        },
+        {
+            "text": "If",
+            "timestamp": [
+                21.68,
+                21.84
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                21.84,
+                22.0
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                22.0,
+                22.240000000000002
+            ]
+        },
+        {
+            "text": "into",
+            "timestamp": [
+                22.240000000000002,
+                22.48
+            ]
+        },
+        {
+            "text": "cooking,",
+            "timestamp": [
+                22.48,
+                22.88
+            ]
+        },
+        {
+            "text": "maybe",
+            "timestamp": [
+                23.12,
+                23.36
+            ]
+        },
+        {
+            "text": "you'd",
+            "timestamp": [
+                23.36,
+                23.6
+            ]
+        },
+        {
+            "text": "like",
+            "timestamp": [
+                23.6,
+                23.76
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                23.76,
+                23.92
+            ]
+        },
+        {
+            "text": "try",
+            "timestamp": [
+                23.92,
+                24.080000000000002
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                24.080000000000002,
+                24.240000000000002
+            ]
+        },
+        {
+            "text": "new",
+            "timestamp": [
+                24.240000000000002,
+                24.400000000000002
+            ]
+        },
+        {
+            "text": "recipe",
+            "timestamp": [
+                24.400000000000002,
+                25.04
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                25.04,
+                25.2
+            ]
+        },
+        {
+            "text": "explore",
+            "timestamp": [
+                25.2,
+                25.76
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                25.76,
+                25.92
+            ]
+        },
+        {
+            "text": "different",
+            "timestamp": [
+                25.92,
+                26.240000000000002
+            ]
+        },
+        {
+            "text": "cuisine.",
+            "timestamp": [
+                26.240000000000002,
+                27.44
+            ]
+        }
+    ]
+}

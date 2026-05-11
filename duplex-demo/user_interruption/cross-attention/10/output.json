@@ -1,0 +1,418 @@
+{
+    "text": "To reduce stress quickly, try deep breathing exercises. Sleep improvement can be achieved through consistent sleep schedules, creating a relaxing bedtime routine, and ensuring a comfortable sleep environment. Additionally, regular exercise, reducing caffeine intake before bed, and avoiding screens before sleep can also help. If stress is a significant factor, consider talking to a healthcare professional about potential under",
+    "chunks": [
+        {
+            "text": "To",
+            "timestamp": [
+                2.72,
+                2.96
+            ]
+        },
+        {
+            "text": "reduce",
+            "timestamp": [
+                2.96,
+                3.44
+            ]
+        },
+        {
+            "text": "stress",
+            "timestamp": [
+                3.44,
+                3.84
+            ]
+        },
+        {
+            "text": "quickly,",
+            "timestamp": [
+                3.84,
+                4.16
+            ]
+        },
+        {
+            "text": "try",
+            "timestamp": [
+                4.32,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "deep",
+            "timestamp": [
+                4.5600000000000005,
+                4.88
+            ]
+        },
+        {
+            "text": "breathing",
+            "timestamp": [
+                4.88,
+                5.36
+            ]
+        },
+        {
+            "text": "exercises.",
+            "timestamp": [
+                5.36,
+                6.16
+            ]
+        },
+        {
+            "text": "Sleep",
+            "timestamp": [
+                9.120000000000001,
+                9.52
+            ]
+        },
+        {
+            "text": "improvement",
+            "timestamp": [
+                9.52,
+                10.08
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                10.08,
+                10.24
+            ]
+        },
+        {
+            "text": "be",
+            "timestamp": [
+                10.24,
+                10.4
+            ]
+        },
+        {
+            "text": "achieved",
+            "timestamp": [
+                10.4,
+                10.8
+            ]
+        },
+        {
+            "text": "through",
+            "timestamp": [
+                10.8,
+                11.040000000000001
+            ]
+        },
+        {
+            "text": "consistent",
+            "timestamp": [
+                11.040000000000001,
+                11.6
+            ]
+        },
+        {
+            "text": "sleep",
+            "timestamp": [
+                11.6,
+                11.92
+            ]
+        },
+        {
+            "text": "schedules,",
+            "timestamp": [
+                11.92,
+                12.4
+            ]
+        },
+        {
+            "text": "creating",
+            "timestamp": [
+                12.72,
+                13.120000000000001
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                13.120000000000001,
+                13.200000000000001
+            ]
+        },
+        {
+            "text": "relaxing",
+            "timestamp": [
+                13.200000000000001,
+                13.76
+            ]
+        },
+        {
+            "text": "bedtime",
+            "timestamp": [
+                13.76,
+                14.32
+            ]
+        },
+        {
+            "text": "routine,",
+            "timestamp": [
+                14.32,
+                14.72
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                14.96,
+                15.120000000000001
+            ]
+        },
+        {
+            "text": "ensuring",
+            "timestamp": [
+                15.120000000000001,
+                15.52
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                15.52,
+                15.68
+            ]
+        },
+        {
+            "text": "comfortable",
+            "timestamp": [
+                15.68,
+                16.16
+            ]
+        },
+        {
+            "text": "sleep",
+            "timestamp": [
+                16.16,
+                16.56
+            ]
+        },
+        {
+            "text": "environment.",
+            "timestamp": [
+                16.56,
+                16.96
+            ]
+        },
+        {
+            "text": "Additionally,",
+            "timestamp": [
+                17.28,
+                17.84
+            ]
+        },
+        {
+            "text": "regular",
+            "timestamp": [
+                18.0,
+                18.48
+            ]
+        },
+        {
+            "text": "exercise,",
+            "timestamp": [
+                18.48,
+                19.12
+            ]
+        },
+        {
+            "text": "reducing",
+            "timestamp": [
+                19.44,
+                19.92
+            ]
+        },
+        {
+            "text": "caffeine",
+            "timestamp": [
+                19.92,
+                20.48
+            ]
+        },
+        {
+            "text": "intake",
+            "timestamp": [
+                20.48,
+                20.96
+            ]
+        },
+        {
+            "text": "before",
+            "timestamp": [
+                20.96,
+                21.2
+            ]
+        },
+        {
+            "text": "bed,",
+            "timestamp": [
+                21.2,
+                21.52
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                21.68,
+                21.92
+            ]
+        },
+        {
+            "text": "avoiding",
+            "timestamp": [
+                21.92,
+                22.32
+            ]
+        },
+        {
+            "text": "screens",
+            "timestamp": [
+                22.32,
+                22.88
+            ]
+        },
+        {
+            "text": "before",
+            "timestamp": [
+                22.88,
+                23.12
+            ]
+        },
+        {
+            "text": "sleep",
+            "timestamp": [
+                23.12,
+                23.52
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                23.52,
+                23.76
+            ]
+        },
+        {
+            "text": "also",
+            "timestamp": [
+                23.76,
+                24.0
+            ]
+        },
+        {
+            "text": "help.",
+            "timestamp": [
+                24.0,
+                24.32
+            ]
+        },
+        {
+            "text": "If",
+            "timestamp": [
+                24.64,
+                24.88
+            ]
+        },
+        {
+            "text": "stress",
+            "timestamp": [
+                24.88,
+                25.28
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                25.28,
+                25.44
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                25.44,
+                25.6
+            ]
+        },
+        {
+            "text": "significant",
+            "timestamp": [
+                25.6,
+                26.16
+            ]
+        },
+        {
+            "text": "factor,",
+            "timestamp": [
+                26.16,
+                26.560000000000002
+            ]
+        },
+        {
+            "text": "consider",
+            "timestamp": [
+                26.8,
+                27.36
+            ]
+        },
+        {
+            "text": "talking",
+            "timestamp": [
+                27.36,
+                27.68
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                27.68,
+                27.84
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                27.84,
+                28.0
+            ]
+        },
+        {
+            "text": "healthcare",
+            "timestamp": [
+                28.0,
+                28.560000000000002
+            ]
+        },
+        {
+            "text": "professional",
+            "timestamp": [
+                28.560000000000002,
+                29.12
+            ]
+        },
+        {
+            "text": "about",
+            "timestamp": [
+                29.12,
+                29.28
+            ]
+        },
+        {
+            "text": "potential",
+            "timestamp": [
+                29.28,
+                29.76
+            ]
+        },
+        {
+            "text": "under",
+            "timestamp": [
+                29.76,
+                29.84
+            ]
+        }
+    ]
+}

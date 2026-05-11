@@ -1,0 +1,404 @@
+{
+    "text": "Time travel is a concept from science fiction that explores the idea of moving through time. Some theories suggest it is possible through wormholes or closed time-like curves, where time could look back on itself. However, these ideas remain theoretical and face major challenges, like the grandfather paradox, which questions whether time travel could create logical contradictions.",
+    "chunks": [
+        {
+            "text": "Time",
+            "timestamp": [
+                2.24,
+                2.88
+            ]
+        },
+        {
+            "text": "travel",
+            "timestamp": [
+                2.88,
+                3.2800000000000002
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                3.2800000000000002,
+                3.44
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                3.44,
+                3.52
+            ]
+        },
+        {
+            "text": "concept",
+            "timestamp": [
+                3.52,
+                3.92
+            ]
+        },
+        {
+            "text": "from",
+            "timestamp": [
+                3.92,
+                4.16
+            ]
+        },
+        {
+            "text": "science",
+            "timestamp": [
+                4.16,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "fiction",
+            "timestamp": [
+                4.5600000000000005,
+                4.96
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                4.96,
+                5.2
+            ]
+        },
+        {
+            "text": "explores",
+            "timestamp": [
+                5.2,
+                5.68
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                5.68,
+                5.84
+            ]
+        },
+        {
+            "text": "idea",
+            "timestamp": [
+                5.84,
+                6.16
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                6.16,
+                6.4
+            ]
+        },
+        {
+            "text": "moving",
+            "timestamp": [
+                6.4,
+                6.88
+            ]
+        },
+        {
+            "text": "through",
+            "timestamp": [
+                6.88,
+                7.12
+            ]
+        },
+        {
+            "text": "time.",
+            "timestamp": [
+                7.12,
+                7.44
+            ]
+        },
+        {
+            "text": "Some",
+            "timestamp": [
+                7.76,
+                8.08
+            ]
+        },
+        {
+            "text": "theories",
+            "timestamp": [
+                8.08,
+                8.56
+            ]
+        },
+        {
+            "text": "suggest",
+            "timestamp": [
+                8.56,
+                8.96
+            ]
+        },
+        {
+            "text": "it",
+            "timestamp": [
+                8.96,
+                9.120000000000001
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                9.120000000000001,
+                9.28
+            ]
+        },
+        {
+            "text": "possible",
+            "timestamp": [
+                9.28,
+                9.68
+            ]
+        },
+        {
+            "text": "through",
+            "timestamp": [
+                9.68,
+                9.92
+            ]
+        },
+        {
+            "text": "wormholes",
+            "timestamp": [
+                9.92,
+                10.56
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                10.56,
+                10.72
+            ]
+        },
+        {
+            "text": "closed",
+            "timestamp": [
+                10.72,
+                11.040000000000001
+            ]
+        },
+        {
+            "text": "time-like",
+            "timestamp": [
+                11.120000000000001,
+                11.68
+            ]
+        },
+        {
+            "text": "curves,",
+            "timestamp": [
+                11.68,
+                12.16
+            ]
+        },
+        {
+            "text": "where",
+            "timestamp": [
+                12.4,
+                12.64
+            ]
+        },
+        {
+            "text": "time",
+            "timestamp": [
+                12.64,
+                12.88
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                12.88,
+                13.120000000000001
+            ]
+        },
+        {
+            "text": "look",
+            "timestamp": [
+                13.120000000000001,
+                13.280000000000001
+            ]
+        },
+        {
+            "text": "back",
+            "timestamp": [
+                13.44,
+                13.68
+            ]
+        },
+        {
+            "text": "on",
+            "timestamp": [
+                13.68,
+                13.92
+            ]
+        },
+        {
+            "text": "itself.",
+            "timestamp": [
+                13.92,
+                14.48
+            ]
+        },
+        {
+            "text": "However,",
+            "timestamp": [
+                14.8,
+                15.200000000000001
+            ]
+        },
+        {
+            "text": "these",
+            "timestamp": [
+                15.44,
+                15.68
+            ]
+        },
+        {
+            "text": "ideas",
+            "timestamp": [
+                15.68,
+                16.16
+            ]
+        },
+        {
+            "text": "remain",
+            "timestamp": [
+                16.16,
+                16.56
+            ]
+        },
+        {
+            "text": "theoretical",
+            "timestamp": [
+                16.56,
+                17.2
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                17.2,
+                17.36
+            ]
+        },
+        {
+            "text": "face",
+            "timestamp": [
+                17.36,
+                17.6
+            ]
+        },
+        {
+            "text": "major",
+            "timestamp": [
+                17.6,
+                18.0
+            ]
+        },
+        {
+            "text": "challenges,",
+            "timestamp": [
+                18.0,
+                18.56
+            ]
+        },
+        {
+            "text": "like",
+            "timestamp": [
+                18.8,
+                19.04
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                19.04,
+                19.2
+            ]
+        },
+        {
+            "text": "grandfather",
+            "timestamp": [
+                19.2,
+                19.84
+            ]
+        },
+        {
+            "text": "paradox,",
+            "timestamp": [
+                19.84,
+                20.48
+            ]
+        },
+        {
+            "text": "which",
+            "timestamp": [
+                20.8,
+                21.04
+            ]
+        },
+        {
+            "text": "questions",
+            "timestamp": [
+                21.04,
+                21.52
+            ]
+        },
+        {
+            "text": "whether",
+            "timestamp": [
+                21.52,
+                21.84
+            ]
+        },
+        {
+            "text": "time",
+            "timestamp": [
+                21.84,
+                22.080000000000002
+            ]
+        },
+        {
+            "text": "travel",
+            "timestamp": [
+                22.080000000000002,
+                22.56
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                22.56,
+                22.72
+            ]
+        },
+        {
+            "text": "create",
+            "timestamp": [
+                22.72,
+                23.04
+            ]
+        },
+        {
+            "text": "logical",
+            "timestamp": [
+                23.04,
+                23.6
+            ]
+        },
+        {
+            "text": "contradictions.",
+            "timestamp": [
+                23.6,
+                25.04
+            ]
+        }
+    ]
+}

@@ -1,0 +1,551 @@
+{
+    "text": "It is important to approach this topic with sensitivity and care. If you are feeling the need to travel, consider the safety of the destination, the availability of accommodations, and the overall experience you can have. It is also crucial to think about the impact of your travel on the places you visit and the people you meet. If you are unsure, you might want to consult with a travel expert or a travel advisory service for guidance.",
+    "chunks": [
+        {
+            "text": "It",
+            "timestamp": [
+                2.88,
+                3.12
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                3.44,
+                3.68
+            ]
+        },
+        {
+            "text": "important",
+            "timestamp": [
+                3.68,
+                3.92
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                3.92,
+                4.16
+            ]
+        },
+        {
+            "text": "approach",
+            "timestamp": [
+                4.16,
+                4.64
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                4.64,
+                4.88
+            ]
+        },
+        {
+            "text": "topic",
+            "timestamp": [
+                4.88,
+                5.28
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                5.28,
+                5.44
+            ]
+        },
+        {
+            "text": "sensitivity",
+            "timestamp": [
+                5.44,
+                6.24
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                6.24,
+                6.5600000000000005
+            ]
+        },
+        {
+            "text": "care.",
+            "timestamp": [
+                6.5600000000000005,
+                6.88
+            ]
+        },
+        {
+            "text": "If",
+            "timestamp": [
+                7.12,
+                7.36
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                7.36,
+                7.5200000000000005
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                7.5200000000000005,
+                7.68
+            ]
+        },
+        {
+            "text": "feeling",
+            "timestamp": [
+                7.68,
+                8.0
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                8.0,
+                8.16
+            ]
+        },
+        {
+            "text": "need",
+            "timestamp": [
+                8.16,
+                8.4
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                8.4,
+                8.48
+            ]
+        },
+        {
+            "text": "travel,",
+            "timestamp": [
+                8.48,
+                8.88
+            ]
+        },
+        {
+            "text": "consider",
+            "timestamp": [
+                9.120000000000001,
+                9.52
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                9.52,
+                9.68
+            ]
+        },
+        {
+            "text": "safety",
+            "timestamp": [
+                9.68,
+                10.08
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                10.08,
+                10.24
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                10.24,
+                10.4
+            ]
+        },
+        {
+            "text": "destination,",
+            "timestamp": [
+                10.4,
+                10.96
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                11.200000000000001,
+                11.36
+            ]
+        },
+        {
+            "text": "availability",
+            "timestamp": [
+                11.36,
+                12.0
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                12.0,
+                12.24
+            ]
+        },
+        {
+            "text": "accommodations,",
+            "timestamp": [
+                12.24,
+                12.96
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                13.280000000000001,
+                13.44
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                13.44,
+                13.6
+            ]
+        },
+        {
+            "text": "overall",
+            "timestamp": [
+                13.6,
+                14.08
+            ]
+        },
+        {
+            "text": "experience",
+            "timestamp": [
+                14.08,
+                14.8
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                14.8,
+                14.96
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                14.96,
+                15.200000000000001
+            ]
+        },
+        {
+            "text": "have.",
+            "timestamp": [
+                15.200000000000001,
+                15.44
+            ]
+        },
+        {
+            "text": "It",
+            "timestamp": [
+                15.76,
+                16.0
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                16.0,
+                16.16
+            ]
+        },
+        {
+            "text": "also",
+            "timestamp": [
+                16.16,
+                16.4
+            ]
+        },
+        {
+            "text": "crucial",
+            "timestamp": [
+                16.4,
+                16.88
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                16.88,
+                17.04
+            ]
+        },
+        {
+            "text": "think",
+            "timestamp": [
+                17.04,
+                17.2
+            ]
+        },
+        {
+            "text": "about",
+            "timestamp": [
+                17.2,
+                17.44
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                17.44,
+                17.6
+            ]
+        },
+        {
+            "text": "impact",
+            "timestamp": [
+                17.6,
+                18.0
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                18.0,
+                18.16
+            ]
+        },
+        {
+            "text": "your",
+            "timestamp": [
+                18.16,
+                18.32
+            ]
+        },
+        {
+            "text": "travel",
+            "timestamp": [
+                18.32,
+                18.72
+            ]
+        },
+        {
+            "text": "on",
+            "timestamp": [
+                18.72,
+                18.88
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                18.88,
+                18.96
+            ]
+        },
+        {
+            "text": "places",
+            "timestamp": [
+                18.96,
+                19.36
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                19.36,
+                19.44
+            ]
+        },
+        {
+            "text": "visit",
+            "timestamp": [
+                19.44,
+                19.84
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                19.84,
+                20.080000000000002
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                20.080000000000002,
+                20.240000000000002
+            ]
+        },
+        {
+            "text": "people",
+            "timestamp": [
+                20.240000000000002,
+                20.56
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                20.56,
+                20.8
+            ]
+        },
+        {
+            "text": "meet.",
+            "timestamp": [
+                20.8,
+                21.2
+            ]
+        },
+        {
+            "text": "If",
+            "timestamp": [
+                21.52,
+                21.76
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                21.76,
+                21.92
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                21.92,
+                22.080000000000002
+            ]
+        },
+        {
+            "text": "unsure,",
+            "timestamp": [
+                22.080000000000002,
+                22.56
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                22.72,
+                22.8
+            ]
+        },
+        {
+            "text": "might",
+            "timestamp": [
+                22.8,
+                23.04
+            ]
+        },
+        {
+            "text": "want",
+            "timestamp": [
+                23.04,
+                23.12
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                23.12,
+                23.28
+            ]
+        },
+        {
+            "text": "consult",
+            "timestamp": [
+                23.28,
+                23.68
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                23.68,
+                23.84
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                23.84,
+                24.0
+            ]
+        },
+        {
+            "text": "travel",
+            "timestamp": [
+                24.0,
+                24.48
+            ]
+        },
+        {
+            "text": "expert",
+            "timestamp": [
+                24.48,
+                24.88
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                24.88,
+                25.12
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                25.12,
+                25.28
+            ]
+        },
+        {
+            "text": "travel",
+            "timestamp": [
+                25.28,
+                25.6
+            ]
+        },
+        {
+            "text": "advisory",
+            "timestamp": [
+                25.6,
+                26.240000000000002
+            ]
+        },
+        {
+            "text": "service",
+            "timestamp": [
+                26.240000000000002,
+                26.8
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                26.8,
+                27.12
+            ]
+        },
+        {
+            "text": "guidance.",
+            "timestamp": [
+                27.12,
+                28.080000000000002
+            ]
+        }
+    ]
+}

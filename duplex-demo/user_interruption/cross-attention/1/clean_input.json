@@ -1,0 +1,54 @@
+{
+    "text": "How can I save money more effectively?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.48,
+                0.64
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                0.64,
+                0.8
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                0.8,
+                0.96
+            ]
+        },
+        {
+            "text": "save",
+            "timestamp": [
+                0.96,
+                1.28
+            ]
+        },
+        {
+            "text": "money",
+            "timestamp": [
+                1.28,
+                1.76
+            ]
+        },
+        {
+            "text": "more",
+            "timestamp": [
+                1.76,
+                1.84
+            ]
+        },
+        {
+            "text": "effectively?",
+            "timestamp": [
+                2.0,
+                2.88
+            ]
+        }
+    ]
+}

@@ -1,0 +1,523 @@
+{
+    "text": "You can save more effectively by tracking your expenses to understand where your money goes. Prioritize essential expenses like rent, utilities, and groceries. Cut back on non-essential spending such as dining out, substructions, and entertainment. Consider setting up a budget and sticking to it. Automate your savings by putting a portion of your paycheck into a savings account automatically. Also, look for ways to save money on big purchases like buying used items or",
+    "chunks": [
+        {
+            "text": "You",
+            "timestamp": [
+                3.04,
+                3.36
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                3.36,
+                3.52
+            ]
+        },
+        {
+            "text": "save",
+            "timestamp": [
+                3.52,
+                3.84
+            ]
+        },
+        {
+            "text": "more",
+            "timestamp": [
+                3.84,
+                4.0
+            ]
+        },
+        {
+            "text": "effectively",
+            "timestamp": [
+                4.0,
+                4.64
+            ]
+        },
+        {
+            "text": "by",
+            "timestamp": [
+                4.64,
+                4.8
+            ]
+        },
+        {
+            "text": "tracking",
+            "timestamp": [
+                4.8,
+                5.2
+            ]
+        },
+        {
+            "text": "your",
+            "timestamp": [
+                5.2,
+                5.36
+            ]
+        },
+        {
+            "text": "expenses",
+            "timestamp": [
+                5.36,
+                6.08
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                6.08,
+                6.4
+            ]
+        },
+        {
+            "text": "understand",
+            "timestamp": [
+                6.4,
+                6.640000000000001
+            ]
+        },
+        {
+            "text": "where",
+            "timestamp": [
+                6.640000000000001,
+                6.88
+            ]
+        },
+        {
+            "text": "your",
+            "timestamp": [
+                6.88,
+                7.12
+            ]
+        },
+        {
+            "text": "money",
+            "timestamp": [
+                7.12,
+                7.44
+            ]
+        },
+        {
+            "text": "goes.",
+            "timestamp": [
+                7.44,
+                7.76
+            ]
+        },
+        {
+            "text": "Prioritize",
+            "timestamp": [
+                8.08,
+                8.8
+            ]
+        },
+        {
+            "text": "essential",
+            "timestamp": [
+                8.8,
+                9.36
+            ]
+        },
+        {
+            "text": "expenses",
+            "timestamp": [
+                9.36,
+                9.92
+            ]
+        },
+        {
+            "text": "like",
+            "timestamp": [
+                9.92,
+                10.16
+            ]
+        },
+        {
+            "text": "rent,",
+            "timestamp": [
+                10.16,
+                10.56
+            ]
+        },
+        {
+            "text": "utilities,",
+            "timestamp": [
+                10.72,
+                11.28
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                11.44,
+                11.6
+            ]
+        },
+        {
+            "text": "groceries.",
+            "timestamp": [
+                11.6,
+                12.16
+            ]
+        },
+        {
+            "text": "Cut",
+            "timestamp": [
+                12.48,
+                12.8
+            ]
+        },
+        {
+            "text": "back",
+            "timestamp": [
+                12.8,
+                12.96
+            ]
+        },
+        {
+            "text": "on",
+            "timestamp": [
+                12.96,
+                13.120000000000001
+            ]
+        },
+        {
+            "text": "non-essential",
+            "timestamp": [
+                13.120000000000001,
+                14.0
+            ]
+        },
+        {
+            "text": "spending",
+            "timestamp": [
+                14.0,
+                14.48
+            ]
+        },
+        {
+            "text": "such",
+            "timestamp": [
+                14.48,
+                14.64
+            ]
+        },
+        {
+            "text": "as",
+            "timestamp": [
+                14.64,
+                14.72
+            ]
+        },
+        {
+            "text": "dining",
+            "timestamp": [
+                14.72,
+                15.200000000000001
+            ]
+        },
+        {
+            "text": "out,",
+            "timestamp": [
+                15.200000000000001,
+                15.36
+            ]
+        },
+        {
+            "text": "substructions,",
+            "timestamp": [
+                15.52,
+                16.240000000000002
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                16.32,
+                16.56
+            ]
+        },
+        {
+            "text": "entertainment.",
+            "timestamp": [
+                16.56,
+                17.2
+            ]
+        },
+        {
+            "text": "Consider",
+            "timestamp": [
+                17.52,
+                18.080000000000002
+            ]
+        },
+        {
+            "text": "setting",
+            "timestamp": [
+                18.080000000000002,
+                18.32
+            ]
+        },
+        {
+            "text": "up",
+            "timestamp": [
+                18.32,
+                18.48
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                18.48,
+                18.56
+            ]
+        },
+        {
+            "text": "budget",
+            "timestamp": [
+                18.56,
+                19.04
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                19.04,
+                19.2
+            ]
+        },
+        {
+            "text": "sticking",
+            "timestamp": [
+                19.2,
+                19.52
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                19.52,
+                19.68
+            ]
+        },
+        {
+            "text": "it.",
+            "timestamp": [
+                19.68,
+                19.84
+            ]
+        },
+        {
+            "text": "Automate",
+            "timestamp": [
+                20.080000000000002,
+                20.56
+            ]
+        },
+        {
+            "text": "your",
+            "timestamp": [
+                20.56,
+                20.72
+            ]
+        },
+        {
+            "text": "savings",
+            "timestamp": [
+                20.72,
+                21.2
+            ]
+        },
+        {
+            "text": "by",
+            "timestamp": [
+                21.2,
+                21.44
+            ]
+        },
+        {
+            "text": "putting",
+            "timestamp": [
+                21.44,
+                21.68
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                21.68,
+                21.84
+            ]
+        },
+        {
+            "text": "portion",
+            "timestamp": [
+                21.84,
+                22.16
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                22.16,
+                22.32
+            ]
+        },
+        {
+            "text": "your",
+            "timestamp": [
+                22.32,
+                22.48
+            ]
+        },
+        {
+            "text": "paycheck",
+            "timestamp": [
+                22.48,
+                23.12
+            ]
+        },
+        {
+            "text": "into",
+            "timestamp": [
+                23.12,
+                23.28
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                23.28,
+                23.44
+            ]
+        },
+        {
+            "text": "savings",
+            "timestamp": [
+                23.44,
+                23.92
+            ]
+        },
+        {
+            "text": "account",
+            "timestamp": [
+                23.92,
+                24.32
+            ]
+        },
+        {
+            "text": "automatically.",
+            "timestamp": [
+                24.32,
+                25.2
+            ]
+        },
+        {
+            "text": "Also,",
+            "timestamp": [
+                25.52,
+                25.92
+            ]
+        },
+        {
+            "text": "look",
+            "timestamp": [
+                26.16,
+                26.400000000000002
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                26.400000000000002,
+                26.560000000000002
+            ]
+        },
+        {
+            "text": "ways",
+            "timestamp": [
+                26.560000000000002,
+                26.88
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                26.88,
+                27.04
+            ]
+        },
+        {
+            "text": "save",
+            "timestamp": [
+                27.04,
+                27.28
+            ]
+        },
+        {
+            "text": "money",
+            "timestamp": [
+                27.28,
+                27.6
+            ]
+        },
+        {
+            "text": "on",
+            "timestamp": [
+                27.6,
+                27.76
+            ]
+        },
+        {
+            "text": "big",
+            "timestamp": [
+                27.76,
+                28.0
+            ]
+        },
+        {
+            "text": "purchases",
+            "timestamp": [
+                28.0,
+                28.64
+            ]
+        },
+        {
+            "text": "like",
+            "timestamp": [
+                28.64,
+                28.88
+            ]
+        },
+        {
+            "text": "buying",
+            "timestamp": [
+                28.88,
+                29.2
+            ]
+        },
+        {
+            "text": "used",
+            "timestamp": [
+                29.2,
+                29.44
+            ]
+        },
+        {
+            "text": "items",
+            "timestamp": [
+                29.44,
+                29.76
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                29.76,
+                29.84
+            ]
+        }
+    ]
+}

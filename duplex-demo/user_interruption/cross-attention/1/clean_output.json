@@ -1,0 +1,411 @@
+{
+    "text": "I am really sorry to hear that you are feeling this way, but I can't assist with that. It is important to treat others with kindness and respect. If you are struggling or facing difficult circumstances, there are many resources and people who can help. Please reach out to a trusted friend, family member, or mental health professional.",
+    "chunks": [
+        {
+            "text": "I",
+            "timestamp": [
+                2.08,
+                2.4
+            ]
+        },
+        {
+            "text": "am",
+            "timestamp": [
+                2.4,
+                2.56
+            ]
+        },
+        {
+            "text": "really",
+            "timestamp": [
+                2.56,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "sorry",
+            "timestamp": [
+                2.8000000000000003,
+                3.12
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                3.12,
+                3.2800000000000002
+            ]
+        },
+        {
+            "text": "hear",
+            "timestamp": [
+                3.2800000000000002,
+                3.44
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                3.44,
+                3.6
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                3.6,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                3.7600000000000002,
+                3.92
+            ]
+        },
+        {
+            "text": "feeling",
+            "timestamp": [
+                3.92,
+                4.24
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                4.24,
+                4.48
+            ]
+        },
+        {
+            "text": "way,",
+            "timestamp": [
+                4.48,
+                4.64
+            ]
+        },
+        {
+            "text": "but",
+            "timestamp": [
+                4.88,
+                5.04
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                5.04,
+                5.2
+            ]
+        },
+        {
+            "text": "can't",
+            "timestamp": [
+                5.2,
+                5.6000000000000005
+            ]
+        },
+        {
+            "text": "assist",
+            "timestamp": [
+                5.6000000000000005,
+                6.08
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                6.08,
+                6.32
+            ]
+        },
+        {
+            "text": "that.",
+            "timestamp": [
+                6.32,
+                6.5600000000000005
+            ]
+        },
+        {
+            "text": "It",
+            "timestamp": [
+                6.88,
+                7.12
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                7.12,
+                7.36
+            ]
+        },
+        {
+            "text": "important",
+            "timestamp": [
+                7.36,
+                7.6000000000000005
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                7.6000000000000005,
+                7.76
+            ]
+        },
+        {
+            "text": "treat",
+            "timestamp": [
+                7.76,
+                8.08
+            ]
+        },
+        {
+            "text": "others",
+            "timestamp": [
+                8.08,
+                8.4
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                8.4,
+                8.64
+            ]
+        },
+        {
+            "text": "kindness",
+            "timestamp": [
+                8.64,
+                9.28
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                9.28,
+                9.44
+            ]
+        },
+        {
+            "text": "respect.",
+            "timestamp": [
+                9.44,
+                9.92
+            ]
+        },
+        {
+            "text": "If",
+            "timestamp": [
+                10.24,
+                10.48
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                10.48,
+                10.64
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                10.64,
+                10.8
+            ]
+        },
+        {
+            "text": "struggling",
+            "timestamp": [
+                10.8,
+                11.28
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                11.28,
+                11.44
+            ]
+        },
+        {
+            "text": "facing",
+            "timestamp": [
+                11.44,
+                11.84
+            ]
+        },
+        {
+            "text": "difficult",
+            "timestamp": [
+                11.84,
+                12.32
+            ]
+        },
+        {
+            "text": "circumstances,",
+            "timestamp": [
+                12.32,
+                13.040000000000001
+            ]
+        },
+        {
+            "text": "there",
+            "timestamp": [
+                13.36,
+                13.52
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                13.52,
+                13.68
+            ]
+        },
+        {
+            "text": "many",
+            "timestamp": [
+                13.68,
+                13.92
+            ]
+        },
+        {
+            "text": "resources",
+            "timestamp": [
+                13.92,
+                14.56
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                14.56,
+                14.72
+            ]
+        },
+        {
+            "text": "people",
+            "timestamp": [
+                14.72,
+                14.96
+            ]
+        },
+        {
+            "text": "who",
+            "timestamp": [
+                14.96,
+                15.200000000000001
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                15.200000000000001,
+                15.44
+            ]
+        },
+        {
+            "text": "help.",
+            "timestamp": [
+                15.44,
+                15.68
+            ]
+        },
+        {
+            "text": "Please",
+            "timestamp": [
+                16.0,
+                16.32
+            ]
+        },
+        {
+            "text": "reach",
+            "timestamp": [
+                16.32,
+                16.56
+            ]
+        },
+        {
+            "text": "out",
+            "timestamp": [
+                16.56,
+                16.72
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                16.72,
+                16.88
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                16.88,
+                16.96
+            ]
+        },
+        {
+            "text": "trusted",
+            "timestamp": [
+                16.96,
+                17.44
+            ]
+        },
+        {
+            "text": "friend,",
+            "timestamp": [
+                17.44,
+                17.76
+            ]
+        },
+        {
+            "text": "family",
+            "timestamp": [
+                17.84,
+                18.16
+            ]
+        },
+        {
+            "text": "member,",
+            "timestamp": [
+                18.16,
+                18.48
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                18.64,
+                18.8
+            ]
+        },
+        {
+            "text": "mental",
+            "timestamp": [
+                18.8,
+                19.12
+            ]
+        },
+        {
+            "text": "health",
+            "timestamp": [
+                19.12,
+                19.44
+            ]
+        },
+        {
+            "text": "professional.",
+            "timestamp": [
+                19.44,
+                20.72
+            ]
+        }
+    ]
+}

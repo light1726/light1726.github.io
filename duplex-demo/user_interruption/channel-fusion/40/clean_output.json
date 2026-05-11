@@ -1,0 +1,453 @@
+{
+    "text": "I am really sorry to hear that you are considering travel options. It is important to think about safety, convenience, and your budget. If you are unsure, I recommend checking travel advisories or forums for current travel advisories. Also, consider the weather conditions and any travel restrictions in the destination. If you have any specific concerns or need more information, feel free to ask.",
+    "chunks": [
+        {
+            "text": "I",
+            "timestamp": [
+                3.84,
+                4.16
+            ]
+        },
+        {
+            "text": "am",
+            "timestamp": [
+                4.16,
+                4.32
+            ]
+        },
+        {
+            "text": "really",
+            "timestamp": [
+                4.32,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "sorry",
+            "timestamp": [
+                4.5600000000000005,
+                4.96
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                4.96,
+                5.04
+            ]
+        },
+        {
+            "text": "hear",
+            "timestamp": [
+                5.04,
+                5.28
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                5.28,
+                5.5200000000000005
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                5.5200000000000005,
+                5.68
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                5.68,
+                5.84
+            ]
+        },
+        {
+            "text": "considering",
+            "timestamp": [
+                5.84,
+                6.4
+            ]
+        },
+        {
+            "text": "travel",
+            "timestamp": [
+                6.4,
+                6.8
+            ]
+        },
+        {
+            "text": "options.",
+            "timestamp": [
+                6.8,
+                7.44
+            ]
+        },
+        {
+            "text": "It",
+            "timestamp": [
+                7.76,
+                8.0
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                8.0,
+                8.24
+            ]
+        },
+        {
+            "text": "important",
+            "timestamp": [
+                8.24,
+                8.48
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                8.48,
+                8.72
+            ]
+        },
+        {
+            "text": "think",
+            "timestamp": [
+                8.72,
+                8.88
+            ]
+        },
+        {
+            "text": "about",
+            "timestamp": [
+                8.88,
+                9.120000000000001
+            ]
+        },
+        {
+            "text": "safety,",
+            "timestamp": [
+                9.120000000000001,
+                9.68
+            ]
+        },
+        {
+            "text": "convenience,",
+            "timestamp": [
+                9.84,
+                10.48
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                10.64,
+                10.8
+            ]
+        },
+        {
+            "text": "your",
+            "timestamp": [
+                10.8,
+                11.040000000000001
+            ]
+        },
+        {
+            "text": "budget.",
+            "timestamp": [
+                11.040000000000001,
+                11.68
+            ]
+        },
+        {
+            "text": "If",
+            "timestamp": [
+                12.0,
+                12.24
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                12.24,
+                12.4
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                12.4,
+                12.56
+            ]
+        },
+        {
+            "text": "unsure,",
+            "timestamp": [
+                12.56,
+                13.040000000000001
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                13.120000000000001,
+                13.280000000000001
+            ]
+        },
+        {
+            "text": "recommend",
+            "timestamp": [
+                13.280000000000001,
+                13.76
+            ]
+        },
+        {
+            "text": "checking",
+            "timestamp": [
+                13.76,
+                14.08
+            ]
+        },
+        {
+            "text": "travel",
+            "timestamp": [
+                14.08,
+                14.48
+            ]
+        },
+        {
+            "text": "advisories",
+            "timestamp": [
+                14.48,
+                15.040000000000001
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                15.040000000000001,
+                15.280000000000001
+            ]
+        },
+        {
+            "text": "forums",
+            "timestamp": [
+                15.280000000000001,
+                15.68
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                15.68,
+                15.84
+            ]
+        },
+        {
+            "text": "current",
+            "timestamp": [
+                15.84,
+                16.16
+            ]
+        },
+        {
+            "text": "travel",
+            "timestamp": [
+                16.16,
+                16.48
+            ]
+        },
+        {
+            "text": "advisories.",
+            "timestamp": [
+                16.48,
+                17.44
+            ]
+        },
+        {
+            "text": "Also,",
+            "timestamp": [
+                17.76,
+                18.080000000000002
+            ]
+        },
+        {
+            "text": "consider",
+            "timestamp": [
+                18.240000000000002,
+                18.64
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                18.64,
+                18.72
+            ]
+        },
+        {
+            "text": "weather",
+            "timestamp": [
+                18.72,
+                19.12
+            ]
+        },
+        {
+            "text": "conditions",
+            "timestamp": [
+                19.12,
+                19.68
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                19.68,
+                19.92
+            ]
+        },
+        {
+            "text": "any",
+            "timestamp": [
+                19.92,
+                20.16
+            ]
+        },
+        {
+            "text": "travel",
+            "timestamp": [
+                20.16,
+                20.56
+            ]
+        },
+        {
+            "text": "restrictions",
+            "timestamp": [
+                20.56,
+                21.04
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                21.04,
+                21.28
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                21.28,
+                21.36
+            ]
+        },
+        {
+            "text": "destination.",
+            "timestamp": [
+                21.36,
+                22.240000000000002
+            ]
+        },
+        {
+            "text": "If",
+            "timestamp": [
+                22.56,
+                22.72
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                22.72,
+                22.96
+            ]
+        },
+        {
+            "text": "have",
+            "timestamp": [
+                22.96,
+                23.12
+            ]
+        },
+        {
+            "text": "any",
+            "timestamp": [
+                23.12,
+                23.28
+            ]
+        },
+        {
+            "text": "specific",
+            "timestamp": [
+                23.28,
+                23.76
+            ]
+        },
+        {
+            "text": "concerns",
+            "timestamp": [
+                23.76,
+                24.32
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                24.32,
+                24.48
+            ]
+        },
+        {
+            "text": "need",
+            "timestamp": [
+                24.48,
+                24.72
+            ]
+        },
+        {
+            "text": "more",
+            "timestamp": [
+                24.72,
+                24.88
+            ]
+        },
+        {
+            "text": "information,",
+            "timestamp": [
+                24.88,
+                25.36
+            ]
+        },
+        {
+            "text": "feel",
+            "timestamp": [
+                25.6,
+                25.84
+            ]
+        },
+        {
+            "text": "free",
+            "timestamp": [
+                25.84,
+                26.32
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                26.32,
+                26.560000000000002
+            ]
+        },
+        {
+            "text": "ask.",
+            "timestamp": [
+                26.560000000000002,
+                26.88
+            ]
+        }
+    ]
+}

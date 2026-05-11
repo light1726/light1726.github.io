@@ -1,0 +1,390 @@
+{
+    "text": "It is important to approach this topic with sensitivity and care. It is important to approach this topic with sensitivity and care. If you are feeling overwhelmed or need support, consider reaching out to a trusted friend, family member, or mental health professional. Your well-being is important, and seeking help is a sign of strength.",
+    "chunks": [
+        {
+            "text": "It",
+            "timestamp": [
+                3.04,
+                3.36
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                3.36,
+                3.6
+            ]
+        },
+        {
+            "text": "important",
+            "timestamp": [
+                3.6,
+                3.92
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                3.92,
+                4.08
+            ]
+        },
+        {
+            "text": "approach",
+            "timestamp": [
+                4.08,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                4.5600000000000005,
+                4.72
+            ]
+        },
+        {
+            "text": "topic",
+            "timestamp": [
+                4.72,
+                5.12
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                5.12,
+                5.28
+            ]
+        },
+        {
+            "text": "sensitivity",
+            "timestamp": [
+                5.28,
+                6.0
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                6.0,
+                6.24
+            ]
+        },
+        {
+            "text": "care.",
+            "timestamp": [
+                6.24,
+                6.5600000000000005
+            ]
+        },
+        {
+            "text": "It",
+            "timestamp": [
+                10.08,
+                10.24
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                10.24,
+                10.48
+            ]
+        },
+        {
+            "text": "important",
+            "timestamp": [
+                10.48,
+                10.8
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                10.8,
+                10.96
+            ]
+        },
+        {
+            "text": "approach",
+            "timestamp": [
+                10.96,
+                11.36
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                11.36,
+                11.52
+            ]
+        },
+        {
+            "text": "topic",
+            "timestamp": [
+                11.52,
+                11.84
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                11.84,
+                12.0
+            ]
+        },
+        {
+            "text": "sensitivity",
+            "timestamp": [
+                12.0,
+                12.72
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                12.72,
+                12.88
+            ]
+        },
+        {
+            "text": "care.",
+            "timestamp": [
+                12.88,
+                13.200000000000001
+            ]
+        },
+        {
+            "text": "If",
+            "timestamp": [
+                13.52,
+                13.68
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                13.68,
+                13.84
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                13.84,
+                14.0
+            ]
+        },
+        {
+            "text": "feeling",
+            "timestamp": [
+                14.0,
+                14.32
+            ]
+        },
+        {
+            "text": "overwhelmed",
+            "timestamp": [
+                14.32,
+                14.96
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                14.96,
+                15.120000000000001
+            ]
+        },
+        {
+            "text": "need",
+            "timestamp": [
+                15.120000000000001,
+                15.36
+            ]
+        },
+        {
+            "text": "support,",
+            "timestamp": [
+                15.36,
+                15.76
+            ]
+        },
+        {
+            "text": "consider",
+            "timestamp": [
+                16.0,
+                16.4
+            ]
+        },
+        {
+            "text": "reaching",
+            "timestamp": [
+                16.4,
+                16.72
+            ]
+        },
+        {
+            "text": "out",
+            "timestamp": [
+                16.72,
+                16.88
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                16.88,
+                17.04
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                17.04,
+                17.2
+            ]
+        },
+        {
+            "text": "trusted",
+            "timestamp": [
+                17.2,
+                17.6
+            ]
+        },
+        {
+            "text": "friend,",
+            "timestamp": [
+                17.6,
+                17.92
+            ]
+        },
+        {
+            "text": "family",
+            "timestamp": [
+                18.16,
+                18.56
+            ]
+        },
+        {
+            "text": "member,",
+            "timestamp": [
+                18.56,
+                18.96
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                19.12,
+                19.28
+            ]
+        },
+        {
+            "text": "mental",
+            "timestamp": [
+                19.28,
+                19.6
+            ]
+        },
+        {
+            "text": "health",
+            "timestamp": [
+                19.6,
+                19.92
+            ]
+        },
+        {
+            "text": "professional.",
+            "timestamp": [
+                19.92,
+                20.400000000000002
+            ]
+        },
+        {
+            "text": "Your",
+            "timestamp": [
+                20.64,
+                20.88
+            ]
+        },
+        {
+            "text": "well-being",
+            "timestamp": [
+                20.88,
+                21.44
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                21.44,
+                21.68
+            ]
+        },
+        {
+            "text": "important,",
+            "timestamp": [
+                21.68,
+                21.92
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                22.240000000000002,
+                22.400000000000002
+            ]
+        },
+        {
+            "text": "seeking",
+            "timestamp": [
+                22.400000000000002,
+                22.8
+            ]
+        },
+        {
+            "text": "help",
+            "timestamp": [
+                22.8,
+                23.04
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                23.04,
+                23.2
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                23.2,
+                23.28
+            ]
+        },
+        {
+            "text": "sign",
+            "timestamp": [
+                23.28,
+                23.52
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                23.52,
+                23.76
+            ]
+        },
+        {
+            "text": "strength.",
+            "timestamp": [
+                23.76,
+                24.64
+            ]
+        }
+    ]
+}

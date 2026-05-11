@@ -1,0 +1,47 @@
+{
+    "text": "Explain astronomy in depth. Yes, sure.",
+    "chunks": [
+        {
+            "text": "Explain",
+            "timestamp": [
+                0.0,
+                0.48
+            ]
+        },
+        {
+            "text": "astronomy",
+            "timestamp": [
+                0.48,
+                1.04
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                1.04,
+                1.2
+            ]
+        },
+        {
+            "text": "depth.",
+            "timestamp": [
+                1.2,
+                2.08
+            ]
+        },
+        {
+            "text": "Yes,",
+            "timestamp": [
+                5.6000000000000005,
+                5.92
+            ]
+        },
+        {
+            "text": "sure.",
+            "timestamp": [
+                6.24,
+                6.5600000000000005
+            ]
+        }
+    ]
+}

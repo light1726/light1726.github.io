@@ -1,0 +1,418 @@
+{
+    "text": "Time travel is a concept from science fiction that explores the idea of moving through time. Some theories suggest it is possible to travel to the past, or metal, using wormholes or exotic matter, while others propose using time loops or quantum effects. However, these ideas remain theoretical. No real-world evidence or technology exists to make time travel possible.",
+    "chunks": [
+        {
+            "text": "Time",
+            "timestamp": [
+                2.24,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "travel",
+            "timestamp": [
+                2.8000000000000003,
+                3.12
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                3.12,
+                3.2800000000000002
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                3.2800000000000002,
+                3.36
+            ]
+        },
+        {
+            "text": "concept",
+            "timestamp": [
+                3.36,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "from",
+            "timestamp": [
+                3.7600000000000002,
+                3.92
+            ]
+        },
+        {
+            "text": "science",
+            "timestamp": [
+                3.92,
+                4.24
+            ]
+        },
+        {
+            "text": "fiction",
+            "timestamp": [
+                4.24,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                4.5600000000000005,
+                4.72
+            ]
+        },
+        {
+            "text": "explores",
+            "timestamp": [
+                4.72,
+                5.12
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                5.12,
+                5.2
+            ]
+        },
+        {
+            "text": "idea",
+            "timestamp": [
+                5.2,
+                5.44
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                5.44,
+                5.6000000000000005
+            ]
+        },
+        {
+            "text": "moving",
+            "timestamp": [
+                5.6000000000000005,
+                6.08
+            ]
+        },
+        {
+            "text": "through",
+            "timestamp": [
+                6.08,
+                6.32
+            ]
+        },
+        {
+            "text": "time.",
+            "timestamp": [
+                6.32,
+                6.5600000000000005
+            ]
+        },
+        {
+            "text": "Some",
+            "timestamp": [
+                6.88,
+                7.2
+            ]
+        },
+        {
+            "text": "theories",
+            "timestamp": [
+                7.2,
+                7.68
+            ]
+        },
+        {
+            "text": "suggest",
+            "timestamp": [
+                7.68,
+                8.0
+            ]
+        },
+        {
+            "text": "it",
+            "timestamp": [
+                8.0,
+                8.16
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                8.16,
+                8.32
+            ]
+        },
+        {
+            "text": "possible",
+            "timestamp": [
+                8.32,
+                8.64
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                8.64,
+                8.72
+            ]
+        },
+        {
+            "text": "travel",
+            "timestamp": [
+                8.72,
+                9.040000000000001
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                9.040000000000001,
+                9.200000000000001
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                9.200000000000001,
+                9.36
+            ]
+        },
+        {
+            "text": "past,",
+            "timestamp": [
+                9.36,
+                9.6
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                9.76,
+                9.92
+            ]
+        },
+        {
+            "text": "metal,",
+            "timestamp": [
+                9.92,
+                10.24
+            ]
+        },
+        {
+            "text": "using",
+            "timestamp": [
+                10.4,
+                10.64
+            ]
+        },
+        {
+            "text": "wormholes",
+            "timestamp": [
+                10.64,
+                11.200000000000001
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                11.200000000000001,
+                11.36
+            ]
+        },
+        {
+            "text": "exotic",
+            "timestamp": [
+                11.36,
+                11.92
+            ]
+        },
+        {
+            "text": "matter,",
+            "timestamp": [
+                11.92,
+                12.24
+            ]
+        },
+        {
+            "text": "while",
+            "timestamp": [
+                12.56,
+                12.88
+            ]
+        },
+        {
+            "text": "others",
+            "timestamp": [
+                12.88,
+                13.120000000000001
+            ]
+        },
+        {
+            "text": "propose",
+            "timestamp": [
+                13.120000000000001,
+                13.6
+            ]
+        },
+        {
+            "text": "using",
+            "timestamp": [
+                13.6,
+                13.84
+            ]
+        },
+        {
+            "text": "time",
+            "timestamp": [
+                13.84,
+                14.08
+            ]
+        },
+        {
+            "text": "loops",
+            "timestamp": [
+                14.08,
+                14.4
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                14.4,
+                14.56
+            ]
+        },
+        {
+            "text": "quantum",
+            "timestamp": [
+                14.56,
+                14.96
+            ]
+        },
+        {
+            "text": "effects.",
+            "timestamp": [
+                14.96,
+                15.44
+            ]
+        },
+        {
+            "text": "However,",
+            "timestamp": [
+                15.76,
+                16.080000000000002
+            ]
+        },
+        {
+            "text": "these",
+            "timestamp": [
+                16.240000000000002,
+                16.48
+            ]
+        },
+        {
+            "text": "ideas",
+            "timestamp": [
+                16.48,
+                16.88
+            ]
+        },
+        {
+            "text": "remain",
+            "timestamp": [
+                16.88,
+                17.28
+            ]
+        },
+        {
+            "text": "theoretical.",
+            "timestamp": [
+                17.28,
+                17.92
+            ]
+        },
+        {
+            "text": "No",
+            "timestamp": [
+                18.16,
+                18.400000000000002
+            ]
+        },
+        {
+            "text": "real-world",
+            "timestamp": [
+                18.400000000000002,
+                18.88
+            ]
+        },
+        {
+            "text": "evidence",
+            "timestamp": [
+                18.88,
+                19.36
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                19.36,
+                19.52
+            ]
+        },
+        {
+            "text": "technology",
+            "timestamp": [
+                19.52,
+                20.16
+            ]
+        },
+        {
+            "text": "exists",
+            "timestamp": [
+                20.16,
+                20.8
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                21.04,
+                21.28
+            ]
+        },
+        {
+            "text": "make",
+            "timestamp": [
+                21.28,
+                21.52
+            ]
+        },
+        {
+            "text": "time",
+            "timestamp": [
+                21.52,
+                21.76
+            ]
+        },
+        {
+            "text": "travel",
+            "timestamp": [
+                21.76,
+                22.32
+            ]
+        },
+        {
+            "text": "possible.",
+            "timestamp": [
+                22.32,
+                23.28
+            ]
+        }
+    ]
+}

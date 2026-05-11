@@ -1,0 +1,638 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>How Should LLMs Listen While Speaking? A Study of User-Stream Routing in Full-Duplex Spoken Dialogue</title>
+  <style>
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 32px 16px 48px;
+      background: #f7f8fb;
+      color: #1f2937;
+    }
+    .page {
+      max-width: 960px;
+      margin: 0 auto;
+      width: 100%;
+    }
+    .page-hero {
+      text-align: center;
+      margin-bottom: 24px;
+    }
+    .page-hero h1 {
+      margin-top: 0;
+    }
+    h1 { margin-bottom: 8px; }
+    .subtitle { margin-top: 0; color: #4b5563; }
+    .controls {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(180px, 240px));
+      gap: 12px;
+      margin: 0 0 16px;
+    }
+    select {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #d1d5db;
+      border-radius: 6px;
+      background: white;
+    }
+    .card {
+      background: white;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      padding: 16px;
+      margin-bottom: 16px;
+    }
+    .card h3 {
+      margin-top: 0;
+      margin-bottom: 12px;
+    }
+    .audio-row { margin: 12px 0; }
+    audio { width: 100%; }
+    .wave-wrap {
+      margin-top: 10px;
+      border: 1px solid #d1d5db;
+      border-radius: 8px;
+      overflow: hidden;
+      background: #ffffff;
+    }
+    .wave-label {
+      background: #f3f4f6;
+      color: #374151;
+      padding: 6px 10px;
+      font-size: 12px;
+      border-bottom: 1px solid #e5e7eb;
+    }
+    canvas {
+      display: block;
+      width: 100%;
+      height: 260px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+    .text-box {
+      white-space: pre-wrap;
+      background: #f9fafb;
+      border: 1px solid #e5e7eb;
+      border-radius: 6px;
+      padding: 10px;
+      min-height: 88px;
+    }
+    .demo {
+      max-width: 100%;
+      margin: 0 0 24px;
+      background: #ffffff;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      padding: 16px;
+    }
+    .demo > h2 {
+      margin: 0 0 12px;
+      font-size: 1.1rem;
+      color: #1f2937;
+    }
+    .demo-error {
+      margin-top: 12px;
+      padding: 10px 12px;
+      border-radius: 6px;
+      background: #fef2f2;
+      border: 1px solid #fecaca;
+      color: #991b1b;
+      font-size: 14px;
+    }
+    .demo-error:empty {
+      display: none;
+    }
+    .wave-intro {
+      margin: 0 0 8px;
+      color: #4b5563;
+      font-size: 14px;
+    }
+    .abstract {
+      max-width: 100%;
+      margin: 0 0 24px;
+      padding: 16px 18px;
+      background: #ffffff;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      font-size: 15px;
+      line-height: 1.55;
+      color: #374151;
+    }
+    .abstract h2 {
+      margin: 0 0 12px;
+      font-size: 1.1rem;
+      color: #1f2937;
+    }
+    .abstract p {
+      margin: 0 0 12px;
+    }
+    .abstract p:last-child {
+      margin-bottom: 0;
+    }
+    .coming-soon {
+      display: inline-block;
+      margin: 0;
+      padding: 8px 12px;
+      background: #fff7ed;
+      border: 1px solid #fdba74;
+      border-radius: 6px;
+      color: #9a3412;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .architecture {
+      max-width: 100%;
+      margin: 0 0 24px;
+      background: #ffffff;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      padding: 16px;
+    }
+    .architecture h2 {
+      margin: 0 0 12px;
+      font-size: 1.1rem;
+      color: #1f2937;
+    }
+    .architecture img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border-radius: 6px;
+      border: 1px solid #d1d5db;
+      background: #111827;
+    }
+    .source-note {
+      margin: 0 0 10px;
+    }
+    .turns {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .turn {
+      border: 1px solid #e5e7eb;
+      border-radius: 6px;
+      overflow: hidden;
+      background: #f9fafb;
+    }
+    .turn-label {
+      margin: 0;
+      padding: 6px 10px;
+      font-size: 12px;
+      font-weight: 600;
+      color: #374151;
+      background: #eef2ff;
+      border-bottom: 1px solid #e5e7eb;
+    }
+    .turn .text-box {
+      margin: 0;
+      border: 0;
+      border-radius: 0;
+      min-height: 56px;
+    }
+    .page-footnote {
+      margin-top: 8px;
+      padding-top: 16px;
+      border-top: 1px solid #e5e7eb;
+      font-size: 13px;
+      line-height: 1.5;
+      color: #6b7280;
+    }
+    .page-footnote p {
+      margin: 0;
+    }
+    .page-footnote a {
+      color: #2563eb;
+    }
+    .page-footnote a:hover {
+      text-decoration: underline;
+    }
+    @media (max-width: 700px) {
+      .controls {
+        grid-template-columns: 1fr;
+      }
+      .grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+  <header class="page-hero">
+    <h1>How Should LLMs Listen While Speaking? A Study of User-Stream Routing in Full-Duplex Spoken Dialogue</h1>
+    <p class="coming-soon">Code and model weights will be released soon.</p>
+  </header>
+
+  <section class="abstract" aria-labelledby="abstract-heading">
+    <h2 id="abstract-heading">Abstract</h2>
+    <p>Full-duplex spoken dialogue requires a model to keep listening while generating its own spoken response. This is challenging for large language models (LLMs), which are designed to extend a single coherent sequence and do not naturally support user input arriving during generation. We argue that how the user stream is routed into the LLM is therefore a key architectural question for full-duplex modeling. To study this question, we extend a text-only LLM into a unified full-duplex spoken dialogue system and compare two routing strategies under a shared training pipeline: (i) channel fusion, which injects the user stream directly into the LLM input, and (ii) cross-attention routing, which keeps the user stream as external memory accessed through cross-attention adapters.</p>
+    <p>Experiments on spoken question answering and full-duplex interaction benchmarks reveal a clear tradeoff. Channel fusion yields stronger semantic grounding and consistently better question-answering performance. However, under semantically overlapping conditions such as user interruptions, it is more vulnerable to context corruption: if the model fails to stop in time, the overlapping user stream can interfere with ongoing generation and lead to semantically incoherent continuations. Cross-attention routing underperforms on question answering, but better preserves the LLM generation context and is more robust to this failure mode. These results establish user-stream routing as a central design axis in full-duplex spoken dialogue and offer practical guidance on the tradeoff between semantic integration and context robustness.</p>
+  </section>
+
+  <section class="architecture" aria-labelledby="architecture-heading">
+    <h2 id="architecture-heading">Architecture</h2>
+    <img src="./assets/duplex_llm_architecture.png" alt="Architecture of full-duplex spoken dialogue with channel fusion and cross-attention routing." />
+  </section>
+
+  <section class="demo" aria-labelledby="demo-heading">
+    <h2 id="demo-heading">Demo</h2>
+    <div class="controls">
+      <div>
+        <label for="scenario">Scenario</label>
+        <select id="scenario">
+          <option value="user_interruption">User Interruption</option>
+          <option value="user_backchannel">User Backchannel</option>
+        </select>
+      </div>
+      <div>
+        <label for="model">Model</label>
+        <select id="model">
+          <option value="channel-fusion">Channel Fusion</option>
+          <option value="cross-attention">Cross Attention</option>
+        </select>
+      </div>
+      <div>
+        <label for="sample">Sample</label>
+        <select id="sample"></select>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Audio</h3>
+      <div class="audio-row">
+        <strong>Stereo mix</strong>
+        <audio id="stereoAudio" controls></audio>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Waveform</h3>
+      <p class="wave-intro">Dual-channel visualization with live playback cursor.</p>
+      <div class="wave-wrap">
+        <div class="wave-label">Top lane: Channel 1 (left) | Bottom lane: Channel 2 (right)</div>
+        <canvas id="waveCanvas"></canvas>
+      </div>
+    </div>
+
+    <div class="grid">
+      <div class="card">
+        <h3>User text</h3>
+        <p class="wave-intro source-note">
+          Source: <code>input.json</code> and <code>metadata.json</code> in each sample folder. Turns use context vs interruption/backchannel fields when present; otherwise user speech is split on long pauses in <code>chunks</code> timestamps.
+        </p>
+        <div id="userTurns" class="turns"></div>
+      </div>
+      <div class="card">
+        <h3>Assistant text</h3>
+        <p class="wave-intro source-note">
+          Source: <code>output.json</code> (<code>text</code> plus <code>chunks</code> with timestamps). Assistant turns are split when the gap between consecutive chunk end/start exceeds 1 second.
+        </p>
+        <div id="assistantTurns" class="turns"></div>
+      </div>
+    </div>
+
+    <div id="demoError" class="demo-error" role="alert" aria-live="polite"></div>
+  </section>
+
+  <footer class="page-footnote" role="note">
+    <p>
+      <sup>*</sup>
+      Question audios in this demo are taken from
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/DanielLin94144/Full-Duplex-Bench/tree/main/v1_v1.5">Full-Duplex-Bench v1.5</a>
+      (<code>v1_v1.5</code>).
+    </p>
+  </footer>
+  </main>
+
+  <script>
+    const scenarioEl = document.getElementById("scenario");
+    const modelEl = document.getElementById("model");
+    const sampleEl = document.getElementById("sample");
+    const stereoAudioEl = document.getElementById("stereoAudio");
+    const waveCanvas = document.getElementById("waveCanvas");
+    const waveCtx = waveCanvas.getContext("2d");
+    const userTurnsEl = document.getElementById("userTurns");
+    const assistantTurnsEl = document.getElementById("assistantTurns");
+    const demoErrorEl = document.getElementById("demoError");
+    const scenarioSamples = {
+      user_interruption: ["1", "10", "40", "55", "197"],
+      user_backchannel: ["5", "12", "60", "63", "67"]
+    };
+    let audioCtx = null;
+    let decodedBuffer = null;
+    let animationId = null;
+
+    function populateSampleOptions() {
+      const ids = scenarioSamples[scenarioEl.value] || [];
+      sampleEl.innerHTML = "";
+      for (const id of ids) {
+        const option = document.createElement("option");
+        option.value = id;
+        option.textContent = `Sample ${id}`;
+        sampleEl.appendChild(option);
+      }
+    }
+
+    function resizeCanvas() {
+      const cssWidth = waveCanvas.clientWidth;
+      const cssHeight = waveCanvas.clientHeight;
+      const dpr = window.devicePixelRatio || 1;
+      waveCanvas.width = Math.floor(cssWidth * dpr);
+      waveCanvas.height = Math.floor(cssHeight * dpr);
+      waveCtx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    }
+
+    function computePeaks(channelData, width) {
+      const peaks = [];
+      const block = Math.max(1, Math.floor(channelData.length / width));
+      for (let x = 0; x < width; x += 1) {
+        const start = x * block;
+        const end = Math.min(channelData.length, start + block);
+        let min = 1;
+        let max = -1;
+        for (let i = start; i < end; i += 1) {
+          const value = channelData[i];
+          if (value < min) min = value;
+          if (value > max) max = value;
+        }
+        peaks.push({ min, max });
+      }
+      return peaks;
+    }
+
+    function drawWaveform(cursorSeconds = null) {
+      const width = waveCanvas.clientWidth;
+      const height = waveCanvas.clientHeight;
+      waveCtx.clearRect(0, 0, width, height);
+      waveCtx.fillStyle = "#ffffff";
+      waveCtx.fillRect(0, 0, width, height);
+
+      waveCtx.strokeStyle = "#e5e7eb";
+      waveCtx.lineWidth = 1;
+      waveCtx.beginPath();
+      waveCtx.moveTo(0, height / 2);
+      waveCtx.lineTo(width, height / 2);
+      waveCtx.stroke();
+
+      if (!decodedBuffer) {
+        waveCtx.fillStyle = "#6b7280";
+        waveCtx.font = "14px Arial";
+        waveCtx.fillText("Loading waveform...", 12, 22);
+        return;
+      }
+
+      const topCenter = height * 0.25;
+      const bottomCenter = height * 0.75;
+      const laneHalfHeight = height * 0.22;
+
+      const leftData = decodedBuffer.getChannelData(0);
+      const rightData = decodedBuffer.numberOfChannels > 1
+        ? decodedBuffer.getChannelData(1)
+        : decodedBuffer.getChannelData(0);
+
+      const leftPeaks = computePeaks(leftData, width);
+      const rightPeaks = computePeaks(rightData, width);
+
+      waveCtx.strokeStyle = "#2563eb";
+      waveCtx.lineWidth = 1;
+      waveCtx.beginPath();
+      for (let x = 0; x < width; x += 1) {
+        const p = leftPeaks[x];
+        waveCtx.moveTo(x, topCenter + p.min * laneHalfHeight);
+        waveCtx.lineTo(x, topCenter + p.max * laneHalfHeight);
+      }
+      waveCtx.stroke();
+
+      waveCtx.strokeStyle = "#059669";
+      waveCtx.beginPath();
+      for (let x = 0; x < width; x += 1) {
+        const p = rightPeaks[x];
+        waveCtx.moveTo(x, bottomCenter + p.min * laneHalfHeight);
+        waveCtx.lineTo(x, bottomCenter + p.max * laneHalfHeight);
+      }
+      waveCtx.stroke();
+
+      if (cursorSeconds !== null && decodedBuffer.duration > 0) {
+        const ratio = Math.min(1, Math.max(0, cursorSeconds / decodedBuffer.duration));
+        const cursorX = ratio * width;
+        waveCtx.strokeStyle = "#dc2626";
+        waveCtx.lineWidth = 2;
+        waveCtx.beginPath();
+        waveCtx.moveTo(cursorX, 0);
+        waveCtx.lineTo(cursorX, height);
+        waveCtx.stroke();
+      }
+    }
+
+    function stopCursorAnimation() {
+      if (animationId !== null) {
+        cancelAnimationFrame(animationId);
+        animationId = null;
+      }
+    }
+
+    function startCursorAnimation() {
+      stopCursorAnimation();
+      const animate = () => {
+        drawWaveform(stereoAudioEl.currentTime);
+        if (!stereoAudioEl.paused && !stereoAudioEl.ended) {
+          animationId = requestAnimationFrame(animate);
+        }
+      };
+      animationId = requestAnimationFrame(animate);
+    }
+
+    function sampleBasePath() {
+      return `./${scenarioEl.value}/${modelEl.value}/${sampleEl.value}`;
+    }
+
+    async function loadJson(path) {
+      const response = await fetch(path);
+      if (!response.ok) {
+        throw new Error(`Failed to load ${path}`);
+      }
+      return response.json();
+    }
+
+    function clearTurns(container) {
+      container.innerHTML = "";
+    }
+
+    function appendTurn(container, label, text) {
+      const wrap = document.createElement("div");
+      wrap.className = "turn";
+      const lab = document.createElement("p");
+      lab.className = "turn-label";
+      lab.textContent = label;
+      const box = document.createElement("div");
+      box.className = "text-box";
+      box.textContent = text || "(empty)";
+      wrap.appendChild(lab);
+      wrap.appendChild(box);
+      container.appendChild(wrap);
+    }
+
+    function joinChunkTexts(chunkList) {
+      return chunkList.map((c) => c.text).join(" ").replace(/\s+/g, " ").trim();
+    }
+
+    function splitChunksByTimeGap(chunks, gapSeconds) {
+      if (!Array.isArray(chunks) || chunks.length === 0) {
+        return [];
+      }
+      const segments = [];
+      let current = [chunks[0]];
+      for (let i = 1; i < chunks.length; i += 1) {
+        const prev = chunks[i - 1];
+        const next = chunks[i];
+        const prevEnd = Array.isArray(prev.timestamp) ? prev.timestamp[1] : null;
+        const nextStart = Array.isArray(next.timestamp) ? next.timestamp[0] : null;
+        if (
+          prevEnd !== null &&
+          nextStart !== null &&
+          nextStart - prevEnd > gapSeconds
+        ) {
+          segments.push(current);
+          current = [next];
+        } else {
+          current.push(next);
+        }
+      }
+      segments.push(current);
+      return segments.map((seg) => joinChunkTexts(seg));
+    }
+
+    function userTurnsFromData(scenario, metadata, inputJson) {
+      const ctx = (metadata && metadata.context_text) || "";
+      const interrupt = metadata && metadata.current_turn_text;
+      const backch = metadata && metadata.backchannel_text;
+
+      if (scenario === "user_interruption" && ctx && interrupt) {
+        return [
+          { label: "Turn 1 — context", text: ctx },
+          { label: "Turn 2 — interruption", text: interrupt }
+        ];
+      }
+      if (scenario === "user_backchannel" && ctx && backch) {
+        return [
+          { label: "Turn 1 — ongoing", text: ctx },
+          { label: "Turn 2 — backchannel", text: backch }
+        ];
+      }
+
+      const chunks = inputJson && inputJson.chunks;
+      const parts = splitChunksByTimeGap(chunks, 1.0);
+      if (parts.length > 1) {
+        return parts.map((t, i) => ({ label: `Turn ${i + 1} (pause split)`, text: t }));
+      }
+      const fallback = (inputJson && inputJson.text) || "";
+      return [{ label: "User", text: fallback || "(no user text found)" }];
+    }
+
+    function assistantTurnsFromData(outputJson) {
+      const chunks = outputJson && outputJson.chunks;
+      const parts = splitChunksByTimeGap(chunks, 1.0);
+      if (parts.length > 1) {
+        return parts.map((t, i) => ({ label: `Turn ${i + 1}`, text: t }));
+      }
+      const fallback = (outputJson && outputJson.text) || "";
+      return [{ label: "Assistant", text: fallback || "(no assistant text found)" }];
+    }
+
+    async function render() {
+      const base = sampleBasePath();
+      demoErrorEl.textContent = "";
+      clearTurns(userTurnsEl);
+      clearTurns(assistantTurnsEl);
+
+      stereoAudioEl.src = `${base}/stereo.wav`;
+      stopCursorAnimation();
+      decodedBuffer = null;
+      drawWaveform(null);
+
+      try {
+        const [inputJson, outputJson] = await Promise.all([
+          loadJson(`${base}/input.json`),
+          loadJson(`${base}/output.json`)
+        ]);
+
+        let metadataJson = null;
+        try {
+          metadataJson = await loadJson(`${base}/metadata.json`);
+        } catch {
+          metadataJson = null;
+        }
+
+        const scenario = scenarioEl.value;
+        userTurnsFromData(scenario, metadataJson, inputJson).forEach((t) =>
+          appendTurn(userTurnsEl, t.label, t.text)
+        );
+        assistantTurnsFromData(outputJson).forEach((t) =>
+          appendTurn(assistantTurnsEl, t.label, t.text)
+        );
+      } catch (error) {
+        demoErrorEl.textContent =
+          "Could not load transcripts. Serve this folder over HTTP (for example, python3 -m http.server). " +
+          error.message;
+      }
+
+      try {
+        if (!audioCtx) {
+          audioCtx = new AudioContext();
+        }
+        const response = await fetch(`${base}/stereo.wav`);
+        if (!response.ok) {
+          throw new Error("Failed to load stereo waveform audio.");
+        }
+        const arrayBuffer = await response.arrayBuffer();
+        decodedBuffer = await audioCtx.decodeAudioData(arrayBuffer);
+        drawWaveform(stereoAudioEl.currentTime);
+      } catch (error) {
+        decodedBuffer = null;
+        drawWaveform(null);
+        demoErrorEl.textContent = demoErrorEl.textContent
+          ? `${demoErrorEl.textContent} ${error.message}`
+          : `Waveform / audio decode error: ${error.message}`;
+      }
+    }
+
+    scenarioEl.addEventListener("change", () => {
+      populateSampleOptions();
+      render();
+    });
+    modelEl.addEventListener("change", render);
+    sampleEl.addEventListener("change", render);
+    stereoAudioEl.addEventListener("play", startCursorAnimation);
+    stereoAudioEl.addEventListener("pause", () => {
+      stopCursorAnimation();
+      drawWaveform(stereoAudioEl.currentTime);
+    });
+    stereoAudioEl.addEventListener("seeked", () => drawWaveform(stereoAudioEl.currentTime));
+    stereoAudioEl.addEventListener("ended", () => {
+      stopCursorAnimation();
+      drawWaveform(stereoAudioEl.currentTime);
+    });
+    window.addEventListener("resize", () => {
+      resizeCanvas();
+      drawWaveform(stereoAudioEl.currentTime);
+    });
+
+    populateSampleOptions();
+    resizeCanvas();
+    render();
+  </script>
+</body>
+</html>

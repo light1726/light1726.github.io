@@ -1,0 +1,54 @@
+{
+    "text": "How can I reduce my carbon footprint?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.24,
+                0.4
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                0.4,
+                0.48
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                0.48,
+                0.64
+            ]
+        },
+        {
+            "text": "reduce",
+            "timestamp": [
+                0.64,
+                1.04
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                1.04,
+                1.28
+            ]
+        },
+        {
+            "text": "carbon",
+            "timestamp": [
+                1.28,
+                1.76
+            ]
+        },
+        {
+            "text": "footprint?",
+            "timestamp": [
+                1.76,
+                2.56
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "text": "Describe space telescopes completely.",
+    "chunks": [
+        {
+            "text": "Describe",
+            "timestamp": [
+                0.08,
+                0.48
+            ]
+        },
+        {
+            "text": "space",
+            "timestamp": [
+                0.64,
+                0.96
+            ]
+        },
+        {
+            "text": "telescopes",
+            "timestamp": [
+                0.96,
+                1.52
+            ]
+        },
+        {
+            "text": "completely.",
+            "timestamp": [
+                1.52,
+                2.48
+            ]
+        }
+    ]
+}

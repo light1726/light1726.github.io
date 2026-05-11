@@ -1,0 +1,383 @@
+{
+    "text": "To reduce your carbon footprint, try using public transport. Water conservation is important because it helps maintain water resources for everyone. Try taking shorter showers, fixing leaks using a broom instead of a hose, and collecting rainwater for gardening. These small actions can make a big difference in saving water and protecting the environment.",
+    "chunks": [
+        {
+            "text": "To",
+            "timestamp": [
+                2.56,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "reduce",
+            "timestamp": [
+                2.96,
+                3.44
+            ]
+        },
+        {
+            "text": "your",
+            "timestamp": [
+                3.44,
+                3.68
+            ]
+        },
+        {
+            "text": "carbon",
+            "timestamp": [
+                3.68,
+                4.08
+            ]
+        },
+        {
+            "text": "footprint,",
+            "timestamp": [
+                4.08,
+                4.64
+            ]
+        },
+        {
+            "text": "try",
+            "timestamp": [
+                4.88,
+                5.12
+            ]
+        },
+        {
+            "text": "using",
+            "timestamp": [
+                5.12,
+                5.44
+            ]
+        },
+        {
+            "text": "public",
+            "timestamp": [
+                5.44,
+                6.16
+            ]
+        },
+        {
+            "text": "transport.",
+            "timestamp": [
+                6.16,
+                7.12
+            ]
+        },
+        {
+            "text": "Water",
+            "timestamp": [
+                10.96,
+                11.44
+            ]
+        },
+        {
+            "text": "conservation",
+            "timestamp": [
+                11.44,
+                12.4
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                12.4,
+                12.72
+            ]
+        },
+        {
+            "text": "important",
+            "timestamp": [
+                12.72,
+                13.040000000000001
+            ]
+        },
+        {
+            "text": "because",
+            "timestamp": [
+                13.040000000000001,
+                13.36
+            ]
+        },
+        {
+            "text": "it",
+            "timestamp": [
+                13.36,
+                13.52
+            ]
+        },
+        {
+            "text": "helps",
+            "timestamp": [
+                13.52,
+                13.84
+            ]
+        },
+        {
+            "text": "maintain",
+            "timestamp": [
+                13.84,
+                14.4
+            ]
+        },
+        {
+            "text": "water",
+            "timestamp": [
+                14.4,
+                14.8
+            ]
+        },
+        {
+            "text": "resources",
+            "timestamp": [
+                14.8,
+                15.44
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                15.44,
+                15.76
+            ]
+        },
+        {
+            "text": "everyone.",
+            "timestamp": [
+                15.76,
+                16.4
+            ]
+        },
+        {
+            "text": "Try",
+            "timestamp": [
+                16.72,
+                17.04
+            ]
+        },
+        {
+            "text": "taking",
+            "timestamp": [
+                17.04,
+                17.44
+            ]
+        },
+        {
+            "text": "shorter",
+            "timestamp": [
+                17.44,
+                17.92
+            ]
+        },
+        {
+            "text": "showers,",
+            "timestamp": [
+                17.92,
+                18.400000000000002
+            ]
+        },
+        {
+            "text": "fixing",
+            "timestamp": [
+                18.64,
+                19.12
+            ]
+        },
+        {
+            "text": "leaks",
+            "timestamp": [
+                19.12,
+                19.6
+            ]
+        },
+        {
+            "text": "using",
+            "timestamp": [
+                19.76,
+                20.080000000000002
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                20.080000000000002,
+                20.240000000000002
+            ]
+        },
+        {
+            "text": "broom",
+            "timestamp": [
+                20.240000000000002,
+                20.72
+            ]
+        },
+        {
+            "text": "instead",
+            "timestamp": [
+                20.72,
+                21.04
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                21.04,
+                21.12
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                21.12,
+                21.28
+            ]
+        },
+        {
+            "text": "hose,",
+            "timestamp": [
+                21.28,
+                21.68
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                21.92,
+                22.16
+            ]
+        },
+        {
+            "text": "collecting",
+            "timestamp": [
+                22.16,
+                22.64
+            ]
+        },
+        {
+            "text": "rainwater",
+            "timestamp": [
+                22.64,
+                23.28
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                23.28,
+                23.44
+            ]
+        },
+        {
+            "text": "gardening.",
+            "timestamp": [
+                23.44,
+                24.64
+            ]
+        },
+        {
+            "text": "These",
+            "timestamp": [
+                24.96,
+                25.36
+            ]
+        },
+        {
+            "text": "small",
+            "timestamp": [
+                25.36,
+                25.76
+            ]
+        },
+        {
+            "text": "actions",
+            "timestamp": [
+                25.76,
+                26.16
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                26.16,
+                26.400000000000002
+            ]
+        },
+        {
+            "text": "make",
+            "timestamp": [
+                26.400000000000002,
+                26.560000000000002
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                26.560000000000002,
+                26.72
+            ]
+        },
+        {
+            "text": "big",
+            "timestamp": [
+                26.72,
+                26.96
+            ]
+        },
+        {
+            "text": "difference",
+            "timestamp": [
+                26.96,
+                27.44
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                27.44,
+                27.6
+            ]
+        },
+        {
+            "text": "saving",
+            "timestamp": [
+                27.6,
+                28.080000000000002
+            ]
+        },
+        {
+            "text": "water",
+            "timestamp": [
+                28.080000000000002,
+                28.48
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                28.48,
+                28.72
+            ]
+        },
+        {
+            "text": "protecting",
+            "timestamp": [
+                28.72,
+                29.2
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                29.2,
+                29.36
+            ]
+        },
+        {
+            "text": "environment.",
+            "timestamp": [
+                29.36,
+                29.92
+            ]
+        }
+    ]
+}

@@ -1,0 +1,474 @@
+{
+    "text": "Blockchain technology is a decentralized digital ledger that records transactions across a network of computers. It uses cryptographicky to ensure security and transparency, making it hard to alter or tamper with records. Because of its decentralized nature, it is resistant to single points of failure, and once data is recorded, it is nearly impossible to change, which makes it ideal for applications like secure voting, financial transactions,",
+    "chunks": [
+        {
+            "text": "Blockchain",
+            "timestamp": [
+                3.52,
+                4.24
+            ]
+        },
+        {
+            "text": "technology",
+            "timestamp": [
+                4.24,
+                4.8
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                4.8,
+                4.96
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                4.96,
+                5.12
+            ]
+        },
+        {
+            "text": "decentralized",
+            "timestamp": [
+                5.12,
+                6.0
+            ]
+        },
+        {
+            "text": "digital",
+            "timestamp": [
+                6.08,
+                6.5600000000000005
+            ]
+        },
+        {
+            "text": "ledger",
+            "timestamp": [
+                6.5600000000000005,
+                7.04
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                7.04,
+                7.2
+            ]
+        },
+        {
+            "text": "records",
+            "timestamp": [
+                7.2,
+                7.68
+            ]
+        },
+        {
+            "text": "transactions",
+            "timestamp": [
+                7.68,
+                8.24
+            ]
+        },
+        {
+            "text": "across",
+            "timestamp": [
+                8.24,
+                8.56
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                8.56,
+                8.72
+            ]
+        },
+        {
+            "text": "network",
+            "timestamp": [
+                8.72,
+                9.040000000000001
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                9.040000000000001,
+                9.200000000000001
+            ]
+        },
+        {
+            "text": "computers.",
+            "timestamp": [
+                9.200000000000001,
+                9.76
+            ]
+        },
+        {
+            "text": "It",
+            "timestamp": [
+                10.08,
+                10.24
+            ]
+        },
+        {
+            "text": "uses",
+            "timestamp": [
+                10.24,
+                10.56
+            ]
+        },
+        {
+            "text": "cryptographicky",
+            "timestamp": [
+                10.56,
+                11.52
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                11.68,
+                11.84
+            ]
+        },
+        {
+            "text": "ensure",
+            "timestamp": [
+                11.84,
+                12.16
+            ]
+        },
+        {
+            "text": "security",
+            "timestamp": [
+                12.16,
+                12.88
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                12.88,
+                13.120000000000001
+            ]
+        },
+        {
+            "text": "transparency,",
+            "timestamp": [
+                13.120000000000001,
+                13.92
+            ]
+        },
+        {
+            "text": "making",
+            "timestamp": [
+                14.24,
+                14.56
+            ]
+        },
+        {
+            "text": "it",
+            "timestamp": [
+                14.56,
+                14.72
+            ]
+        },
+        {
+            "text": "hard",
+            "timestamp": [
+                14.72,
+                14.96
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                14.96,
+                15.120000000000001
+            ]
+        },
+        {
+            "text": "alter",
+            "timestamp": [
+                15.120000000000001,
+                15.52
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                15.52,
+                15.68
+            ]
+        },
+        {
+            "text": "tamper",
+            "timestamp": [
+                15.68,
+                16.080000000000002
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                16.080000000000002,
+                16.32
+            ]
+        },
+        {
+            "text": "records.",
+            "timestamp": [
+                16.32,
+                16.8
+            ]
+        },
+        {
+            "text": "Because",
+            "timestamp": [
+                17.12,
+                17.36
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                17.36,
+                17.52
+            ]
+        },
+        {
+            "text": "its",
+            "timestamp": [
+                17.52,
+                17.76
+            ]
+        },
+        {
+            "text": "decentralized",
+            "timestamp": [
+                17.76,
+                18.64
+            ]
+        },
+        {
+            "text": "nature,",
+            "timestamp": [
+                18.64,
+                18.96
+            ]
+        },
+        {
+            "text": "it",
+            "timestamp": [
+                19.12,
+                19.28
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                19.28,
+                19.44
+            ]
+        },
+        {
+            "text": "resistant",
+            "timestamp": [
+                19.44,
+                19.92
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                19.92,
+                20.16
+            ]
+        },
+        {
+            "text": "single",
+            "timestamp": [
+                20.16,
+                20.64
+            ]
+        },
+        {
+            "text": "points",
+            "timestamp": [
+                20.64,
+                20.88
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                20.88,
+                21.04
+            ]
+        },
+        {
+            "text": "failure,",
+            "timestamp": [
+                21.04,
+                21.44
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                21.76,
+                21.92
+            ]
+        },
+        {
+            "text": "once",
+            "timestamp": [
+                21.92,
+                22.16
+            ]
+        },
+        {
+            "text": "data",
+            "timestamp": [
+                22.16,
+                22.48
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                22.48,
+                22.72
+            ]
+        },
+        {
+            "text": "recorded,",
+            "timestamp": [
+                22.72,
+                23.12
+            ]
+        },
+        {
+            "text": "it",
+            "timestamp": [
+                23.28,
+                23.44
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                23.44,
+                23.6
+            ]
+        },
+        {
+            "text": "nearly",
+            "timestamp": [
+                23.6,
+                24.0
+            ]
+        },
+        {
+            "text": "impossible",
+            "timestamp": [
+                24.0,
+                24.64
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                24.64,
+                24.8
+            ]
+        },
+        {
+            "text": "change,",
+            "timestamp": [
+                24.8,
+                25.12
+            ]
+        },
+        {
+            "text": "which",
+            "timestamp": [
+                25.44,
+                25.6
+            ]
+        },
+        {
+            "text": "makes",
+            "timestamp": [
+                25.6,
+                25.84
+            ]
+        },
+        {
+            "text": "it",
+            "timestamp": [
+                25.84,
+                26.0
+            ]
+        },
+        {
+            "text": "ideal",
+            "timestamp": [
+                26.0,
+                26.400000000000002
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                26.400000000000002,
+                26.64
+            ]
+        },
+        {
+            "text": "applications",
+            "timestamp": [
+                26.64,
+                27.28
+            ]
+        },
+        {
+            "text": "like",
+            "timestamp": [
+                27.44,
+                27.68
+            ]
+        },
+        {
+            "text": "secure",
+            "timestamp": [
+                27.68,
+                28.16
+            ]
+        },
+        {
+            "text": "voting,",
+            "timestamp": [
+                28.16,
+                28.48
+            ]
+        },
+        {
+            "text": "financial",
+            "timestamp": [
+                28.72,
+                29.28
+            ]
+        },
+        {
+            "text": "transactions,",
+            "timestamp": [
+                29.28,
+                29.84
+            ]
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "text": "How can I reduce my carbon footprint? Sorry to cut you off, but what can we do about water conservation?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.0,
+                0.32
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                0.32,
+                0.48
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                0.48,
+                0.64
+            ]
+        },
+        {
+            "text": "reduce",
+            "timestamp": [
+                0.64,
+                1.04
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                1.04,
+                1.28
+            ]
+        },
+        {
+            "text": "carbon",
+            "timestamp": [
+                1.28,
+                1.76
+            ]
+        },
+        {
+            "text": "footprint?",
+            "timestamp": [
+                1.76,
+                2.96
+            ]
+        },
+        {
+            "text": "Sorry",
+            "timestamp": [
+                6.32,
+                6.8
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                6.8,
+                6.96
+            ]
+        },
+        {
+            "text": "cut",
+            "timestamp": [
+                6.96,
+                7.2
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                7.2,
+                7.36
+            ]
+        },
+        {
+            "text": "off,",
+            "timestamp": [
+                7.36,
+                7.5200000000000005
+            ]
+        },
+        {
+            "text": "but",
+            "timestamp": [
+                7.68,
+                7.92
+            ]
+        },
+        {
+            "text": "what",
+            "timestamp": [
+                7.92,
+                8.24
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                8.24,
+                8.48
+            ]
+        },
+        {
+            "text": "we",
+            "timestamp": [
+                8.48,
+                8.8
+            ]
+        },
+        {
+            "text": "do",
+            "timestamp": [
+                8.8,
+                9.120000000000001
+            ]
+        },
+        {
+            "text": "about",
+            "timestamp": [
+                9.120000000000001,
+                9.44
+            ]
+        },
+        {
+            "text": "water",
+            "timestamp": [
+                9.44,
+                9.92
+            ]
+        },
+        {
+            "text": "conservation?",
+            "timestamp": [
+                9.92,
+                11.200000000000001
+            ]
+        }
+    ]
+}

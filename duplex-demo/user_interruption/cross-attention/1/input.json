@@ -1,0 +1,117 @@
+{
+    "text": "How can I save money more effectively? Actually, what are some financial goals I should set?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.32,
+                0.64
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                0.64,
+                0.8
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                0.8,
+                0.96
+            ]
+        },
+        {
+            "text": "save",
+            "timestamp": [
+                0.96,
+                1.36
+            ]
+        },
+        {
+            "text": "money",
+            "timestamp": [
+                1.36,
+                1.76
+            ]
+        },
+        {
+            "text": "more",
+            "timestamp": [
+                1.76,
+                2.08
+            ]
+        },
+        {
+            "text": "effectively?",
+            "timestamp": [
+                2.08,
+                3.2800000000000002
+            ]
+        },
+        {
+            "text": "Actually,",
+            "timestamp": [
+                6.8,
+                7.2
+            ]
+        },
+        {
+            "text": "what",
+            "timestamp": [
+                7.44,
+                7.5200000000000005
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                7.5200000000000005,
+                7.68
+            ]
+        },
+        {
+            "text": "some",
+            "timestamp": [
+                7.68,
+                7.92
+            ]
+        },
+        {
+            "text": "financial",
+            "timestamp": [
+                7.92,
+                8.64
+            ]
+        },
+        {
+            "text": "goals",
+            "timestamp": [
+                8.64,
+                9.120000000000001
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                9.120000000000001,
+                9.44
+            ]
+        },
+        {
+            "text": "should",
+            "timestamp": [
+                9.44,
+                9.68
+            ]
+        },
+        {
+            "text": "set?",
+            "timestamp": [
+                9.68,
+                9.92
+            ]
+        }
+    ]
+}

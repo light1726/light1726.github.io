@@ -1,0 +1,215 @@
+{
+    "text": "To reduce stress quickly, try deep breathing exercises. Yes, I can. Improving sleep quality can be achieved through consistent sleep routines, creating a relaxing bedtime, and avoiding screens before bed.",
+    "chunks": [
+        {
+            "text": "To",
+            "timestamp": [
+                2.72,
+                3.04
+            ]
+        },
+        {
+            "text": "reduce",
+            "timestamp": [
+                3.04,
+                3.52
+            ]
+        },
+        {
+            "text": "stress",
+            "timestamp": [
+                3.52,
+                4.0
+            ]
+        },
+        {
+            "text": "quickly,",
+            "timestamp": [
+                4.0,
+                4.4
+            ]
+        },
+        {
+            "text": "try",
+            "timestamp": [
+                4.64,
+                4.88
+            ]
+        },
+        {
+            "text": "deep",
+            "timestamp": [
+                4.88,
+                5.2
+            ]
+        },
+        {
+            "text": "breathing",
+            "timestamp": [
+                5.2,
+                5.76
+            ]
+        },
+        {
+            "text": "exercises.",
+            "timestamp": [
+                5.76,
+                7.28
+            ]
+        },
+        {
+            "text": "Yes,",
+            "timestamp": [
+                9.200000000000001,
+                9.6
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                9.92,
+                10.16
+            ]
+        },
+        {
+            "text": "can.",
+            "timestamp": [
+                10.16,
+                10.48
+            ]
+        },
+        {
+            "text": "Improving",
+            "timestamp": [
+                10.8,
+                11.44
+            ]
+        },
+        {
+            "text": "sleep",
+            "timestamp": [
+                11.44,
+                11.76
+            ]
+        },
+        {
+            "text": "quality",
+            "timestamp": [
+                11.76,
+                12.24
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                12.24,
+                12.4
+            ]
+        },
+        {
+            "text": "be",
+            "timestamp": [
+                12.4,
+                12.56
+            ]
+        },
+        {
+            "text": "achieved",
+            "timestamp": [
+                12.56,
+                13.200000000000001
+            ]
+        },
+        {
+            "text": "through",
+            "timestamp": [
+                13.200000000000001,
+                13.44
+            ]
+        },
+        {
+            "text": "consistent",
+            "timestamp": [
+                13.44,
+                14.08
+            ]
+        },
+        {
+            "text": "sleep",
+            "timestamp": [
+                14.08,
+                14.48
+            ]
+        },
+        {
+            "text": "routines,",
+            "timestamp": [
+                14.48,
+                15.040000000000001
+            ]
+        },
+        {
+            "text": "creating",
+            "timestamp": [
+                15.36,
+                15.84
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                15.84,
+                16.0
+            ]
+        },
+        {
+            "text": "relaxing",
+            "timestamp": [
+                16.0,
+                16.64
+            ]
+        },
+        {
+            "text": "bedtime,",
+            "timestamp": [
+                16.64,
+                17.28
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                17.52,
+                17.68
+            ]
+        },
+        {
+            "text": "avoiding",
+            "timestamp": [
+                17.68,
+                18.240000000000002
+            ]
+        },
+        {
+            "text": "screens",
+            "timestamp": [
+                18.240000000000002,
+                19.04
+            ]
+        },
+        {
+            "text": "before",
+            "timestamp": [
+                19.04,
+                19.36
+            ]
+        },
+        {
+            "text": "bed.",
+            "timestamp": [
+                19.36,
+                20.0
+            ]
+        }
+    ]
+}

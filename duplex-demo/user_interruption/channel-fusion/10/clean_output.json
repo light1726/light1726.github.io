@@ -1,0 +1,460 @@
+{
+    "text": "To reduce stress quickly, try deep breathing exercises. Take slow, deep breaths in through your nose and out through your mouth. This can help calm your nervous system and lower your heart rate. Another effective method is to practice mindfulness or meditation, focusing on the present moment and letting go of thoughts that may be causing stress. Engaging in physical activity, such as walking or",
+    "chunks": [
+        {
+            "text": "To",
+            "timestamp": [
+                2.56,
+                2.88
+            ]
+        },
+        {
+            "text": "reduce",
+            "timestamp": [
+                2.96,
+                3.44
+            ]
+        },
+        {
+            "text": "stress",
+            "timestamp": [
+                3.44,
+                3.92
+            ]
+        },
+        {
+            "text": "quickly,",
+            "timestamp": [
+                3.92,
+                4.4
+            ]
+        },
+        {
+            "text": "try",
+            "timestamp": [
+                4.64,
+                4.96
+            ]
+        },
+        {
+            "text": "deep",
+            "timestamp": [
+                4.96,
+                5.28
+            ]
+        },
+        {
+            "text": "breathing",
+            "timestamp": [
+                5.28,
+                5.76
+            ]
+        },
+        {
+            "text": "exercises.",
+            "timestamp": [
+                5.76,
+                6.8
+            ]
+        },
+        {
+            "text": "Take",
+            "timestamp": [
+                7.12,
+                7.5200000000000005
+            ]
+        },
+        {
+            "text": "slow,",
+            "timestamp": [
+                7.5200000000000005,
+                7.92
+            ]
+        },
+        {
+            "text": "deep",
+            "timestamp": [
+                8.08,
+                8.4
+            ]
+        },
+        {
+            "text": "breaths",
+            "timestamp": [
+                8.4,
+                8.88
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                8.88,
+                9.120000000000001
+            ]
+        },
+        {
+            "text": "through",
+            "timestamp": [
+                9.120000000000001,
+                9.36
+            ]
+        },
+        {
+            "text": "your",
+            "timestamp": [
+                9.36,
+                9.6
+            ]
+        },
+        {
+            "text": "nose",
+            "timestamp": [
+                9.6,
+                10.24
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                10.24,
+                10.48
+            ]
+        },
+        {
+            "text": "out",
+            "timestamp": [
+                10.48,
+                10.72
+            ]
+        },
+        {
+            "text": "through",
+            "timestamp": [
+                10.72,
+                10.96
+            ]
+        },
+        {
+            "text": "your",
+            "timestamp": [
+                10.96,
+                11.200000000000001
+            ]
+        },
+        {
+            "text": "mouth.",
+            "timestamp": [
+                11.200000000000001,
+                11.84
+            ]
+        },
+        {
+            "text": "This",
+            "timestamp": [
+                12.16,
+                12.48
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                12.48,
+                12.64
+            ]
+        },
+        {
+            "text": "help",
+            "timestamp": [
+                12.64,
+                12.88
+            ]
+        },
+        {
+            "text": "calm",
+            "timestamp": [
+                12.88,
+                13.280000000000001
+            ]
+        },
+        {
+            "text": "your",
+            "timestamp": [
+                13.280000000000001,
+                13.44
+            ]
+        },
+        {
+            "text": "nervous",
+            "timestamp": [
+                13.44,
+                14.16
+            ]
+        },
+        {
+            "text": "system",
+            "timestamp": [
+                14.16,
+                14.4
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                14.4,
+                14.72
+            ]
+        },
+        {
+            "text": "lower",
+            "timestamp": [
+                14.72,
+                15.120000000000001
+            ]
+        },
+        {
+            "text": "your",
+            "timestamp": [
+                15.120000000000001,
+                15.280000000000001
+            ]
+        },
+        {
+            "text": "heart",
+            "timestamp": [
+                15.280000000000001,
+                15.68
+            ]
+        },
+        {
+            "text": "rate.",
+            "timestamp": [
+                15.68,
+                16.240000000000002
+            ]
+        },
+        {
+            "text": "Another",
+            "timestamp": [
+                16.56,
+                17.04
+            ]
+        },
+        {
+            "text": "effective",
+            "timestamp": [
+                17.04,
+                17.6
+            ]
+        },
+        {
+            "text": "method",
+            "timestamp": [
+                17.6,
+                18.16
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                18.16,
+                18.32
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                18.32,
+                18.48
+            ]
+        },
+        {
+            "text": "practice",
+            "timestamp": [
+                18.48,
+                19.04
+            ]
+        },
+        {
+            "text": "mindfulness",
+            "timestamp": [
+                19.04,
+                19.76
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                19.76,
+                20.0
+            ]
+        },
+        {
+            "text": "meditation,",
+            "timestamp": [
+                20.0,
+                20.8
+            ]
+        },
+        {
+            "text": "focusing",
+            "timestamp": [
+                21.12,
+                21.68
+            ]
+        },
+        {
+            "text": "on",
+            "timestamp": [
+                21.68,
+                21.92
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                21.92,
+                22.080000000000002
+            ]
+        },
+        {
+            "text": "present",
+            "timestamp": [
+                22.080000000000002,
+                22.48
+            ]
+        },
+        {
+            "text": "moment",
+            "timestamp": [
+                22.48,
+                23.04
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                23.04,
+                23.36
+            ]
+        },
+        {
+            "text": "letting",
+            "timestamp": [
+                23.36,
+                23.76
+            ]
+        },
+        {
+            "text": "go",
+            "timestamp": [
+                23.76,
+                23.92
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                23.92,
+                24.16
+            ]
+        },
+        {
+            "text": "thoughts",
+            "timestamp": [
+                24.16,
+                24.560000000000002
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                24.560000000000002,
+                24.72
+            ]
+        },
+        {
+            "text": "may",
+            "timestamp": [
+                24.72,
+                24.96
+            ]
+        },
+        {
+            "text": "be",
+            "timestamp": [
+                24.96,
+                25.12
+            ]
+        },
+        {
+            "text": "causing",
+            "timestamp": [
+                25.12,
+                25.84
+            ]
+        },
+        {
+            "text": "stress.",
+            "timestamp": [
+                25.84,
+                26.48
+            ]
+        },
+        {
+            "text": "Engaging",
+            "timestamp": [
+                26.8,
+                27.44
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                27.44,
+                27.6
+            ]
+        },
+        {
+            "text": "physical",
+            "timestamp": [
+                27.6,
+                28.080000000000002
+            ]
+        },
+        {
+            "text": "activity,",
+            "timestamp": [
+                28.080000000000002,
+                28.72
+            ]
+        },
+        {
+            "text": "such",
+            "timestamp": [
+                28.96,
+                29.12
+            ]
+        },
+        {
+            "text": "as",
+            "timestamp": [
+                29.12,
+                29.36
+            ]
+        },
+        {
+            "text": "walking",
+            "timestamp": [
+                29.36,
+                29.76
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                29.76,
+                29.92
+            ]
+        }
+    ]
+}

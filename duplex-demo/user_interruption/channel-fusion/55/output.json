@@ -1,0 +1,194 @@
+{
+    "text": "It sounds like a great idea. You might enjoy watching a thrilling movie or a You are welcome. What specific topic or activity are you interested in?",
+    "chunks": [
+        {
+            "text": "It",
+            "timestamp": [
+                2.88,
+                3.2
+            ]
+        },
+        {
+            "text": "sounds",
+            "timestamp": [
+                3.2,
+                3.6
+            ]
+        },
+        {
+            "text": "like",
+            "timestamp": [
+                3.6,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                3.7600000000000002,
+                4.0
+            ]
+        },
+        {
+            "text": "great",
+            "timestamp": [
+                4.0,
+                4.16
+            ]
+        },
+        {
+            "text": "idea.",
+            "timestamp": [
+                4.16,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "You",
+            "timestamp": [
+                4.88,
+                5.04
+            ]
+        },
+        {
+            "text": "might",
+            "timestamp": [
+                5.04,
+                5.28
+            ]
+        },
+        {
+            "text": "enjoy",
+            "timestamp": [
+                5.28,
+                5.6000000000000005
+            ]
+        },
+        {
+            "text": "watching",
+            "timestamp": [
+                5.6000000000000005,
+                6.0
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                6.0,
+                6.16
+            ]
+        },
+        {
+            "text": "thrilling",
+            "timestamp": [
+                6.16,
+                6.640000000000001
+            ]
+        },
+        {
+            "text": "movie",
+            "timestamp": [
+                6.640000000000001,
+                7.04
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                7.04,
+                7.2
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                7.2,
+                7.28
+            ]
+        },
+        {
+            "text": "You",
+            "timestamp": [
+                8.88,
+                9.040000000000001
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                9.040000000000001,
+                9.200000000000001
+            ]
+        },
+        {
+            "text": "welcome.",
+            "timestamp": [
+                9.200000000000001,
+                9.68
+            ]
+        },
+        {
+            "text": "What",
+            "timestamp": [
+                10.0,
+                10.24
+            ]
+        },
+        {
+            "text": "specific",
+            "timestamp": [
+                10.24,
+                10.8
+            ]
+        },
+        {
+            "text": "topic",
+            "timestamp": [
+                10.8,
+                11.200000000000001
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                11.200000000000001,
+                11.36
+            ]
+        },
+        {
+            "text": "activity",
+            "timestamp": [
+                11.36,
+                11.84
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                11.84,
+                12.08
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                12.08,
+                12.4
+            ]
+        },
+        {
+            "text": "interested",
+            "timestamp": [
+                12.4,
+                12.96
+            ]
+        },
+        {
+            "text": "in?",
+            "timestamp": [
+                12.96,
+                13.280000000000001
+            ]
+        }
+    ]
+}

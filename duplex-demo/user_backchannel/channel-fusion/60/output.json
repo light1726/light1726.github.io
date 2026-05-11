@@ -1,0 +1,418 @@
+{
+    "text": "Astronomy is the study of celestial bodies and their movements, including stars, planets, and galaxies. It explores the origins, ops and zero actives into the universe, and how these objects interact. Key concepts include celestial mechanics, which studies the motion and interactions of celestial bodies, and observanomo astronomy, which uses telescopes and instruments to gather data about the colour.",
+    "chunks": [
+        {
+            "text": "Astronomy",
+            "timestamp": [
+                1.92,
+                2.88
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                2.88,
+                3.04
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                3.04,
+                3.2
+            ]
+        },
+        {
+            "text": "study",
+            "timestamp": [
+                3.2,
+                3.52
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                3.52,
+                3.68
+            ]
+        },
+        {
+            "text": "celestial",
+            "timestamp": [
+                3.68,
+                4.32
+            ]
+        },
+        {
+            "text": "bodies",
+            "timestamp": [
+                4.32,
+                4.72
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                4.72,
+                4.88
+            ]
+        },
+        {
+            "text": "their",
+            "timestamp": [
+                4.88,
+                5.04
+            ]
+        },
+        {
+            "text": "movements,",
+            "timestamp": [
+                5.04,
+                5.68
+            ]
+        },
+        {
+            "text": "including",
+            "timestamp": [
+                6.0,
+                6.48
+            ]
+        },
+        {
+            "text": "stars,",
+            "timestamp": [
+                6.48,
+                7.04
+            ]
+        },
+        {
+            "text": "planets,",
+            "timestamp": [
+                7.28,
+                7.84
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                7.92,
+                8.16
+            ]
+        },
+        {
+            "text": "galaxies.",
+            "timestamp": [
+                8.16,
+                9.120000000000001
+            ]
+        },
+        {
+            "text": "It",
+            "timestamp": [
+                9.44,
+                9.68
+            ]
+        },
+        {
+            "text": "explores",
+            "timestamp": [
+                9.68,
+                10.24
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                10.24,
+                10.48
+            ]
+        },
+        {
+            "text": "origins,",
+            "timestamp": [
+                10.48,
+                11.040000000000001
+            ]
+        },
+        {
+            "text": "ops",
+            "timestamp": [
+                11.120000000000001,
+                11.44
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                11.52,
+                11.6
+            ]
+        },
+        {
+            "text": "zero",
+            "timestamp": [
+                11.68,
+                12.08
+            ]
+        },
+        {
+            "text": "actives",
+            "timestamp": [
+                12.16,
+                12.64
+            ]
+        },
+        {
+            "text": "into",
+            "timestamp": [
+                12.72,
+                12.8
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                13.200000000000001,
+                13.36
+            ]
+        },
+        {
+            "text": "universe,",
+            "timestamp": [
+                13.36,
+                13.92
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                14.24,
+                14.48
+            ]
+        },
+        {
+            "text": "how",
+            "timestamp": [
+                14.48,
+                14.72
+            ]
+        },
+        {
+            "text": "these",
+            "timestamp": [
+                14.72,
+                15.040000000000001
+            ]
+        },
+        {
+            "text": "objects",
+            "timestamp": [
+                15.040000000000001,
+                15.92
+            ]
+        },
+        {
+            "text": "interact.",
+            "timestamp": [
+                15.92,
+                16.4
+            ]
+        },
+        {
+            "text": "Key",
+            "timestamp": [
+                16.96,
+                17.44
+            ]
+        },
+        {
+            "text": "concepts",
+            "timestamp": [
+                17.44,
+                18.080000000000002
+            ]
+        },
+        {
+            "text": "include",
+            "timestamp": [
+                18.080000000000002,
+                18.48
+            ]
+        },
+        {
+            "text": "celestial",
+            "timestamp": [
+                18.48,
+                19.2
+            ]
+        },
+        {
+            "text": "mechanics,",
+            "timestamp": [
+                19.2,
+                19.92
+            ]
+        },
+        {
+            "text": "which",
+            "timestamp": [
+                20.240000000000002,
+                20.48
+            ]
+        },
+        {
+            "text": "studies",
+            "timestamp": [
+                20.48,
+                20.88
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                20.88,
+                21.04
+            ]
+        },
+        {
+            "text": "motion",
+            "timestamp": [
+                21.04,
+                21.52
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                21.52,
+                21.76
+            ]
+        },
+        {
+            "text": "interactions",
+            "timestamp": [
+                21.76,
+                22.400000000000002
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                22.400000000000002,
+                22.56
+            ]
+        },
+        {
+            "text": "celestial",
+            "timestamp": [
+                22.56,
+                23.36
+            ]
+        },
+        {
+            "text": "bodies,",
+            "timestamp": [
+                23.36,
+                23.92
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                24.240000000000002,
+                24.400000000000002
+            ]
+        },
+        {
+            "text": "observanomo",
+            "timestamp": [
+                24.400000000000002,
+                25.44
+            ]
+        },
+        {
+            "text": "astronomy,",
+            "timestamp": [
+                25.52,
+                26.080000000000002
+            ]
+        },
+        {
+            "text": "which",
+            "timestamp": [
+                26.32,
+                26.560000000000002
+            ]
+        },
+        {
+            "text": "uses",
+            "timestamp": [
+                26.560000000000002,
+                26.88
+            ]
+        },
+        {
+            "text": "telescopes",
+            "timestamp": [
+                26.88,
+                27.76
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                27.76,
+                27.92
+            ]
+        },
+        {
+            "text": "instruments",
+            "timestamp": [
+                27.92,
+                28.64
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                28.64,
+                28.8
+            ]
+        },
+        {
+            "text": "gather",
+            "timestamp": [
+                28.8,
+                29.12
+            ]
+        },
+        {
+            "text": "data",
+            "timestamp": [
+                29.12,
+                29.52
+            ]
+        },
+        {
+            "text": "about",
+            "timestamp": [
+                29.52,
+                29.68
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                29.68,
+                29.84
+            ]
+        },
+        {
+            "text": "colour.",
+            "timestamp": [
+                29.84,
+                30.080000000000002
+            ]
+        }
+    ]
+}

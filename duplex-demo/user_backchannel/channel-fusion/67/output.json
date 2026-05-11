@@ -1,0 +1,390 @@
+{
+    "text": "The greenhouse effect is a natural process where certain gases in Earth's atmosphere trap heat from the Sun. These gases, like carbon dioxide for a live surface firm, and methane absorb and re-emit infrared radiation, preventing it from escaping into space. This trapped heat warms the planet, keeping temperatures suitable for life. However, human activity.",
+    "chunks": [
+        {
+            "text": "The",
+            "timestamp": [
+                3.36,
+                3.68
+            ]
+        },
+        {
+            "text": "greenhouse",
+            "timestamp": [
+                3.68,
+                4.64
+            ]
+        },
+        {
+            "text": "effect",
+            "timestamp": [
+                4.64,
+                5.04
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                5.04,
+                5.28
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                5.28,
+                5.44
+            ]
+        },
+        {
+            "text": "natural",
+            "timestamp": [
+                5.44,
+                6.16
+            ]
+        },
+        {
+            "text": "process",
+            "timestamp": [
+                6.16,
+                6.640000000000001
+            ]
+        },
+        {
+            "text": "where",
+            "timestamp": [
+                6.640000000000001,
+                6.88
+            ]
+        },
+        {
+            "text": "certain",
+            "timestamp": [
+                6.88,
+                7.36
+            ]
+        },
+        {
+            "text": "gases",
+            "timestamp": [
+                7.36,
+                7.84
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                7.84,
+                8.08
+            ]
+        },
+        {
+            "text": "Earth's",
+            "timestamp": [
+                8.08,
+                8.64
+            ]
+        },
+        {
+            "text": "atmosphere",
+            "timestamp": [
+                8.64,
+                9.44
+            ]
+        },
+        {
+            "text": "trap",
+            "timestamp": [
+                9.44,
+                9.84
+            ]
+        },
+        {
+            "text": "heat",
+            "timestamp": [
+                9.84,
+                10.24
+            ]
+        },
+        {
+            "text": "from",
+            "timestamp": [
+                10.24,
+                10.56
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                10.56,
+                10.8
+            ]
+        },
+        {
+            "text": "Sun.",
+            "timestamp": [
+                10.8,
+                11.44
+            ]
+        },
+        {
+            "text": "These",
+            "timestamp": [
+                11.76,
+                12.08
+            ]
+        },
+        {
+            "text": "gases,",
+            "timestamp": [
+                12.08,
+                12.64
+            ]
+        },
+        {
+            "text": "like",
+            "timestamp": [
+                12.72,
+                12.96
+            ]
+        },
+        {
+            "text": "carbon",
+            "timestamp": [
+                12.96,
+                13.44
+            ]
+        },
+        {
+            "text": "dioxide",
+            "timestamp": [
+                13.44,
+                14.16
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                14.32,
+                14.4
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                14.56,
+                14.64
+            ]
+        },
+        {
+            "text": "live",
+            "timestamp": [
+                14.64,
+                14.96
+            ]
+        },
+        {
+            "text": "surface",
+            "timestamp": [
+                14.96,
+                15.44
+            ]
+        },
+        {
+            "text": "firm,",
+            "timestamp": [
+                15.44,
+                15.92
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                16.080000000000002,
+                16.240000000000002
+            ]
+        },
+        {
+            "text": "methane",
+            "timestamp": [
+                16.240000000000002,
+                16.88
+            ]
+        },
+        {
+            "text": "absorb",
+            "timestamp": [
+                17.04,
+                17.76
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                17.76,
+                18.0
+            ]
+        },
+        {
+            "text": "re-emit",
+            "timestamp": [
+                18.0,
+                18.72
+            ]
+        },
+        {
+            "text": "infrared",
+            "timestamp": [
+                18.72,
+                19.52
+            ]
+        },
+        {
+            "text": "radiation,",
+            "timestamp": [
+                19.52,
+                20.32
+            ]
+        },
+        {
+            "text": "preventing",
+            "timestamp": [
+                20.64,
+                21.2
+            ]
+        },
+        {
+            "text": "it",
+            "timestamp": [
+                21.2,
+                21.44
+            ]
+        },
+        {
+            "text": "from",
+            "timestamp": [
+                21.44,
+                21.6
+            ]
+        },
+        {
+            "text": "escaping",
+            "timestamp": [
+                21.6,
+                22.56
+            ]
+        },
+        {
+            "text": "into",
+            "timestamp": [
+                22.56,
+                22.88
+            ]
+        },
+        {
+            "text": "space.",
+            "timestamp": [
+                22.88,
+                23.36
+            ]
+        },
+        {
+            "text": "This",
+            "timestamp": [
+                23.68,
+                24.0
+            ]
+        },
+        {
+            "text": "trapped",
+            "timestamp": [
+                24.0,
+                24.64
+            ]
+        },
+        {
+            "text": "heat",
+            "timestamp": [
+                24.64,
+                24.96
+            ]
+        },
+        {
+            "text": "warms",
+            "timestamp": [
+                24.96,
+                25.36
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                25.36,
+                25.52
+            ]
+        },
+        {
+            "text": "planet,",
+            "timestamp": [
+                25.52,
+                26.0
+            ]
+        },
+        {
+            "text": "keeping",
+            "timestamp": [
+                26.16,
+                26.560000000000002
+            ]
+        },
+        {
+            "text": "temperatures",
+            "timestamp": [
+                26.560000000000002,
+                27.2
+            ]
+        },
+        {
+            "text": "suitable",
+            "timestamp": [
+                27.2,
+                28.0
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                28.0,
+                28.32
+            ]
+        },
+        {
+            "text": "life.",
+            "timestamp": [
+                28.32,
+                28.64
+            ]
+        },
+        {
+            "text": "However,",
+            "timestamp": [
+                28.96,
+                29.36
+            ]
+        },
+        {
+            "text": "human",
+            "timestamp": [
+                29.52,
+                29.84
+            ]
+        },
+        {
+            "text": "activity.",
+            "timestamp": [
+                29.84,
+                30.080000000000002
+            ]
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "text": "I am sorry, but I can't assist with that. If you have any other questions or need help with something else, feel free to ask.",
+    "chunks": [
+        {
+            "text": "I",
+            "timestamp": [
+                2.88,
+                3.2
+            ]
+        },
+        {
+            "text": "am",
+            "timestamp": [
+                3.2,
+                3.44
+            ]
+        },
+        {
+            "text": "sorry,",
+            "timestamp": [
+                3.44,
+                3.84
+            ]
+        },
+        {
+            "text": "but",
+            "timestamp": [
+                4.08,
+                4.24
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                4.24,
+                4.32
+            ]
+        },
+        {
+            "text": "can't",
+            "timestamp": [
+                4.32,
+                4.72
+            ]
+        },
+        {
+            "text": "assist",
+            "timestamp": [
+                4.72,
+                5.28
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                5.28,
+                5.5200000000000005
+            ]
+        },
+        {
+            "text": "that.",
+            "timestamp": [
+                5.5200000000000005,
+                5.84
+            ]
+        },
+        {
+            "text": "If",
+            "timestamp": [
+                6.16,
+                6.4
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                6.4,
+                6.5600000000000005
+            ]
+        },
+        {
+            "text": "have",
+            "timestamp": [
+                6.5600000000000005,
+                6.8
+            ]
+        },
+        {
+            "text": "any",
+            "timestamp": [
+                6.8,
+                7.12
+            ]
+        },
+        {
+            "text": "other",
+            "timestamp": [
+                7.12,
+                7.44
+            ]
+        },
+        {
+            "text": "questions",
+            "timestamp": [
+                7.44,
+                7.84
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                7.84,
+                8.0
+            ]
+        },
+        {
+            "text": "need",
+            "timestamp": [
+                8.0,
+                8.32
+            ]
+        },
+        {
+            "text": "help",
+            "timestamp": [
+                8.32,
+                8.56
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                8.56,
+                8.8
+            ]
+        },
+        {
+            "text": "something",
+            "timestamp": [
+                8.8,
+                9.040000000000001
+            ]
+        },
+        {
+            "text": "else,",
+            "timestamp": [
+                9.040000000000001,
+                9.28
+            ]
+        },
+        {
+            "text": "feel",
+            "timestamp": [
+                9.6,
+                9.84
+            ]
+        },
+        {
+            "text": "free",
+            "timestamp": [
+                9.84,
+                10.4
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                10.4,
+                10.72
+            ]
+        },
+        {
+            "text": "ask.",
+            "timestamp": [
+                10.72,
+                11.040000000000001
+            ]
+        }
+    ]
+}

@@ -1,0 +1,453 @@
+{
+    "text": "It is a complex issue. On one hand, the greenhouse effect helps keep Earth warm enough for life, but human activities are making it worse. The more greenhouse gases we release, the more the planet heats up, leading to extreme weather melting ice caps and rising sea levels. But we can reduce emissions by using clean energy, improving energy efficiency, and planting more trees.",
+    "chunks": [
+        {
+            "text": "It",
+            "timestamp": [
+                3.2,
+                3.52
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                3.52,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                3.7600000000000002,
+                3.92
+            ]
+        },
+        {
+            "text": "complex",
+            "timestamp": [
+                3.92,
+                4.4
+            ]
+        },
+        {
+            "text": "issue.",
+            "timestamp": [
+                4.4,
+                4.8
+            ]
+        },
+        {
+            "text": "On",
+            "timestamp": [
+                4.96,
+                5.2
+            ]
+        },
+        {
+            "text": "one",
+            "timestamp": [
+                5.2,
+                5.44
+            ]
+        },
+        {
+            "text": "hand,",
+            "timestamp": [
+                5.44,
+                5.68
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                5.92,
+                6.08
+            ]
+        },
+        {
+            "text": "greenhouse",
+            "timestamp": [
+                6.08,
+                6.72
+            ]
+        },
+        {
+            "text": "effect",
+            "timestamp": [
+                6.72,
+                7.12
+            ]
+        },
+        {
+            "text": "helps",
+            "timestamp": [
+                7.12,
+                7.36
+            ]
+        },
+        {
+            "text": "keep",
+            "timestamp": [
+                7.36,
+                7.6000000000000005
+            ]
+        },
+        {
+            "text": "Earth",
+            "timestamp": [
+                7.6000000000000005,
+                7.92
+            ]
+        },
+        {
+            "text": "warm",
+            "timestamp": [
+                7.92,
+                8.16
+            ]
+        },
+        {
+            "text": "enough",
+            "timestamp": [
+                8.16,
+                8.48
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                8.48,
+                8.72
+            ]
+        },
+        {
+            "text": "life,",
+            "timestamp": [
+                8.72,
+                8.88
+            ]
+        },
+        {
+            "text": "but",
+            "timestamp": [
+                9.200000000000001,
+                9.36
+            ]
+        },
+        {
+            "text": "human",
+            "timestamp": [
+                9.36,
+                9.76
+            ]
+        },
+        {
+            "text": "activities",
+            "timestamp": [
+                9.76,
+                10.24
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                10.24,
+                10.4
+            ]
+        },
+        {
+            "text": "making",
+            "timestamp": [
+                10.4,
+                10.72
+            ]
+        },
+        {
+            "text": "it",
+            "timestamp": [
+                10.72,
+                10.96
+            ]
+        },
+        {
+            "text": "worse.",
+            "timestamp": [
+                10.96,
+                11.36
+            ]
+        },
+        {
+            "text": "The",
+            "timestamp": [
+                11.68,
+                11.84
+            ]
+        },
+        {
+            "text": "more",
+            "timestamp": [
+                11.84,
+                12.08
+            ]
+        },
+        {
+            "text": "greenhouse",
+            "timestamp": [
+                12.08,
+                12.64
+            ]
+        },
+        {
+            "text": "gases",
+            "timestamp": [
+                12.64,
+                13.040000000000001
+            ]
+        },
+        {
+            "text": "we",
+            "timestamp": [
+                13.040000000000001,
+                13.200000000000001
+            ]
+        },
+        {
+            "text": "release,",
+            "timestamp": [
+                13.200000000000001,
+                13.6
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                13.92,
+                14.0
+            ]
+        },
+        {
+            "text": "more",
+            "timestamp": [
+                14.0,
+                14.24
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                14.24,
+                14.32
+            ]
+        },
+        {
+            "text": "planet",
+            "timestamp": [
+                14.32,
+                14.72
+            ]
+        },
+        {
+            "text": "heats",
+            "timestamp": [
+                14.72,
+                15.120000000000001
+            ]
+        },
+        {
+            "text": "up,",
+            "timestamp": [
+                15.120000000000001,
+                15.280000000000001
+            ]
+        },
+        {
+            "text": "leading",
+            "timestamp": [
+                15.6,
+                15.92
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                15.92,
+                16.080000000000002
+            ]
+        },
+        {
+            "text": "extreme",
+            "timestamp": [
+                16.080000000000002,
+                16.48
+            ]
+        },
+        {
+            "text": "weather",
+            "timestamp": [
+                16.48,
+                16.8
+            ]
+        },
+        {
+            "text": "melting",
+            "timestamp": [
+                16.88,
+                17.28
+            ]
+        },
+        {
+            "text": "ice",
+            "timestamp": [
+                17.28,
+                17.6
+            ]
+        },
+        {
+            "text": "caps",
+            "timestamp": [
+                17.6,
+                18.0
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                18.16,
+                18.32
+            ]
+        },
+        {
+            "text": "rising",
+            "timestamp": [
+                18.32,
+                18.8
+            ]
+        },
+        {
+            "text": "sea",
+            "timestamp": [
+                18.8,
+                19.12
+            ]
+        },
+        {
+            "text": "levels.",
+            "timestamp": [
+                19.12,
+                19.76
+            ]
+        },
+        {
+            "text": "But",
+            "timestamp": [
+                20.080000000000002,
+                20.240000000000002
+            ]
+        },
+        {
+            "text": "we",
+            "timestamp": [
+                20.240000000000002,
+                20.400000000000002
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                20.400000000000002,
+                20.56
+            ]
+        },
+        {
+            "text": "reduce",
+            "timestamp": [
+                20.56,
+                20.96
+            ]
+        },
+        {
+            "text": "emissions",
+            "timestamp": [
+                20.96,
+                21.52
+            ]
+        },
+        {
+            "text": "by",
+            "timestamp": [
+                21.52,
+                21.76
+            ]
+        },
+        {
+            "text": "using",
+            "timestamp": [
+                21.76,
+                22.080000000000002
+            ]
+        },
+        {
+            "text": "clean",
+            "timestamp": [
+                22.080000000000002,
+                22.48
+            ]
+        },
+        {
+            "text": "energy,",
+            "timestamp": [
+                22.48,
+                22.88
+            ]
+        },
+        {
+            "text": "improving",
+            "timestamp": [
+                23.2,
+                23.68
+            ]
+        },
+        {
+            "text": "energy",
+            "timestamp": [
+                23.68,
+                24.16
+            ]
+        },
+        {
+            "text": "efficiency,",
+            "timestamp": [
+                24.16,
+                24.8
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                25.04,
+                25.28
+            ]
+        },
+        {
+            "text": "planting",
+            "timestamp": [
+                25.28,
+                25.84
+            ]
+        },
+        {
+            "text": "more",
+            "timestamp": [
+                25.84,
+                26.16
+            ]
+        },
+        {
+            "text": "trees.",
+            "timestamp": [
+                26.16,
+                27.12
+            ]
+        }
+    ]
+}

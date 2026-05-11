@@ -1,0 +1,40 @@
+{
+    "text": "Explain time travel theories completely.",
+    "chunks": [
+        {
+            "text": "Explain",
+            "timestamp": [
+                0.08,
+                0.56
+            ]
+        },
+        {
+            "text": "time",
+            "timestamp": [
+                0.56,
+                0.64
+            ]
+        },
+        {
+            "text": "travel",
+            "timestamp": [
+                0.8,
+                1.12
+            ]
+        },
+        {
+            "text": "theories",
+            "timestamp": [
+                1.12,
+                1.52
+            ]
+        },
+        {
+            "text": "completely.",
+            "timestamp": [
+                1.52,
+                2.48
+            ]
+        }
+    ]
+}
