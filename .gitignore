@@ -1,0 +1,15 @@
+_site
+.bundle
+.DS_store
+.idea
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+.tweet-cache
+.venv
+assets/libs/
+al-folio-upgrade-report.md
+node_modules/
+output/playwright/
+test-results/
+vendor
