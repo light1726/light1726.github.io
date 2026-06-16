@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["style.scss"],"names":[],"mappings":"AAAA,MACI,YAGJ","sourcesContent":["audio {\n width: 100px;\n}\n\naudio:hover {transform: scale(1.1);filter: drop-shadow(2px 3px 3px #333);}\n"],"file":"style.css"}
