@@ -89,6 +89,8 @@ jobs:
           cache: "npm"
       - name: Install JS deps 📦
         run: npm ci
+      - name: Configure Pages ⚙️
+        uses: actions/configure-pages@v5
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
