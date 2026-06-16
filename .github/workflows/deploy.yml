@@ -58,9 +58,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: "pages"
@@ -108,20 +106,13 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
-      - name: Upload Pages artifact 📦
+      - name: Add .nojekyll marker 🧾
         if: github.event_name != 'pull_request'
-        uses: actions/upload-pages-artifact@v3
+        run: touch _site/.nojekyll
+      - name: Deploy to gh-pages 🚀
+        if: github.event_name != 'pull_request'
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          path: _site
-
-  deploy:
-    if: github.event_name != 'pull_request'
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages 🚀
-        id: deployment
-        uses: actions/deploy-pages@v4
+          branch: gh-pages
+          folder: _site
+          clean: true
